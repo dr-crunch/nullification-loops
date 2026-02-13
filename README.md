@@ -65,10 +65,10 @@ The following is a comprehensive inventory of the files identified within the "G
 ### **III. Highlights from Annex II of the Formal Complaint**
 
 * **pearse-doherty-annex.png**: Long-term engagement with Pearse Doherty (dating back to 2008\).  
-* **Mairéad-Farrell-annex.png**: Mairéad Farrell the dates she was contacted regarding Operations Research.  
+* **Mairéad-Farrell-annex.png**: Mairéad Farrell was contacted regarding Operations Research in 2020 (See "The Community Call").  
 * **mary-lou-mcdonald.png**: Documentation of historical contact with Mary Lou McDonald (starting in May 2008\).  
 * **paul-murphy-annex.png**: Paul Murphy also appears in Annex II.  
-* **holly-cairns-annex.png**: Ms Holly Cairns is named on list of the same 57 non-office holding deputies named in the complaint.
+* **holly-cairns-annex.png**: Ms Holly Cairns is named on a list of 57 non-office holding deputies named in the complaint.
 
 Annex II is available here:  
 https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f
