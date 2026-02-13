@@ -61,15 +61,23 @@ The following is a comprehensive inventory of the files identified within the "G
 * **thomas-byrne-email-community-call.png**: A record of correspondence with Thomas Byrne regarding Operations Research in Irish governance and pandemic preparedness.  
 * **holly-cairns-emails.png**: Documentation of communications with Holly Cairns concerning legislative action on governance failure.  
 * **jcpp-emails.png**: A record of substantive submissions to the Joint Committee on Public Petitions, noted in accompanying documents as having received no response.  
-* \+1
 
-### **III. Supplemental Annexes & Lists**
+### **III. Highlights from Annex II of the Formal Complaint**
 
-* **pearse-doherty-annex.png**: An evidentiary annex documenting long-term engagement with Pearse Doherty (dating back to 2008\) and other deputies.  
-* **Mairéad-Farrell-annex.png**: An annex listing several deputies, including Mairéad Farrell and Michael Fitzmaurice, and the dates they were contacted regarding Operations Research.  
-* **mary-lou-mcdonald.png**: Documentation of historical contact with Mary Lou McDonald (starting in May 2008\) and other representatives.  
-* **paul-murphy-annex.png**: A listing of various deputies, including Paul Murphy and Gerald Nash, noting their involvement or receipt of formal complaints.  
-* **holly-cairns-annex.png**: A list of non-office holding deputies named in the complaint, including Richard Boyd Barrett and Holly Cairns.  
+* **pearse-doherty-annex.png**: Long-term engagement with Pearse Doherty (dating back to 2008\).  
+* **Mairéad-Farrell-annex.png**: Mairéad Farrell the dates she was contacted regarding Operations Research.  
+* **mary-lou-mcdonald.png**: Documentation of historical contact with Mary Lou McDonald (starting in May 2008\).  
+* **paul-murphy-annex.png**: Paul Murphy also appears in Annex II.  
+* **holly-cairns-annex.png**: Ms Holly Cairns is named on list of the same 57 non-office holding deputies named in the complaint.
+
+Annex II is available here:
+https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f
+
+Repository of the Full Formal Complaint:
+https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
+
+### **IV. Supporting Material**
+
 * **scathan-agus-splanc-phainocratic-nullification-loops.png**: Visual nullification loops (via the abstract particle physics design). *Scáthán agus Splanc* is Irish for 'Mirrors and Flash'
 
 *Dealraithachas agus Riarachánachas*: [Governmentality 2025](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
