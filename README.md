@@ -70,10 +70,10 @@ The following is a comprehensive inventory of the files identified within the "G
 * **paul-murphy-annex.png**: Paul Murphy also appears in Annex II.  
 * **holly-cairns-annex.png**: Ms Holly Cairns is named on list of the same 57 non-office holding deputies named in the complaint.
 
-Annex II is available here:
+Annex II is available here:  
 https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f
 
-Repository of the Full Formal Complaint:
+Repository of the Full Formal Complaint:  
 https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
 
 ### **IV. Supporting Material**
