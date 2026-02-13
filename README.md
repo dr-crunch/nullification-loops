@@ -78,6 +78,6 @@ https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
 
 ### **IV. Supporting Material**
 
-* **scathan-agus-splanc-phainocratic-nullification-loops.png**: Visual nullification loops (via the abstract particle physics design). *Scáthán agus Splanc* is Irish for 'Mirrors and Flash'
+* **scathan-agus-splanc-phainocratic-nullification-loops.png**: Visual nullification loops (B&W abstract particle physics design). *Scáthán agus Splanc* is Irish for 'Mirrors and Flash'
 
 *Dealraithachas agus Riarachánachas*: [Governmentality 2025](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
