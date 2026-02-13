@@ -1,4 +1,4 @@
-![nullification-loops](https://github.com/dr-crunch/nullification-loops/blob/main/scathan-agus-splanc-phainocratic-nullification-loops.png)
+![nullification-loops](https://github.com/dr-crunch/nullification-loops/blob/main/scathan-agus-splanc-phainocratic-nullification-loops-v2.png)
 # nullification-loops
 Scáthan agus Splánc (Public Landing Page)  
 
