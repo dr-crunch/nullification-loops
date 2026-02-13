@@ -1,6 +1,6 @@
 ![nullification-loops](https://github.com/dr-crunch/nullification-loops/blob/main/scathan-agus-splanc-phainocratic-nullification-loops.png)
 # nullification-loops
-Scathan agus Splanc (Public Landing Page)  
+Scáthan agus Splánc (Public Landing Page)  
 
 The following table cross-references the identified files with their corresponding direct links found within the provided documentation and the "Governmentality 2026" folder:
 
@@ -80,4 +80,4 @@ https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
 
 * **scathan-agus-splanc-phainocratic-nullification-loops.png**: Visual nullification loops (B&W abstract particle physics design). *Scáthán agus Splanc* is Irish for 'Mirrors and Flash'
 
-*Dealraithachas agus Riarachánachas*: [Governmentality 2025](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+*Dealraitheachas agus Riarachánachas*: [Governmentality 2025](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
