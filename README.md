@@ -56,19 +56,19 @@ The following is a comprehensive inventory of the files identified within the "G
 
 ### **II. Evidentiary Records & Communication Logs (Image Files)**
 
-* **albert-dolan-emails.png**: A log of communications with Albert Dolan TD, including pre-litigation notices and survey requests from February 2026 and earlier.  
-* **louise-oreilly-emails.png**: Documentation of emails to Louise O'Reilly TD spanning from March 2020 to February 2026, covering topics from pandemic preparedness to governance failure.  
-* **thomas-byrne-email-community-call.png**: A record of correspondence with Thomas Byrne regarding Operations Research in Irish governance and pandemic preparedness.  
-* **holly-cairns-emails.png**: Documentation of communications with Holly Cairns concerning legislative action on governance failure.  
-* **jcpp-emails.png**: A record of substantive submissions to the Joint Committee on Public Petitions, noted in accompanying documents as having received no response.  
+* **albert-dolan-emails.png**: A log of communications with Mr Albert Dolan TD, including pre-litigation notices and survey requests from February 2026 and earlier.  
+* **louise-oreilly-emails.png**: Documentation of emails to Ms Louise O'Reilly TD spanning from March 2020 to February 2026, covering topics from pandemic preparedness to governance failure.  
+* **thomas-byrne-email-community-call.png**: A record of correspondence with Minister of State Thomas Byrne regarding Operations Research in Irish governance and pandemic preparedness.  
+* **holly-cairns-emails.png**: Documentation of communications with Ms Holly Cairns TD concerning legislative action on governance failure.  
+* **jcpp-emails.png**: A record of substantive submissions to the Joint Committee on Public Petitions (JCPP), noted in accompanying documents as having received no response.  
 
 ### **III. Highlights from Annex II of the Formal Complaint**
 
-* **pearse-doherty-annex.png**: Long-term engagement with Pearse Doherty (dating back to 2008\).  
-* **Mairéad-Farrell-annex.png**: Mairéad Farrell was contacted regarding Operations Research in 2020 (See "The Community Call").  
-* **mary-lou-mcdonald.png**: Documentation of historical contact with Mary Lou McDonald (starting in May 2008\).  
-* **paul-murphy-annex.png**: Paul Murphy also appears in Annex II.  
-* **holly-cairns-annex.png**: Ms Holly Cairns is named on a list of 57 non-office holding deputies named in the complaint.
+* **pearse-doherty-annex.png**: Long-term engagement with Mr Pearse Doherty TD (dating back to 2008\).  
+* **Mairéad-Farrell-annex.png**: Ms Mairéad Farrell TD was contacted regarding Operations Research in 2020 (See "The Community Call").  
+* **mary-lou-mcdonald.png**: Documentation of historical contact with Ms Mary Lou McDonald TD (starting in May 2008\).  
+* **paul-murphy-annex.png**: Mr Paul Murphy TD also appears in Annex II.  
+* **holly-cairns-annex.png**: Ms Holly Cairns TD is named on a list of 57 non-office holding deputies named in the complaint.
 
 Annex II is available here:  
 https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f
