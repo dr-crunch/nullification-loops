@@ -40,10 +40,14 @@ The following table cross-references the identified files with their correspondi
 
 The following repository links were extracted from the formal "Request for Assistance" documents:
 
-* **Main Repository**: [https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g](https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g)  
-* **Repository of Formal Complaint**: [https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS](https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS)  
-* **Support material for Memorandum E**: [https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy](https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy)  
-* **Historical Repository**: [https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl\_PH0zTNqO3JaURrh](https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh)
+* **Main Repository**:  
+  [https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g](https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g)  
+* **Repository of Formal Complaint**:
+  [https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS](https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS)  
+* **Support material for Memorandum E**:  
+  [https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy](https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy)  
+* **Historical Repository**:
+  [https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl\_PH0zTNqO3JaURrh](https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh)
 
 The following is a comprehensive inventory of the files identified within the "Governmentality 2026" folder:
 
