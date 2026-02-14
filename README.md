@@ -38,7 +38,7 @@ The following table cross-references the identified files with their correspondi
 
 ### **IV. Core Evidence Repositories (External Links)**
 
-The following repository links were extracted from the formal "Request for Assistance" documents:
+The following repositories house the historical documents:
 
 * **Main Repository**:  
   [https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g](https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g)
