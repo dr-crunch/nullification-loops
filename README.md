@@ -50,6 +50,10 @@ The following repositories house the historical documents:
 * **Historical Repository**:  
   [https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl\_PH0zTNqO3JaURrh](https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh)
 
+## Descriptions and Correspondences
+
+These documents outline a protracted governance and legal dispute between a private citizen and the Irish State regarding the alleged suppression of Operations Research methodologies. The author argues that various Irish institutions and officials, including EU Commissioner Michael McGrath, have systematically ignored a formal complaint that has persisted for nearly two decades. Central to the grievances is the claim that the Oireachtas petition mechanism has failed to function, creating a "procedural void" that violates both the Irish Constitution and EU law. The materials include pre-litigation notices, emails to several Members of the European Parliament, and detailed records of unacknowledged correspondence sent to parliamentary committees. Ultimately, the sources warn that this failure of institutional accountability will cause significant reputational damage to Ireland during its 2026 EU Council Presidency. This collection serves as a formal evidence base intended to trigger judicial review or international intervention.
+
 The following is a comprehensive inventory of the files identified within the "Governmentality 2026" folder:
 
 ### **I. Correspondence & Formal Submissions (PDF Documents)**
