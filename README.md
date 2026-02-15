@@ -34,6 +34,7 @@ The following table cross-references the identified files with their correspondi
 | **mary-lou-mcdonald.png** | [mary-lou-mcdonald.png](https://drive.google.com/file/d/18UrtGmGZjhXduj3MrxvKj49BVh9Kf708) |
 | **paul-murphy-annex.png** | [paul-murphy-annex.png](https://drive.google.com/file/d/1_63M0Cae4bbcCRnrbOnudvJraPqgC1_5) |
 | **holly-cairns-annex.png** | [holly-cairns-annex.png](https://drive.google.com/file/d/1dIuHm_ms69_Hrt2FGzIIH90hOMMSB9Ew) |
+| **roderic-o-gorman-annex.png** | [roderic-o-gorman-annex.png](https://drive.google.com/file/d/1RJUxXAvKUMTBlFFz-rqZ_Zy5oxvrTJ1u) |
 | **scathan-agus-splanc-phainocratic-nullification-loops.png** | [scathan-agus-splanc-phainocratic-nullification-loops.png](https://drive.google.com/file/d/1w7lt-jj_2EZQUi8NPGEWb9nzUntCZgpV/view?usp=drive_link) |
 
 ### **IV. Core Evidence Repositories (External Links)**
@@ -98,7 +99,9 @@ The following is a comprehensive inventory of the files identified within the "G
 * **mary-lou-mcdonald.png**: Documentation of historical contact with Ms Mary Lou McDonald TD (starting in May 2008\).  
 * **paul-murphy-annex.png**: Mr Paul Murphy TD also appears in Annex II.  
 * **holly-cairns-annex.png**: Ms Holly Cairns TD is named on a list of 57 non-office holding deputies named in the complaint.
+* **roderic-o-gorman-annex.png** Mr Roderic O'Gorman TD, Green Party.
 
+  
 Annex II is available here:  
 https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f
 
