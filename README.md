@@ -24,7 +24,7 @@ The following table cross-references the identified files with their correspondi
 | **thomas-byrne-email-community-call.png** | [thomas-byrne-email-community-call.png](https://drive.google.com/file/d/1kTTKUzNVvVqCTqt6yFOMIVb-fNkZ8wIj) |
 | **holly-cairns-emails.png** | [holly-cairns-emails.png](https://drive.google.com/file/d/1u4aB4-UtCUZlqwws5sQu6C0xALPSz8LQ) |
 | **jcpp-emails.png** | [jcpp-emails.png](https://drive.google.com/file/d/17V0pdruGcOmNn4o6l7GErXcRyTeH_CMd) |
-| **neale-richmond-emails-tall.png** | [neale-richmone-emails-tall.png](https://drive.google.com/file/d/1YB4c34mM5N42gCX4boR6tefdqCKu_slZ) |
+| **neale-richmond-emails-tall.png** | [neale-richmond-emails-tall.png](https://drive.google.com/file/d/1YB4c34mM5N42gCX4boR6tefdqCKu_slZ) |
 
 ### **III. Supplemental Annexes & Repository Links**
 
@@ -36,7 +36,7 @@ The following table cross-references the identified files with their correspondi
 | **paul-murphy-annex.png** | [paul-murphy-annex.png](https://drive.google.com/file/d/1_63M0Cae4bbcCRnrbOnudvJraPqgC1_5) |
 | **holly-cairns-annex.png** | [holly-cairns-annex.png](https://drive.google.com/file/d/1dIuHm_ms69_Hrt2FGzIIH90hOMMSB9Ew) |
 | **roderic-o-gorman-annex.png** | [roderic-o-gorman-annex.png](https://drive.google.com/file/d/1RJUxXAvKUMTBlFFz-rqZ_Zy5oxvrTJ1u) |
-| **scathan-agus-splanc-phainocratic-nullification-loops.png** | [scathan-agus-splanc-phainocratic-nullification-loops.png](https://drive.google.com/file/d/1w7lt-jj_2EZQUi8NPGEWb9nzUntCZgpV/view?usp=drive_link) |
+| **scathan-agus-splanc-phainocratic-nullification-loops.png** | [scathan-agus-splanc-phainocratic-nullification-loops.png](https://drive.google.com/file/d/1w7lt-jj_2EZQUi8NPGEWb9nzUntCZgpV) |
 
 ### **IV. Core Evidence Repositories (External Links)**
 
