@@ -2,6 +2,10 @@
 # nullification-loops
 Scáthan agus Splánc: Ireland’s Constitutional and Technical Crisis (Public Landing Page)  
 
+Phainocratic: governing through the preservation of appearances rather than through substantive correction.  
+
+See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for full definition.
+
 The following table cross-references the identified files with their corresponding direct links found within the provided documentation and the "Governmentality 2026" folder:
 
 [Full Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
