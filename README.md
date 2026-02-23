@@ -86,8 +86,25 @@ The following is a comprehensive inventory of the files identified within the "G
 
 * **Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms.pdf**: A comprehensive overview dated February 12, 2026, addressed to the Joint Committee on Public Petitions (JCPP) and the Ombudsmen. It details a nineteen-year pattern of administrative non-response regarding Operations Research governance failures.  
 * **Request for Assistance — Institutional Non-Response & Governance Accountability.pdf**: Correspondence dated February 12, 2026, to MEP Barry Andrews seeking assistance with institutional accountability regarding Commissioner Michael McGrath’s alleged non-response to constituent concerns.  
-* **Request for Assistance — EU Commissioner Non-Response to Irish Constituent.pdf**: Correspondence dated February 12, 2026, to MEP Lynn Boylan regarding the same pattern of non-response by Commissioner Michael McGrath.  
+* **Request for Assistance — EU Commissioner Non-Response.pdf**: Correspondence dated February 12, 2026, to MEP Lynn Boylan regarding the same pattern of non-response by Commissioner Michael McGrath.  
 * **Request for Assistance — Rule of Law Concerns & Commissioner Non-Response.pdf**: Correspondence dated February 12, 2026, to MEP Aodhán Ó Ríordáin highlighting rule-of-law concerns and requesting parliamentary intervention.
+
+| MEP | Party | Status | Date Sent | Subject Line |
+|-----|-------|--------|-----------|--------------|
+| Barry Andrews | Fianna Fáil / Renew | Sent — No Response | 12 Feb 2026 | *Request for Assistance — Institutional Non-Response & Governance Accountability* |
+| Lynn Boylan | Sinn Féin / The Left | Sent — No Response | 12 Feb 2026 | *Request for Assistance — EU Commissioner Non-Response* |
+| Aodhán Ó Ríordáin | Labour / S&D | Sent — No Response | 12 Feb 2026 | *Request for Assistance — Rule of Law Concerns & Commissioner Non-Response* |
+| Michael McNamara | Independent / Renew | Sent — No Response | 23 Feb 2026 | *Request for Assistance — Rule of Law Concerns & Commissioner Non-Response* |
+| Luke 'Ming' Flanagan | Independent / The Left | Sent — No Response | 23 Feb 2026 | *Irish Governance Failure with AGRI and CONT Implications: Commissioner McGrath Non-Response* |
+| Barry Cowen | Fianna Fáil / Renew | Sent — No Response | 23 Feb 2026 | *EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance* |
+| Billy Kelleher | Fianna Fáil / Renew | Sent — No Response | 23 Feb 2026 | *EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance* |
+| Cynthia Ní Mhurchú | Fianna Fáil / Renew | Sent — No Response | 23 Feb 2026 | *EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance* |
+| Kathleen Funchion | Sinn Féin / The Left | Not Yet Contacted | — | — |
+| Maria Walsh | Fine Gael / EPP | Not Yet Contacted | — | — |
+| Regina Doherty | Fine Gael / EPP | Not Yet Contacted | — | — |
+| Seán Kelly | Fine Gael / EPP | Not Yet Contacted | — | — |
+| Nina Carberry | Fine Gael / EPP | Not Yet Contacted | — | — |
+| Ciaran Mullooly | Independent / Renew | Not Yet Contacted | — | — |
 
 ### **II. Evidentiary Records & Communication Logs (Image Files)**
 
