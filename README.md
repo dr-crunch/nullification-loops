@@ -278,7 +278,7 @@ A functioning opposition is integral to this architecture. Its constitutional ro
 
 Where a department does not determine, the opposition is procedurally equipped to require that it do so. Parliamentary instruments exist precisely to prevent indeterminate administrative states from persisting across electoral cycles.
 
-The evidentiary anchors of **2008** and **2020** therefore mark two materially different political contexts—distinct governments, distinct oppositions, distinct public crises—yet in both instances formal legislative activation did not occur. This observation is institutional rather than partisan. The accountability structure depends on reciprocal operation between executive and opposition. Where awareness is present but procedural activation is absent, that reciprocal structure attenuates.
+The evidentiary anchors of **2008** and **2020** therefore mark two materially different political contexts: distinct governments, distinct oppositions, distinct public crises—yet in both instances formal legislative activation did not occur. This observation is institutional rather than partisan. The accountability structure depends on reciprocal operation between executive and opposition. Where awareness is present but procedural activation is absent, that reciprocal structure attenuates.
 
 All members of the 33rd Dáil received direct notification in March 2020. Despite full awareness during a period of national crisis, **not one deputy acted or acknowledged the content**.
 
