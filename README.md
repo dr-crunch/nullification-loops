@@ -40,8 +40,24 @@ This repository documents that nullification with forensic precision.
 **When the committee charged with petition oversight refuses to acknowledge petitions,**  
 **the constitutional right of petition is nullified at its source.**
 
-🇪🇺 **Ireland Assumes EU Council Presidency July 2026**
+🇪🇺 **Ireland Assumes EU Council Presidency July 2026**  
+**MEP Barry Andrews** — *Institutional Accountability Specialist*
 
+**Document**: `Request for Assistance — Institutional Non-Response & Governance Accountability.pdf`  
+**Date**: 12 February 2026  
+**Role**: Chair of Development Committee, former IIEA Director, institutional knowledge of Irish-EU interface
+
+**Key Passage**:
+> "Commissioner McGrath (Democracy, Justice, Rule of Law) was first informed of these governance concerns in March 2020, when he was a sitting TD. That initial contact was part of a formal 'Community Call' circulated to all deputies during the pandemic. While disaster preparedness, crisis management, infrastructure resilience remain key issues, there are other critical concerns as well—not only for Ireland but for the other EU member states.
+> 
+> I have submitted correspondence to Mr McGrath's office on multiple occasions regarding the continued governance failure, now with direct EU-law implications:
+> — 27 November 2025: Request for Executive-Level Coordination  
+> — 13 December 2025: Follow-Up on Operations Research in Irish Governance  
+> — 4 February 2026: Follow-Up on Governance Paralysis Under EU Obligations
+> 
+> **I have yet to receive any acknowledgment whatsoever.**"
+
+**Supplemental Element**: Former Director General of IIEA, MEP Barry Andrews' institutional knowledge makes ignorance impossible. **His silence after receipt implicates him in the cover.**
 </div>
 
 ---
