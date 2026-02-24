@@ -37,9 +37,6 @@ When:
 
 This repository documents that nullification with forensic precision.
 
-**When the committee charged with petition oversight refuses to acknowledge petitions,**  
-**the constitutional right of petition is nullified at its source.**
-
 🇪🇺 **Ireland Assumes EU Council Presidency July 2026**  
 **MEP Barry Andrews** — *Institutional Accountability Specialist*
 
