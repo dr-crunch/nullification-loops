@@ -145,7 +145,7 @@ When the committee specifically charged with oversight of petition mechanisms re
 | **jcpp-emails.png** | [jcpp-emails.png](https://drive.google.com/file/d/17V0pdruGcOmNn4o6l7GErXcRyTeH_CMd) |
 | **neale-richmond-emails-tall.png** | [neale-richmond-emails-tall.png](https://drive.google.com/file/d/1YB4c34mM5N42gCX4boR6tefdqCKu_slZ) |
 
-### **III. Supplemental Annexes & Repository Links**
+### **III. Highlights from Annex II**
 
 | File Name / Resource | Direct Link / Source Reference |
 | :---- | :---- |
@@ -155,9 +155,14 @@ When the committee specifically charged with oversight of petition mechanisms re
 | **paul-murphy-annex.png** | [paul-murphy-annex.png](https://drive.google.com/file/d/1_63M0Cae4bbcCRnrbOnudvJraPqgC1_5) |
 | **holly-cairns-annex.png** | [holly-cairns-annex.png](https://drive.google.com/file/d/1dIuHm_ms69_Hrt2FGzIIH90hOMMSB9Ew) |
 | **roderic-o-gorman-annex.png** | [roderic-o-gorman-annex.png](https://drive.google.com/file/d/1RJUxXAvKUMTBlFFz-rqZ_Zy5oxvrTJ1u) |
-| **scathan-agus-splanc-phainocratic-nullification-loops.png** | [scathan-agus-splanc-phainocratic-nullification-loops.png](https://drive.google.com/file/d/1w7lt-jj_2EZQUi8NPGEWb9nzUntCZgpV) |
 
-### **IV. Core Evidence Repositories (External Links)**
+### **IV. Other Resources**
+
+| File Name / Resource | Direct Link / Source Reference |
+| :---- | :---- |
+| **scathan-agus-splanc-phainocratic-nullification-loops.png** | [scathan-agus-splanc-phainocratic-nullification-loops.png](https://drive.google.com/file/d/1w7lt-jj_2EZQUi8NPGEWb9nzUntCZgpV) 
+
+### **V. Core Evidence Repositories (External Links)**
 
 The following repositories house the historical documents:
 
