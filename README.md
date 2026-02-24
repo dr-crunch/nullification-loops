@@ -180,15 +180,15 @@ The following repositories house the historical documents:
 
 *The Systemic Nullification Loop*  
 
-The correspondence confirms that this is indeed a **"complicated problem"** characterised by **multiple fissures** that have converged into what is described as a **"systemic nullification loop"** . The sources suggest that because these issues are structurally linked, they cannot be resolved in isolation, and the sender is pursuing **parallel tracks** for a comprehensive resolution.  
+The correspondence confirms that this is indeed a **"complicated problem"** characterised by **multiple fissures** that have converged into what is described as a **"systemic nullification loop"**. The analysis suggests that, because these issues are structurally linked, they cannot be resolved in isolation, and the sender is pursuing **parallel tracks** for a comprehensive resolution.  
 
 The primary fissures identified in the sources include:  
 
-• **The Technical and Regulatory Fissure:** For nineteen years, the State has allegedly failed to evaluate Operations Research (O.R.) methodologies that possess recognised **dual-use characteristics** under **EU Regulation 428/2009**. The sender argues that this is a textbook failure of technical oversight in sectors like national security and disaster preparedness.  
+• **The Technical and Regulatory Fissure:** For nineteen years, the State has failed to evaluate Operations Research (O.R.) methodologies that possess recognised **dual-use characteristics** under **EU Regulation 428/2009**. The sender argues that this is a textbook failure of technical oversight in sectors like national security and disaster preparedness.  
 
 • **The Constitutional Fissure:** A major conflict exists regarding the **Section 8(3) determination** by the Clerk of the Dáil, which has been asserted as "final and unreviewable". The sender contends this creates a procedural void that violates constitutional principles of **natural justice** and the right to an **effective remedy** under the Charter of Fundamental Rights.  
 
-• **The Institutional Fissure:** There is a documented breakdown in the **parliamentary petition mechanism**, where multiple Oireachtas committees have declined jurisdiction or maintained "total institutional silence" . This "Silence Veto" is presented as a structural failure where the State machinery recognises a risk but refuses to direct, temper or match the information.  
+• **The Institutional Fissure:** There is a documented breakdown in the **parliamentary petition mechanism**, where multiple Oireachtas committees have declined jurisdiction or maintained total institutional silence. This "Silence Veto" is presented as a structural failure where the State machinery recognises a risk but refuses to direct, temper or match the information.  
 
 • **The European Law and Sovereignty Fissure:** The sender argues that Ireland cannot fulfill its obligations as a lead **GDPR regulator** or exercise true data sovereignty for EU citizens without the analytical O.R. tools it has persistently ignored. This fissure is further complicated by the impending **2026 EU Council Presidency**, which the sender warns will expose Ireland to **"structural reputational risk"** if these breaches are not resolved.  
 
