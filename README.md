@@ -317,11 +317,11 @@ The following is a comprehensive inventory of the files identified within the "G
 
 The matter was referred to the Joint Committee on Public Petitions and the Ombudsmen on multiple occasions.
 
-The MEP list already seems well established as being futile communications: looking into the EU potential of oversight, is oversight merely hypothetical. What is it? How are motions forwarded, bills passed, charters ratified?
+The MEP list already seems well established as being futile communications: looking into the EU stadards of accountability, is this oversight merely hypothetical —what is it? How are motions forwarded, bills passed, charters ratified?
 
 Here are the named members of EU Parliament who can be considered in breach of both their national duties and union benefits.
 
-It persists until a body with recognised legal authority —domestic court or the Court of Justice of the European Union— compels the completion of the decision function.
+It persists until a body with recognised legal authority (e.g. Irish High Court or the Court of Justice of the European Union) compels the completion of the decision function.
 The impasse is structural, not episodic.
 
 
@@ -344,8 +344,8 @@ The impasse is structural, not episodic.
 
 ### **II. Evidentiary Records & Communication Logs (Image Files)**
 
-* **albert-dolan-emails.png**: A log of communications with Mr Albert Dolan TD, including pre-litigation notices and survey requests from February 2026 and earlier.  
-* **louise-oreilly-emails.png**: Documentation of emails to Ms Louise O'Reilly TD spanning from March 2020 to February 2026, covering topics from pandemic preparedness to governance failure.  
+* **albert-dolan-emails.png**: A log of communications with Mr Albert Dolan TD (Leas-Cathaoirleach, Committee on Public Petitions and the Ombudsmen) including pre-litigation notices and survey requests from February 2026 and earlier.  
+* **louise-oreilly-emails.png**: Documentation of emails to Ms Louise O'Reilly TD (Chathaoirleach, Committee on Public Petitions and the Ombudsmen) spanning from March 2020 to February 2026, covering topics from pandemic preparedness to governance failure.  
 * **thomas-byrne-email-community-call.png**: A record of correspondence with Minister of State Thomas Byrne regarding Operations Research in Irish governance and pandemic preparedness.  
 * **holly-cairns-emails.png**: Documentation of communications with Ms Holly Cairns TD concerning legislative action on governance failure.
 * **neale-richmond-emails-tall.png**: Multiple, clear signals to aid and resolve the matter; silence since 2020. NB: Minister Richmond is named on the Annex II Supplemental List. 
