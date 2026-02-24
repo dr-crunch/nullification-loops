@@ -299,10 +299,6 @@ All members of the 33rd Dáil received direct notification in March 2020. Despit
 
 The official opposition, over many political epoques, was fully briefed —on timely matters; there are many other such cases. All parties were briefed —all leadership included. *Zero uptake.*
 
----
-
-## Portfolio Diffusion & Accountability Gap
-
 The matter intersects:
 - Humanitarian logistics (Irish Aid)
 - Emergency planning coordination (OEP)
