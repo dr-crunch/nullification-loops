@@ -247,7 +247,9 @@ We are witnessing the effective rollover of a broken vehicle for development and
 
 ### Non-Office Holders: Universal Awareness, Zero Action
 
-**Mary Lou McDonald TD** was among the first contacted:
+Beyond the offices directly implicated in departmental custody, the record demonstrates sustained parliamentary awareness across electoral cycles.
+
+**Mary Lou McDonald TD** was notified at an early stage:
 - May 30, 2008: *Operations Research*
 - September 16, 2008: *Related Information*
 - July 17, 2009: *Development Cooperation and Human Rights?*
