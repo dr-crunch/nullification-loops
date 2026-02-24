@@ -326,10 +326,6 @@ The MEP list already seems well established as being futile communications: look
 
 Here are the named members of EU Parliament who can be considered in breach of both their national duties and union benefits.
 
-It persists until a body with recognised legal authority (e.g. Irish High Court or the Court of Justice of the European Union) compels the completion of the decision function.
-The impasse is structural, not episodic.
-
-
 | MEP | Party | Status | Date Sent | Subject Line |
 |-----|-------|--------|-----------|--------------|
 | Barry Andrews | Fianna Fáil / Renew | Sent — No Response | 12 Feb 2026 | *Request for Assistance — Institutional Non-Response & Governance Accountability* |
@@ -346,6 +342,11 @@ The impasse is structural, not episodic.
 | Seán Kelly | Fine Gael / EPP | Not Yet Contacted | — | — |
 | Nina Carberry | Fine Gael / EPP | Not Yet Contacted | — | — |
 | Ciaran Mullooly | Independent / Renew | Not Yet Contacted | — | — |
+
+Authority distributed without termination produces evasion by design.
+It persists until a body possessing recognised adjudicative authority (e.g. Irish High Court or the Court of Justice of the European Union) compels the completion of the decision function.
+The impasse is structural, not episodic.
+
 
 ### **II. Evidentiary Records & Communication Logs (Image Files)**
 
