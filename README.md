@@ -6,7 +6,7 @@ Phainocratic: governing through the preservation of appearances rather than thro
 
 See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for full definition.
 
-This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption—it is the **State's failure to conclude the administrative process it initiated**.
+This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption; it is the **State's failure to conclude the administrative process it initiated**.
 
 The following table cross-references the identified files with their corresponding direct links found within the provided documentation and the "Governmentality 2026" folder:
 
