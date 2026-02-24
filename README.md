@@ -45,7 +45,7 @@ This repository documents that nullification with forensic precision.
 **Role**: Chair of Development Committee, former IIEA Director, institutional knowledge of Irish-EU interface
 
 **Key Passage**:
-> "Commissioner McGrath (Democracy, Justice, Rule of Law) was first informed of these governance concerns in March 2020, when he was a sitting TD. That initial contact was part of a formal 'Community Call' circulated to all deputies during the pandemic. While disaster preparedness, crisis management, infrastructure resilience remain key issues, there are other critical concerns as well—not only for Ireland but for the other EU member states.
+> "Commissioner McGrath (Democracy, Justice, Rule of Law) was first informed of these governance concerns in March 2020, when he was a sitting TD. That initial contact was part of a formal 'Community Call' circulated to all deputies during the pandemic. While disaster preparedness, crisis management, infrastructure resilience remain key issues, there are other critical concerns as well —not only for Ireland but for the other EU member states.
 > 
 > I have submitted correspondence to Mr McGrath's office on multiple occasions regarding the continued governance failure, now with direct EU-law implications:  
 > — 27 November 2025: Request for Executive-Level Coordination  
