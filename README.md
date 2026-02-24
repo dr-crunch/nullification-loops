@@ -19,7 +19,6 @@ The following table cross-references the identified files with their correspondi
 🏛️ **7 Oireachtas Committees Declined Jurisdiction**  
 🔇 **0 Responses from Joint Committee on Public Petitions**  
 ⚖️ **Parallel High Court & CJEU Proceedings Imminent**  
-🇪🇺 **Ireland Assumes EU Council Presidency July 2026**
 
 </div>
 
