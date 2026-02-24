@@ -26,7 +26,7 @@ The following table cross-references the identified files with their correspondi
 
 ## 🎯 This Documents the Final Breakdown
 
-**This documents the complete breakdown of the constitutional petition mechanism itself. Normative Collapse. **
+**This documents the complete breakdown of the constitutional petition mechanism itself. Normative Collapse.**
 
 When:
 - Every Oireachtas committee systematically declines jurisdiction over acknowledged governance failures,
@@ -65,19 +65,6 @@ This repository documents that nullification with forensic precision.
 This is **not** a policy dispute about Operations Research implementation.  
 This is **not** another ministerial complaint about delayed responses.  
 This is **not** a request for government agreement with technical proposals.
-
-**This documents the complete breakdown of the constitutional petition mechanism itself.**
-
-When:
-- Every Oireachtas committee systematically declines jurisdiction over acknowledged governance failures,
-- The Clerk of the Dáil invokes "unreviewable finality" under section 8(3) to prevent constitutional rebuttal,
-- And the **Joint Committee on Public Petitions and the Ombudsmen**—the committee specifically charged with petition oversight—maintains **total institutional silence** across 16 substantive communications spanning 8 months...
-
-**...the constitutional right of petition (Article 15.10, *Bunreacht na hÉireann*) has been nullified at its source.**
-
-This repository documents that nullification with forensic precision.
-
----
 
 ## 📊 The Evidence in Numbers
 
