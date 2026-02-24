@@ -255,9 +255,49 @@ Beyond the offices directly implicated in departmental custody, the record demon
 - July 17, 2009: *Development Cooperation and Human Rights?*
 - March 24, 2020: *Fwd: Pandemic Preparedness* (The Community Call)
 
+## **Cross-Party Awareness and the Constitutional Function of Opposition**
+
+Beyond the offices directly implicated in departmental custody, the record demonstrates sustained parliamentary awareness across electoral cycles.
+
+Mary Lou McDonald was notified at important junctures:
+
+ - The 2008–2009 communications precede the documented administrative void. The March 2020 notification occurred during a declared national emergency in which modelling capacity, systems coordination, and preparedness were central to executive decision-making.
+
+ - In March 2020, all members of the 33rd Dáil received direct notification. No Parliamentary Question, Leaders’ Question, committee referral, ministerial statement request, or Private Members’ motion addressing the unresolved O.R. evaluation gap has been identified in the public record.
+
+### **Opposition as Constitutional Safeguard**
+
+Under Article 15 of the Constitution, legislative authority is vested exclusively in the Oireachtas. That authority is not exhausted by the enactment of statutes; it includes the continuous supervision of executive administration through structured parliamentary mechanisms.
+
+A functioning opposition is integral to this architecture. Its constitutional role includes:
+
+* Forcing executive articulation where silence persists  
+* Creating a formal record capable of scrutiny  
+* Converting administrative inaction into reviewable ministerial position  
+* Ensuring that executive discretion does not harden into unexamined non-decision
+
+Where a department does not determine, the opposition is procedurally equipped to require that it do so. Parliamentary instruments exist precisely to prevent indeterminate administrative states from persisting across electoral cycles.
+
+The evidentiary anchors of **2008** and **2020** therefore mark two materially different political contexts—distinct governments, distinct oppositions, distinct public crises—yet in both instances formal legislative activation did not occur.
+
+This observation is institutional rather than partisan. The accountability structure depends on reciprocal operation between executive and opposition. Where awareness is present but procedural activation is absent, that reciprocal structure attenuates.
+
+---
+
+## **Portfolio Diffusion & Accountability Gap**
+
+Across twelve years, under changing administrations and evolving party leadership, the decision function remained incomplete.
+
+Authority was constitutionally vested. Oversight mechanisms were available. Determination did not crystallise.
+
+The result is not isolated inaction but distributed non-activation —an accountability field in which responsibility circulates without terminating in decision.
+
+It is this condition that gives rise to the portfolio diffusion described below.
+
+
 All members of the 33rd Dáil received direct notification in March 2020. Despite full awareness during a period of national crisis, **not one deputy acted or acknowledged the content**.
 
-The official opposition, from MEP to TD and leader; many other such cases. All parties briefed; all leadership included —zero uptake.
+The official opposition, over many political epoques, was fully briefed —on timely matters; there are many other such cases. All parties were briefed —all leadership included. *Zero uptake.*
 
 ---
 
