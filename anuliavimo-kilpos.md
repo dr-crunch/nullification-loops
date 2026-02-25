@@ -40,5 +40,4 @@ Byla yra aktyviame teisinio ginčo etape: perdaviau bylą Airijos ombudsmenui, p
 
 *«Atsisakymas dalyvauti nėra neutralus veiksmas. Jis sukuria įrodomąją žalą.»*
 
-**Santrauka lietuvių kalba: anuliavimo-kilpos**
 
