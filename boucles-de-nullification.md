@@ -1,4 +1,4 @@
-# Effondrement Normatif et Boucles de Nullification**  
+# Effondrement Normatif et Boucles de Nullification  
 Depuis 2006, je soumets formellement aux institutions de l’État irlandais — le Département des Affaires étrangères, Irish Aid, le Département de la Défense, le bureau du Taoiseach, le HSE ainsi que les deux chambres de l’Oireachtas (GA: le Parlement)— un corpus de travaux en Recherche opérationnelle (R.O.) à applications directes : logistique humanitaire, planification d’urgence, gouvernance de crise, sécurité nationale et régulation des biens à double usage.
 
 À ce jour, aucune de ces institutions n’a procédé à une évaluation formelle, ni rendu de décision motivée d’adoption ou de rejet. Le dossier n’a fait l’objet d’aucune instruction officielle ; il demeure en suspens dans les circuits administratifs depuis dix-neuf ans.
