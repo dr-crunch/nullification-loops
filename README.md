@@ -7,6 +7,7 @@ Phainocratic: governing through the preservation of appearances rather than thro
 See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for full definition.
 
 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)
+Σύνοψη στα ελληνικά: [vróchoi-kýrosis](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md)
 
 This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption; it is the **State's failure to conclude the administrative process it initiated**.
 
