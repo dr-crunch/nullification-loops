@@ -1,5 +1,5 @@
 **Synopsis — OR/AI Governance Crisis: Ireland, 2006–present**  
-*Ref.: National Security — Operations Research / Artificial Intelligence Governance Deficit in Ireland since 2006 — Directorate of Strategic Affairs file, opened 2007*
+*Ref.: National Security — Operations Research / Artificial Intelligence Governance Deficit in Ireland since 2006 — Directorate of Strategic Affairs dossier (DAS, France), opened 2007*
 
 ---
 
