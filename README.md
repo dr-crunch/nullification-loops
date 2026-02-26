@@ -13,16 +13,21 @@
 
 From Greek φαινόμενον (phaínō), appearance (to show, to appear)  + κράτος (krátos), to rule.  
 
-See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition.  
+See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition. *Dealraitheachas* is Irish (GA) for Phainocracy.  
 </details>
 
 A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md) —there's also an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).  
 
-🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)   |   Exposé Principal: [Résumé Analytique](https://github.com/dr-crunch/nullification-loops/blob/main/résumé-analytique.md)  
-🇬🇷 Σύνοψη στα ελληνικά: [arxi-edo](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md)  
+🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)   |   Exposé Principal: [Résumé Analytique](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)  
+
+🇪🇸 Para mantener la coherencia técnica con el expediente preparado para revisión judicial, la traducción al español de la línea de navegación es la siguiente:
+
+**Sinopsis en español: [comenzar-aquí](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md) | [Resumen Ejecutivo](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullificación.md)**
+
 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [thórei-dhamé](https://github.com/dr-crunch/nullification-loops/blob/main/vrochoi-kyrosis-CY.md)  
 🇮🇪 Achoimre as Gaeilge: [tosaigh-anseo](https://github.com/dr-crunch/nullification-loops/blob/main/lu%CC%81ba-neamhnithe.md)  
 🇱🇹 Santrauka lietuvių kalba: [pradeti-cia](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)  
+🇬🇷 Σύνοψη στα ελληνικά: [arxi-edo](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md)  
 
 This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption; it is the **State's failure to conclude the administrative process it initiated**.
 
