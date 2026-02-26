@@ -16,7 +16,7 @@ From Greek φαινόμενον (phaínō), appearance (to show, to appear)  + �
 See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition.  
 </details>
 
-A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md); there's also an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).  
+A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md) — there's also an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).  
 
 🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)  
 🇬🇷 Σύνοψη στα ελληνικά: [arxi-edo](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md)  
