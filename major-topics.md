@@ -1,12 +1,12 @@
-**Major Topics:**
+# Major Topics:
 
-**The Foundational Claim**
+## The Foundational Claim
 
 **A sovereign governance capability has been submitted, acknowledged, and systematically withheld from implementation for nineteen years.**
 
 This is the ground. Everything else is consequence or context. The capability is Operations Research / AI governance methodology. The jurisdiction is Ireland. The timeline is 2006–present. The author is a French-Canadian national with right of abode in the UK and EU citizenship — which immediately makes this a **multi-sovereign matter**, not a domestic Irish complaint.
 
-**The Structural Mechanism**
+## The Structural Mechanism
 
 **The Nullification Loop / Silence Veto**
 
@@ -18,7 +18,7 @@ https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md
 
 🇫🇷 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md) 🇬🇷 Σύνοψη στα ελληνικά: [vróchoi-kýrosis](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md) 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [vróchoi-kýrosis-CY](https://github.com/dr-crunch/nullification-loops/blob/main/vrochoi-kyrosis-CY.md) 🇮🇪 Achoimre as Gaeilge: [lúba-neamhnithe](https://github.com/dr-crunch/nullification-loops/blob/main/lu%CC%81ba-neamhnithe.md) 🇱🇹 Santrauka lietuvių kalba: [anuliavimo-kilpos](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)
 
-**The Legal Exposure**
+## The Legal Exposure
 
 Three distinct legal tracks, running in parallel:
 
@@ -30,7 +30,8 @@ Three distinct legal tracks, running in parallel:
 
 For the cohort: **3b is the shared jurisdictional ground**. Every state in the cohort is an EU Member State or closely linked to EU legal architecture. The question — *can a Member State indefinitely defer acknowledged obligations without consequence?* — is a question for all of them.
 
-**The McGrath Dimension**
+## The McGrath Dimension
+**🇪🇺 Multilateral Affairs**
 
 This is the most precisely ironic and legally pointed single fact in the entire corpus:
 
@@ -40,7 +41,7 @@ His professional background (Head of MIS at UCC, Fellow of Chartered Accountants
 
 For the cohort: this is **not a political attack on an individual**. It is a structural observation about what happens when the person most qualified and most obligated to act is also the person most embedded in the architecture that has failed. The European Council, France, Cyprus, Latvia — all have an interest in whether their Commissioner for the Rule of Law is responsive to documented rule-of-law failures on his own national doorstep.
 
-**The Anglo-Irish / Bilateral Dimension**
+## The Anglo-Irish / Bilateral Dimension
 
 The corpus extends formally into British-Irish relations: the Northern Ireland Office, the Secretary of State (Rt Hon Hilary Benn MP), the British-Irish Parliamentary Assembly, Matrix Chambers. The O.R. omission is framed as a cross-border governance asymmetry — Ireland and the UK cannot coordinate effectively on infrastructure, emergency preparedness, security, or fiscal efficiency if one side of the border lacks the analytical capability the other side depends upon.
 
@@ -48,9 +49,9 @@ Storm Éowyn and Storm Darragh are the concrete case studies. Cross-jurisdiction
 
 For the cohort: **this is the entry point for non-EU actors and for any state concerned with NATO-adjacent security architecture** — Latvia in particular, given its security posture.
 
-**The France / DAS Dimension**
+## France / DAS 
 
-The Directorate of Strategic Affairs (DAS) opened a dossier in 2007 under M. Jean de Ponton d'Amécourt, subsequently under M. Miraillet. France engaged earlier than any other external actor. That engagement went cold. The most recent correspondence invokes administrative continuity from that original engagement and formally requests that France assume a leadership role.
+The *Délégation des Affaires Stratégiques (DAS)* opened the dossier in 2007 under Director M. Jean de Ponton d'Amécourt, subsequently under Director M. Miraillet. France engaged earlier than any other external actor. That engagement went cold. The most recent correspondence invokes administrative continuity from that original engagement and formally requests that France assume a leadership role.
 
 France is also the author's national state. That changes the diplomatic register considerably. A French national, resident in Ireland, holding EU citizenship and UK right of abode, whose proprietary research has been retained without compensation for nineteen years by an EU Member State, is invoking the protection of his home state. This is a matter of **consular and diplomatic standing**, not merely academic interest.
 
