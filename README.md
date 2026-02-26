@@ -9,8 +9,9 @@
 <summary>Phainocratic</summary>
 
 ## Phainocracy
-from Greek φαινόμενον (phaínō), appearance (to show, to appear)  + κράτος (krátos), to rule.  
 *governing through the preservation of **appearances** rather than through substantive correction.*  
+
+from Greek φαινόμενον (phaínō), appearance (to show, to appear)  + κράτος (krátos), to rule.  
 
 See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition.  
 </details>
