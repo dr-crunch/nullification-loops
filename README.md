@@ -1,10 +1,11 @@
 ![nullification-loops](https://github.com/dr-crunch/nullification-loops/blob/main/scathan-agus-splanc-phainocratic-nullification-loops-v2.png)
 # nullification-loops
-Scáthan agus Splánc: Ireland’s Constitutional and Technical Crisis (Public Landing Page)  
+**Scáthan agus Splánc: Ireland’s Constitutional and Technical Crisis (Public Landing Page)**  
 
-Phainocratic: governing through the preservation of appearances rather than through substantive correction.  
+**Phainocratic:** governing through the preservation of appearances rather than through substantive correction.  
+See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition.  
 
-See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition. A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md) as well as an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).
+A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md) as well as an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).  
 
 🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)  
 🇬🇷 Σύνοψη στα ελληνικά: [arxi-edo](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md)  
