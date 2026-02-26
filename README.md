@@ -90,7 +90,7 @@ This is **not** a request for government agreement with technical proposals.
 
 ## 🔴 Core Issue: The Silence Veto
 
-### What Other Committees Did (Problematic But Procedurally Defensible)
+### What Other Committees Did
 
 Six Oireachtas committees **at minimum acknowledged receipt** before declining jurisdiction:
 
@@ -112,7 +112,7 @@ Six Oireachtas committees **at minimum acknowledged receipt** before declining j
 6. **Joint Committee on Foreign Affairs and Trade** — Email from Ms. Yeates (30 Oct 2025)  
    *Informally acknowledged, declined despite DFA responsibility for dual-use technologies*
 
-These declinations are **constitutionally problematic** (they create a nullification loop where cross-cutting issues become permanently unreviewable), but they are **procedurally defensible** in that they at least engaged with the basic requirement to acknowledge correspondence.
+These declinations are **constitutionally problematic** (they create a nullification loop where cross-cutting issues become permanently unreviewable), but they are procedurally defensible in that they at least engaged with the basic requirement to acknowledge correspondence.
 
 ### What the JCPP Did (Procedurally Indefensible)
 
