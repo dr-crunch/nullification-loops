@@ -8,7 +8,7 @@ See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.googl
 
 🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)  
 🇬🇷 Σύνοψη στα ελληνικά: [arxi-edo](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md)  
-🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [des-damaí](https://github.com/dr-crunch/nullification-loops/blob/main/vrochoi-kyrosis-CY.md)  
+🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [thórei-dhamé](https://github.com/dr-crunch/nullification-loops/blob/main/vrochoi-kyrosis-CY.md)  
 🇮🇪 Achoimre as Gaeilge: [tosaigh-anseo](https://github.com/dr-crunch/nullification-loops/blob/main/lu%CC%81ba-neamhnithe.md)  
 🇱🇹 Santrauka lietuvių kalba: [pradeti-cia](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)  
 
