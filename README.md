@@ -112,7 +112,7 @@ Six Oireachtas committees **at minimum acknowledged receipt** before declining j
 6. **Joint Committee on Foreign Affairs and Trade** — Email from Ms. Yeates (30 Oct 2025)  
    *Informally acknowledged, declined despite DFA responsibility for dual-use technologies*
 
-These declinations are **constitutionally problematic** (they create a nullification loop where cross-cutting issues become permanently unreviewable), but they are procedurally defensible in that they at least engaged with the basic requirement to acknowledge correspondence.
+These declinations are **constitutionally problematic** (they create a nullification loop where cross-cutting issues become permanently unreviewable), but they are *procedurally defensible* in that they at least engaged with the basic requirement to acknowledge correspondence.
 
 ### What the JCPP Did (Procedurally Indefensible)
 
@@ -355,7 +355,7 @@ These documents outline a protracted governance and legal dispute between a priv
 
 The materials include pre-litigation notices, emails to several Members of the European Parliament, and detailed records of unacknowledged correspondence sent to parliamentary committees. Ultimately, the sources warn that this failure of institutional accountability will cause significant reputational damage to Ireland during its 2026 EU Council Presidency. This collection serves as a formal evidence base intended to trigger judicial review or international intervention.
 
-The following is a comprehensive inventory of the files identified within the "Governmentality 2026" folder:
+The following is a comprehensive inventory of the files identified within the *Governmentality 2026* folder:
 
 ### **I. Correspondence & Formal Submissions (PDF Documents)**
 
