@@ -237,7 +237,10 @@ We are witnessing the effective rollover of a broken vehicle for development and
 
 ### Group A: Originators of the Breach (pre-2010)
 - Irish Aid Emergency & Recovery Section (2008–2011)
-- Department of Foreign Affairs
+- Department of Health (2009-2020)
+- Department of Foreign Affairs (2008-present)
+- Department of Defence (2006-present)
+- Department of the Taoiseach (2006-present)
 
 ### Group B: Successive Ministers Maintaining Inaction
 - **Micheál Martin** (90+ notifications since 2006; no legislative action)
