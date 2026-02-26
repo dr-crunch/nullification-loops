@@ -70,5 +70,5 @@ Read as a single structure, the corpus yields six nested topics:
 
 Each topic has its own register — legal, diplomatic, technical, humanitarian, constitutional. Together they form a single, coherent case for **state-level intervention** that is no longer addressable by any single institution acting alone.
 
-**The question is the actual viability of Ireland's Council Presidency in terms of EU standards, international standards, ethical frameworks and legal doctrines —this in light of France's convening authority, and the public record that is already indexed and growing.**
+**The question is the actual viability of Ireland's Council Presidency in terms of EU standards, international standards, ethical frameworks and legal doctrines —this in light of France's convening authority, and the public record that is already indexed and growing.**  
 [← Back](https://github.com/dr-crunch/nullification-loops)
