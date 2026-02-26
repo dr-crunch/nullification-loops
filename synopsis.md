@@ -15,8 +15,10 @@ This is the public landing point for the full corpus:
 
 https://github.com/dr-wojak/start-here
 
+---
+
  * What has emerged is not bureaucratic inefficiency. It is a documented pattern of acknowledgement without instruction, deflection without accountability, and closure without reasoning — described in the dossier as a *nullification loop* and a *silence veto*: a procedural state in which no decision exists that can be appealed, no reasoning examined, no formal point of closure reached.
- * The Clerk of the Dáil was served a Final Pre-Litigation Notice on 10 February 2026, following an unanswered ultimatum of December 2025 that presented a binary choice: maintain the section 8(3) determination as final, or transmit the complaint to the members it concerns. The Clerk chose neither.
+ * The Clerk of the Dáil was served a Final Pre-Litigation Notice on February 10th, 2026, following an unanswered ultimatum of December 2025 that presented a binary choice: maintain the section 8(3) determination as final, or transmit the complaint to the members it concerns. The Clerk chose neither. In fact, that Clerk has since retired. A new Clerk preempts proper reasoning; another Secretary General must also be in place.
  * That silence has been formally characterised as constitutionally untenable — violating Article 40.3 of the Irish Constitution, inverting the principle of *audi alteram partem*, and inconsistent with ECHR Article 6 and EU Charter Articles 41 and 47\. The notice was copied to Commissioner McGrath, Commissioner Šefčovič, the Registry of the Court of Justice of the European Union, and Judge Eugene Regan of the CJEU.
 
 ---
