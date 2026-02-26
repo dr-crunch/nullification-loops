@@ -2,8 +2,17 @@
 # nullification-loops
 **Scáthan agus Splánc: Ireland’s Constitutional and Technical Crisis (Public Landing Page)**  
 
-**Phainocratic:** governing through the preservation of appearances rather than through substantive correction.  
+
+<details>
+
+
+<summary>Phainocratic</summary>
+
+## Phainocracy
+*governing through the preservation of **appearances** rather than through substantive correction.*  
+
 See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition.  
+</details>
 
 A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md) as well as an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).  
 
