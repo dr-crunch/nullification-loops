@@ -67,3 +67,6 @@ Ce qui fut initialement soumis comme contribution technique à la résilience pu
 L’enjeu n’est plus l’adoption des propositions ; il est la possibilité même d’un acte décisionnel.
 
 *Réf. : Sécurité nationale — Déficit de gouvernance Recherche Opérationnelle / Intelligence Artificielle en Irlande depuis 2006 — dossier de la Direction des Affaires Stratégiques, ouvert en 2007.*
+
+Sans commerce avec l’ignoré, qui saura la perte ?
+[Retour](https://github.com/dr-crunch/nullification-loops)
