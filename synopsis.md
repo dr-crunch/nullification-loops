@@ -10,13 +10,13 @@ This has now occurred across every meaningful institutional channel available wi
 
 The European dimension is now fully activated. Commissioner Michael McGrath — who holds the EU portfolio for Democracy, Justice, and the Rule of Law — was first contacted in March and April of 2020, when he was a sitting TD. He did not act then. He is now the Commissioner responsible for initiating infringement procedures against Member States that fail to uphold EU law. He has still not responded. Commissioner Maroš Šefčovič has been copied. Commissioner Hadja Lahbib has been copied. Judge Eugene Regan of the Court of Justice of the EU has been written to directly. The ECJ Registry has been notified of intended parallel filings. None have provided substantive engagement.
 
-The GitHub repository linked in the final pre-litigation notice of February 10th, 2026 — https://github.com/dr-wojak/start-here — is the public landing point for the full corpus.
+This is the public landing point for the full corpus:
 
 https://github.com/dr-wojak/start-here
 
-What has emerged is not bureaucratic inefficiency. It is a documented pattern of acknowledgement without instruction, deflection without accountability, and closure without reasoning — described in the dossier as a *nullification loop* and a *silence veto*: a procedural state in which no decision exists that can be appealed, no reasoning examined, no formal point of closure reached.
-The Clerk of the Dáil was served a Final Pre-Litigation Notice on 10 February 2026, following an unanswered ultimatum of December 2025 that presented a binary choice: maintain the section 8(3) determination as final, or transmit the complaint to the members it concerns. The Clerk chose neither.
-That silence has been formally characterised as constitutionally untenable — violating Article 40.3 of the Irish Constitution, inverting the principle of *audi alteram partem*, and inconsistent with ECHR Article 6 and EU Charter Articles 41 and 47\. The notice was copied to Commissioner McGrath, Commissioner Šefčovič, the Registry of the Court of Justice of the European Union, and Judge Eugene Regan of the CJEU.
+ * What has emerged is not bureaucratic inefficiency. It is a documented pattern of acknowledgement without instruction, deflection without accountability, and closure without reasoning — described in the dossier as a *nullification loop* and a *silence veto*: a procedural state in which no decision exists that can be appealed, no reasoning examined, no formal point of closure reached.
+ * The Clerk of the Dáil was served a Final Pre-Litigation Notice on 10 February 2026, following an unanswered ultimatum of December 2025 that presented a binary choice: maintain the section 8(3) determination as final, or transmit the complaint to the members it concerns. The Clerk chose neither.
+ * That silence has been formally characterised as constitutionally untenable — violating Article 40.3 of the Irish Constitution, inverting the principle of *audi alteram partem*, and inconsistent with ECHR Article 6 and EU Charter Articles 41 and 47\. The notice was copied to Commissioner McGrath, Commissioner Šefčovič, the Registry of the Court of Justice of the European Union, and Judge Eugene Regan of the CJEU.
 
 ---
 
@@ -103,5 +103,5 @@ Active legal proceedings are now underway: referral to the Irish Ombudsman, pre-
 
 The matter has been formally submitted to the French Ministry of Armed Forces (DGRIS) invoking administrative continuity from the engagement of the Directorate of Strategic Affairs in 2007 under M. Jean de Ponton d'Amécourt, and subsequently M. Miraillet. France, as a strategic power with a historic tradition of institutional rigour and a duty of stewardship toward its nationals abroad, is invited to assume a leadership role in resolving this matter and addressing the injustices sustained by the affected sectors.
 
-To be in communion with what is not yet known — or who shall ever reckon the harm?
+To be in communion with what is not yet known — or who shall ever reckon the harm?  
 [← Return](https://github.com/dr-crunch/nullification-loops)
