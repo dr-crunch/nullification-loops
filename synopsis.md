@@ -3,7 +3,7 @@
 
 ## What Is Actually Happening
 
-I have spent nearly two decades —from 2006 to the present— formally submitting Operations Research (O.R.) governance frameworks to the Irish State. The submissions are documented, acknowledged, and then systematically ignored. This is not bureaucratic delay. It is a repeatable, institutional pattern of non-engagement that has now been given a precise name in the correspondence itself: **the Silence Veto**.
+I have spent nearly two decades formally submitting Operations Research (O.R.) governance frameworks to the Irish State. The submissions are documented, acknowledged, and then systematically ignored. This is not bureaucratic delay. It is a repeatable, institutional pattern of non-engagement that has now been given a precise name in the correspondence itself: **the Silence Veto**.
 
 The Silence Veto is not passive. It is an active governance mechanism. It works as follows: a submission is received, its receipt is acknowledged, and then nothing happens. When pressed, the institution redirects — to another committee, another department, another official. When that body is approached, it too redirects. No body ever identifies itself as the appropriate locus of responsibility. The material circulates indefinitely and is never reviewed. The record is sometimes deleted. The citizen is left holding the evidence.
 
