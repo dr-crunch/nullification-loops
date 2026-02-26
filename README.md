@@ -14,7 +14,7 @@ See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.googl
 
 This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption; it is the **State's failure to conclude the administrative process it initiated**.
 
-The following table cross-references the identified files with their corresponding direct links found within the provided documentation and the "Governmentality 2026" folder:
+This landing page cross-references the top-view of the impasse with the detailed documention and the corresponding direct links found within the provided documentation and the "Governmentality 2026" folder:
 
 [Full Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
 
