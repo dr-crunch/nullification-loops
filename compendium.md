@@ -1,7 +1,7 @@
 # Judicial Review
 
 🇫🇷 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)  
-🇪🇸 Sinopsis en español: [bucles-de-nulificación](https://github.com/dr-crunch/nullification-loops/blob/main/bucles-de-nullificación.md)    
+🇪🇸 Sinopsis en Español: [bucles-de-nulificación](https://github.com/dr-crunch/nullification-loops/blob/main/bucles-de-nullificación.md)    
 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [vróchoi-kýrosis-CY](https://github.com/dr-crunch/nullification-loops/blob/main/vrochoi-kyrosis-CY.md)  
 🇮🇪 Achoimre as Gaeilge: [lúba-neamhnithe](https://github.com/dr-crunch/nullification-loops/blob/main/lu%CC%81ba-neamhnithe.md)  
 🇱🇹 Santrauka lietuvių kalba: [anuliavimo-kilpos](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)  
