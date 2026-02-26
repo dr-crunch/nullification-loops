@@ -14,7 +14,7 @@ This is the named mechanism by which the foundational claim has been suppressed.
 
 For the cohort, this is the most *transferable* topic. The nullification loop is not an Irish invention. It will be recognisable to any state actor who has watched a cross-cutting governance matter dissolve between ministries. **This is the entry point for France, Latvia, Cyprus — states that do not share Ireland's institutional memory but will immediately recognise the mechanism.**
 
-https://github.com/dr-crunch/nullification-loops/blob/main/nullification-loops-synopsis.md
+https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md
 
 🇫🇷 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md) 🇬🇷 Σύνοψη στα ελληνικά: [vróchoi-kýrosis](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md) 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [vróchoi-kýrosis-CY](https://github.com/dr-crunch/nullification-loops/blob/main/vrochoi-kyrosis-CY.md) 🇮🇪 Achoimre as Gaeilge: [lúba-neamhnithe](https://github.com/dr-crunch/nullification-loops/blob/main/lu%CC%81ba-neamhnithe.md) 🇱🇹 Santrauka lietuvių kalba: [anuliavimo-kilpos](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)
 
