@@ -1,4 +1,5 @@
 # The Impasse: Named and Framed
+**Synopsis — OR/AI Governance Crisis: Ireland, 2006–present**  
 
 ## What Is Actually Happening
 
@@ -52,7 +53,7 @@ The specific irony of the McGrath dimension deserves emphasis for any internatio
 
 ---
 
-## Finding the Wedge: International Relations Options
+## International Relations
 
 The impasse is real. The Silence Veto is durable. But it is not invulnerable. The following pressure points are available to the cohort.
 
@@ -76,7 +77,6 @@ The situation is this. A citizen submitted governance research to a state. The s
 
 The Silence Veto has worked domestically for nineteen years. It has not yet been tested at European scale, in public, with the full record available, during an Irish Council Presidency, with an infringement-competent Commissioner on the evidentiary record.
 
-That is the wedge.**Synopsis — OR/AI Governance Crisis: Ireland, 2006–present**  
 *Ref.: National Security — Operations Research / Artificial Intelligence Governance Deficit in Ireland since 2006 — Directorate of Strategic Affairs dossier (DAS, France) opened 2007*
 
 ---
@@ -99,9 +99,9 @@ This is not solely an Irish matter. The implications extend to British-Irish rel
 
 The concomitance with Ireland's 2026 EU Council Presidency is a tension that cannot be ignored: a state presiding over the Union while maintaining nineteen years of documented administrative paralysis is in a normative position that is difficult to reconcile. As I have warned in correspondence to the IIEA: if normative collapse occurs in one region of the Union, that broken ontology is liable to appear elsewhere.
 
-Active legal proceedings are now underway: referral to the Irish Ombudsman, pre-litigation notice for a writ of mandamus before the High Court, parallel filing before the CJEU under consideration, and multilingual dissemination across EU member states in progress.
+**Active legal proceedings are now underway: referral to the Irish Ombudsman, pre-litigation notice for a writ of mandamus before the High Court, parallel filing before the CJEU under consideration, and multilingual dissemination across EU member states in progress.**
 
 The matter has been formally submitted to the French Ministry of Armed Forces (DGRIS) invoking administrative continuity from the engagement of the Directorate of Strategic Affairs in 2007 under M. Jean de Ponton d'Amécourt, and subsequently M. Miraillet. France, as a strategic power with a historic tradition of institutional rigour and a duty of stewardship toward its nationals abroad, is invited to assume a leadership role in resolving this matter and addressing the injustices sustained by the affected sectors.
 
-To be in communion with what is not yet known — or who shall ever reckon the harm?  
+**To be in communion with what is not yet known — or who shall ever reckon the harm?**  
 [← Return](https://github.com/dr-crunch/nullification-loops)
