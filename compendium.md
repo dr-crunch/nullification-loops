@@ -4,6 +4,28 @@
 
 ---
 
+**Gaeilge**  
+As an solas céanna seo, as lár an intinn,  
+déanaimid teach sa ghaoth thráthnóna,  
+ina bhfuil bheith ann le chéile — leor.  
+
+**Français**  
+De cette même lumière, du centre de l'esprit,  
+nous faisons une demeure dans l'air du soir,  
+où être là ensemble — suffit.  
+
+**Español**  
+De esta misma luz, del centro de la mente,  
+hacemos una morada en el aire del atardecer,  
+donde estar juntos — basta.
+
+**Lietuvių**  
+Iš tos pačios šviesos, iš proto centro,  
+mes kuriame buveinę vakariniame ore,  
+kurioje būti kartu — pakanka.  
+
+From Wallace Stevens' *Final Soliloquy of the Interior Paramour* (CP 524)
+
 ## Preamble
 
 This compendium maps every party with a cognisable interest in the protracted failure to engage with Operations Research (O.R.) in Irish public governance — a failure documented continuously from the initial submission of November 11th, 2006, through to the present. The matter is no longer bounded by domestic administrative law. As Ireland holds the Presidency of the Council of the European Union in the second half of 2026, every layer of stakeholder interest — individual, civic, parliamentary, executive, judicial, bilateral, and supranational — is now engaged.
