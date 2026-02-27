@@ -41,5 +41,4 @@
 **Η άρνηση δέσμευσης δεν είναι μια ουδέτερη πράξη. Δημιουργεί αποδεικτική βλάβη.**
 
 *Κοινωνεῖν τῷ ἀγνοουμένῳ — ἢ τίς γνώσεται τὴν ζημίαν*  
-[← Επιστροφή](https://github.com/dr-crunch/nullification-loops)
-
+[← Επιστροφή](https://github.com/dr-crunch/nullification-loops#nullification-loops)
