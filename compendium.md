@@ -47,6 +47,53 @@ To ensure continuity across the six-month terms, Member States work in groups of
     
 - **Next Trio (2026–2027):** Ireland, Lithuania, and Greece.
     
+STRUCTURAL ENTRAPMENT
+
+#### **A. The Rotating Presidency as Accountability Dissolution Mechanism**
+
+From the judicial review documentation:
+
+**Current Trio (2025–2026)**: Poland, Denmark, Cyprus  
+**Next Trio (2026–2027)**: **Ireland**, Lithuania, Greece
+
+**The Temporal Trap**:
+
+- Ireland assumes EU Council Presidency: **July 1, 2026** (in 4 months)
+- Ethics complaint suppression: **2006–2026** (20 years)
+- **Nullification Loop**: Each 6-month rotation creates a "responsibility sink" where:
+    - Incoming presidency inherits no institutional memory
+    - Outgoing presidency transfers no accountability
+    - **The 18-month Trio system ensures collective dilution**: Poland/Denmark/Cyprus (current) never touch Ireland's domestic governance failures; Ireland/Lithuania/Greece (next) will be too busy with Council duties to audit Ireland's own records
+
+**The Strategic Window**: Ireland will hold the Presidency **while the ethics complaint remains suppressed**—creating the ultimate conflict of interest:
+
+- Ireland chairs Council meetings on civil protection coordination (TFEU 196)
+- Ireland brokers compromises on dual-use export controls (Reg 428/2009)
+- Ireland represents the Council in trilogues with Parliament/Commission
+- **All while concealing its own 20-year breach of these same obligations**
+
+---
+
+#### **B. The Trio System as Loose Architecture**
+
+**Article 3, Council Decision 2016/1316**:
+
+> Trios prepare a **shared 18-month program** of long-term goals and a common agenda.
+
+**The Ireland/Lithuania/Greece Trio (2026–2027)**:
+
+- **July–Dec 2026**: Ireland sets agenda
+- **Jan–Jun 2027**: Lithuania chairs (Ireland still in Trio)
+- **Jul–Dec 2027**: Greece chairs (Ireland still in Trio)
+
+**The Nullification Loop**: For 18 months, Ireland will be **inside the governance architecture** while:
+
+1. Suppressing its own ethics complaint
+2. Setting EU priorities on emergency preparedness
+3. Coordinating cross-border intelligence cooperation
+4. **Blocking any Commission investigation into its own TFEU 196 breach**
+
+**This is not administrative failure. This is structural entrapment without functional discipline.**
 
 ### IV. Functional Responsibilities
 
