@@ -1,6 +1,6 @@
 # Judicial Review
 
-For the purpose of judicial review and technical accuracy, it is essential to first distinguish between two distinct EU leadership roles: the **Presidency of the Council of the European Union** (a rotating role held by Member State governments) and the **President of the European Council** (a permanent individual position, currently held by **António Costa**).
+For the purpose of judicial review and technical accuracy, it is essential to first distinguish between two distinct EU leadership roles: the **Presidency of the Council of the European Union** (a rotating role held by Member State governments) and the **President of the European Council** (a permanent individual position, currently held by António Costa).
 
 **Legal Question for CJEU**:
 
