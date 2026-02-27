@@ -81,4 +81,4 @@ El desafío ya no es la adopción de las propuestas; es la posibilidad misma de 
 
 ---
 
-[← Volver a bucles de anulación](https://github.com/dr-crunch/nullification-loops#nullification-loops)
+[← Volver a los bucles de nulificación](https://github.com/dr-crunch/nullification-loops#nullification-loops)
