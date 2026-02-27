@@ -26,7 +26,7 @@ A synopsis of this material, including background information, is available [her
 
 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [thórei-dhamé](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vrochoi-kyrosis-CY.md)  
 🇮🇪 Achoimre as Gaeilge: [tosaigh-anseo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/luba-neamhnithe.md)  
-🇱🇹 Santrauka lietuvių kalba: [pradeti-cia](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)  
+🇱🇹 Santrauka lietuvių kalba: [pradeti-cia](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/anuliavimo-kilpos.md)  
 🇬🇷 Σύνοψη στα ελληνικά: [arxi-edo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vrochoi-kyrosis.md)  
 
 This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption; it is the **State's failure to conclude the administrative process it initiated**.
