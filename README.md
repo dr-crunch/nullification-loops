@@ -22,7 +22,7 @@ A synopsis of this material, including background information, is available [her
 
 🇪🇸 Para mantener la coherencia técnica con el expediente preparado para revisión judicial, la traducción al español de la línea de navegación es la siguiente:
 
-**Sinopsis en español: [comenzar-aquí](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md) | [Resumen Ejecutivo](https://github.com/dr-crunch/nullification-loops/blob/main/bucles-de-nullificación.md)**
+**Sinopsis en español: [comenzar-aquí](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nullificación.md) | [Resumen Ejecutivo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nullificación.md)**
 
 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [thórei-dhamé](https://github.com/dr-crunch/nullification-loops/blob/main/vrochoi-kyrosis-CY.md)  
 🇮🇪 Achoimre as Gaeilge: [tosaigh-anseo](https://github.com/dr-crunch/nullification-loops/blob/main/lu%CC%81ba-neamhnithe.md)  
