@@ -128,7 +128,7 @@ The bodies approached or with cognisable interest include:
 
 **Legal Professional Bodies:** King's Inns; the Law Society of Ireland; the Law Society Gazette; members of the Inner Bar (Law Library); NUI Schools of Law — all formally briefed through the Memoranda. Outside of two exceptions, no substantive civil-society response has been received.
 
-**International Human Rights Legal Practice:** Matrix Chambers (Ms Blinne Ní Ghrálaigh, Team T) — formally engaged September 9th, 2025, given the cross-border dimensions of the matter and the relevance of UN mechanisms and Council of Europe engagement.
+**International Human Rights Legal Practice:** Several Senior Counsel members notified, given the cross-border dimensions of the matter and the relevance of UN mechanisms and Council of Europe engagement.
 
 **Media:** Press briefing materials have been prepared and published at https://github.com/dr-wojak/press. Growing public engagement has been recorded, with documented social media reach of over five thousand impressions in a single week as of February 2026, with an increasing trajectory.
 
