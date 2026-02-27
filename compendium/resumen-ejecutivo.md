@@ -70,4 +70,4 @@ Para efectos de revisión judicial y coherencia terminológica con el expediente
 
 ---
 
-[← Volver a bucles de anulación](https://github.com/dr-crunch/nullification-loops#nullification-loops)
+[← Volver a los bucles de nulificación](https://github.com/dr-crunch/nullification-loops#nullification-loops)
