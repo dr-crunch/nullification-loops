@@ -314,4 +314,4 @@ Direct engagement with EU capitals — to ensure the governance risks documented
 
 *This compendium is a living document and will be updated as engagement develops. For judicial review purposes it should be read in conjunction with Memorandum D, Memorandum E, and the O.R. Governance Ethical Review.*
 
-[← Return to nullification-loops](https://github.com/dr-crunch/nullification-loops#nullification-loops)
+[← Return to nullification-loops](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#description-of-impasse-and-legal-authority-to-break-the-deadlock)
