@@ -229,7 +229,7 @@ As Ireland's lead regulator for the world's largest data-processing entities, th
 
 **The British-Irish Association** — themes of trust, cooperation, and security overlap directly with the risks of continued inaction.
 
-**Matrix Chambers, London** — engaged as international human rights legal practitioners with expertise in UN mechanisms and Council of Europe engagement, given the cross-border character of the matter (September 9th, 2025).
+**Human rights legal practitioners** — expertise in UN mechanisms and Council of Europe engagement, given the cross-border character of the matter
 
 **Cross-Border Crisis Management Structures** — bilateral security frameworks and joint emergency protocols are undermined wherever one party systematically excludes O.R.-based planning from its governance architecture. The governance asymmetry this creates in bilateral security planning was formally noted in the Anglo-Irish engagement of February 2026.
 
