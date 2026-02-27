@@ -106,4 +106,4 @@ The concomitance with Ireland's 2026 EU Council Presidency is a tension that can
 The matter has been formally submitted to the French Ministry of Armed Forces (DGRIS) invoking administrative continuity from the engagement of the Directorate of Strategic Affairs in 2007 under M. Jean de Ponton d'Amécourt, and subsequently M. Miraillet. France, as a strategic power with a historic tradition of institutional rigour and a duty of stewardship toward its nationals abroad, is invited to assume a leadership role in resolving this matter and addressing the injustices sustained by the affected sectors.
 
 **To be in communion with what is not yet known — or who shall ever reckon the harm?**  
-[← Return](https://github.com/dr-crunch/nullification-loops)
+[← Return](https://github.com/dr-crunch/nullification-loops#nullification-loops)
