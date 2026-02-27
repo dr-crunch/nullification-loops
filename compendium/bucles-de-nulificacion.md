@@ -1,4 +1,4 @@
-**Colapso Normativo y Bucles de Nulificación**
+## Colapso Normativo y Bucles de Nulificación
 
 Desde 2006, he presentado formalmente ante las instituciones del Estado irlandés —el Ministerio de Asuntos Exteriores, Irish Aid, el Ministerio de Defensa, la oficina del Taoiseach, el HSE, así como ante ambas cámaras del Oireachtas (el Parlamento)— un corpus de trabajos en **Investigación Operativa (I.O.)** con aplicaciones directas en: logística humanitaria, planificación de emergencias, gobernanza de crisis, seguridad nacional y regulación de bienes de doble uso.
 
