@@ -39,4 +39,4 @@ Tá an comhad i gcéim ghníomhach dlíthíochta: chuir mé an cás faoi bhráid
 ---
 
 **Ní gníomh neodrach é diúltú rannpháirtíochta. Cruthaíonn sé damáiste fianaise.**    
-[← Ar ais](https://github.com/dr-crunch/nullification-loops#nullification-loops)
+[← Ar ais chuig lúba neamhnithe](https://github.com/dr-crunch/nullification-loops#nullification-loops)
