@@ -39,4 +39,4 @@
 ---
 
 **Η άρνηση δέσμευσης δεν αποτελεί ουδέτερη πράξη· επιφέρει αποδεικτική βλάβη.**  
-[← Επιστροφή](https://github.com/dr-crunch/nullification-loops)
+[← Επιστροφή](https://github.com/dr-crunch/nullification-loops#nullification-loops)
