@@ -40,4 +40,4 @@ Byla yra aktyviame teisinio ginčo etape: perdaviau bylą Airijos ombudsmenui, p
 
 **Atsisakymas dalyvauti nėra neutralus veiksmas. Jis sukuria įrodomąją žalą.**  
 Līdzdalība ignorētajā — kurš atzīs nodarīto kaitējumu?  
-[← Atpakaļ](https://github.com/dr-crunch/nullification-loops)
+[← Atpakaļ](https://github.com/dr-crunch/nullification-loops#nullification-loops)
