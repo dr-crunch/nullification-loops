@@ -4,6 +4,11 @@
 
 ---
 
+**Κυπριακά**
+Απού τον ίδιον φως, απού τον νουν,  
+σπίτιν φτιάννουμεν εις τον εσπερινόν αέρα,  
+εν ω το είναι — αρκεί.  
+
 **Gaeilge**  
 As an solas céanna seo, as lár an intinn,  
 déanaimid teach sa ghaoth thráthnóna,  
