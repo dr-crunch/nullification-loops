@@ -7,32 +7,32 @@
 **Κυπριακά**  
 Απού τον ίδιον φως, απού τον νουν,  
 σπίτιν φτιάννουμεν εις τον εσπερινόν αέρα,  
-εν ω το είναι — αρκεί.  
+εν ω το είναι αρκεί.  
 
 **Gaeilge**  
 As an solas céanna seo, as lár an intinn,  
 déanaimid teach sa ghaoth thráthnóna,  
-ina bhfuil bheith ann le chéile — leor.  
+ina bhfuil bheith ann le chéile leor.  
 
 **Lietuvių**  
 Iš tos pačios šviesos, iš proto centro,  
 mes kuriame buveinę vakariniame ore,  
-kurioje būti kartu — pakanka. 
+kurioje būti kartu pakanka. 
 
 **Ἑλληνικά**  
 Ἐκ τοῦ αὐτοῦ φωτός, ἐκ τοῦ νοῦ,  
 οἰκίαν ποιοῦμεν ἐν τῷ ἑσπερίῳ ἀέρι,  
-ἐν ᾧ τὸ εἶναι — ἀρκεῖ.  
+ἐν ᾧ τὸ εἶναι ἀρκεῖ.  
 
 **Français**  
 De cette même lumière, du centre de l'esprit,  
 nous faisons une demeure dans l'air du soir,  
-où être là ensemble — suffit.  
+où être là ensemble suffit.  
 
 **Español**  
 De esta misma luz, del centro de la mente,  
 hacemos una morada en el aire del atardecer,  
-donde estar juntos — basta. 
+donde estar juntos basta. 
 
 From Wallace Stevens' *Final Soliloquy of the Interior Paramour* (CP 524)
 
