@@ -18,7 +18,7 @@ See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.googl
 
 A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md) —there's also an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).  
 
-🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)   |   Exposé Principal: [Résumé Analytique](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)  
+🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md)   |   Exposé Principal: [Résumé Analytique](https://github.com/dr-crunch/nullification-loops/blob/main/exposition-principal.md)  
 
 🇪🇸 Para mantener la coherencia técnica con el expediente preparado para revisión judicial, la traducción al español de la línea de navegación es la siguiente:
 
