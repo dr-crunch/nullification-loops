@@ -387,7 +387,7 @@ Each of these states emerged from authoritarian governance within living memory 
 
 Cyprus holds a particular position within the group. As the current holder of the Presidency until June 30th, 2026 — Ireland's immediate predecessor — Cyprus is the state most directly adjacent to the Presidency conflict-of-interest question. Its government officials have current operational knowledge of what it means to hold that role, and what it would mean to hold it while suppressing an acknowledged governance failure. Nicosia is therefore a natural first point of contact for the Presidency-framing of the argument.
 
-Greece will hold the Presidency in the second half of 2027 as the third member of the Ireland/Lithuania/Greece Trio. Athens has its own institutional stake in the Trio's coherence and credibility — a Trio whose first member holds the Presidency while suppressing an ethics complaint creates reputational complications that are not Ireland's alone to manage. The current government under Kyriakos Mitsotakis has invested in positioning Greece as a credible, reforming partner state. That investment is not served by association with a visibly compromised Presidency.
+Greece will hold the Presidency in the second half of 2027 as the third member of the Ireland/Lithuania/Greece Trio. Athens has its own institutional stake in the Trio's coherence and credibility: **a Trio whose first member holds the Presidency while suppressing an ethics complaint creates reputational complications that are not Ireland's alone to manage**. The current government under Kyriakos Mitsotakis has invested in positioning Greece as a credible, reforming partner state. That investment is not served by association with a visibly compromised Presidency.
 
 ---
 
