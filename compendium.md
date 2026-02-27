@@ -93,7 +93,7 @@ From the judicial review documentation:
 3. Coordinating cross-border intelligence cooperation
 4. **Blocking any Commission investigation into its own TFEU 196 breach**
 
-**This is not administrative failure. This is structural entrapment without functional discipline.**
+**This is not administrative failure. This is structural entrapment without functional self-discipline.**
 
 ### IV. Functional Responsibilities
 
