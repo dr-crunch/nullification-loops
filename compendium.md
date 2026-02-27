@@ -1,11 +1,11 @@
 # Judicial Review
 
-🇫🇷 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops/blob/main/boucles-de-nullification.md)  
-🇪🇸 Sinopsis en Español: [bucles-de-nulificación](https://github.com/dr-crunch/nullification-loops/blob/main/bucles-de-nullificación.md)    
-🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [vróchoi-kýrosis-CY](https://github.com/dr-crunch/nullification-loops/blob/main/vrochoi-kyrosis-CY.md)  
-🇮🇪 Achoimre as Gaeilge: [lúba-neamhnithe](https://github.com/dr-crunch/nullification-loops/blob/main/lu%CC%81ba-neamhnithe.md)  
+🇫🇷 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md)  
+🇪🇸 Sinopsis en Español: [bucles-de-nulificación](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nullificación.md)    
+🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [vróchoi-kýrosis-CY](https://github.com/dr-crunch/nullification-loops/blob/main/compendiumvrochoi-kyrosis-CY.md)  
+🇮🇪 Achoimre as Gaeilge: [lúba-neamhnithe](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/lúba-neamhnithe.md)  
 🇱🇹 Santrauka lietuvių kalba: [anuliavimo-kilpos](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)  
-🇬🇷 Σύνοψη στα ελληνικά: [vróchoi-kýrosis](https://github.com/dr-crunch/nullification-loops/blob/main/vro%CC%81choi-ky%CC%81rosis.md)  
+🇬🇷 Σύνοψη στα ελληνικά: [vróchoi-kýrosis](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vróchoi-kýrosis.md)  
 
 For the purpose of judicial review and technical accuracy, it is essential to first distinguish between two distinct EU leadership roles: the **Presidency of the Council of the European Union** (a rotating role held by Member State governments) and the **President of the European Council** (a permanent individual position, currently held by **António Costa**).
 
