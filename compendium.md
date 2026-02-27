@@ -21,8 +21,6 @@ The rotation of the Presidency is governed by **Article 16(9)** of the Treaty on
 
 The Presidency rotates every six months. As of today, **February 26, 2026**, the Presidency is held by **Cyprus**.
 
-+1
-
 |**Year**|**January – June**|**July – December**|
 |---|---|---|
 |**2024**|Belgium|Hungary|
