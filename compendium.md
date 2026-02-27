@@ -1,13 +1,13 @@
 # Judicial Review
 
-🇫🇷 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md)  
-🇪🇸 Sinopsis en Español: [bucles-de-nulificación](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nullificación.md)    
-🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [vróchoi-kýrosis-CY](https://github.com/dr-crunch/nullification-loops/blob/main/compendiumvrochoi-kyrosis-CY.md)  
-🇮🇪 Achoimre as Gaeilge: [lúba-neamhnithe](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/lúba-neamhnithe.md)  
-🇱🇹 Santrauka lietuvių kalba: [anuliavimo-kilpos](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)  
-🇬🇷 Σύνοψη στα ελληνικά: [vróchoi-kýrosis](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vróchoi-kýrosis.md)  
-
 For the purpose of judicial review and technical accuracy, it is essential to first distinguish between two distinct EU leadership roles: the **Presidency of the Council of the European Union** (a rotating role held by Member State governments) and the **President of the European Council** (a permanent individual position, currently held by **António Costa**).
+
+🇫🇷 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md)  
+🇪🇸 Sinopsis en Español: [bucles-de-nulificación](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nullificacion.md)  
+🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [vróchoi-kýrosis-CY](https://github.com/dr-crunch/nullification-loops/blob/main/compendiumvrochoi-kyrosis-CY.md)  
+🇮🇪 Achoimre as Gaeilge: [lúba-neamhnithe](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/luba-neamhnithe.md)  
+🇱🇹 Santrauka lietuvių kalba: [anuliavimo-kilpos](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)  
+🇬🇷 Σύνοψη στα ελληνικά: [vróchoi-kýrosis](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vroochoi-kyrosis.md)  
 
 The information below details the "rota" for the **Presidency of the Council of the European Union**.
 
@@ -57,7 +57,7 @@ The Member State holding the Presidency is responsible for:
 
 ---
 
+
 De acuerdo con su instrucción de formatear las respuestas para **revisión judicial**, presento a continuación la traducción formal y técnica del documento al español, manteniendo la precisión terminológica necesaria para un contexto legal y administrativo.
 
-
-
+[← Volver](https://github.com/dr-crunch/nullification-loops#nullification-loops)
