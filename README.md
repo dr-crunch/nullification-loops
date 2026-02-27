@@ -18,16 +18,16 @@ See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.googl
 
 A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md) —there's also an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).  
 
-🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md)   |   Exposé Principal: [Résumé Analytique](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/résumé-analytique.md)  
+🇫🇷 Synopsis en Français: [commencer-ici](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md)   |   Exposé Principal: [Résumé Analytique](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/resume-analytique.md)  
 
 🇪🇸 Para mantener la coherencia técnica con el expediente preparado para revisión judicial, la traducción al español de la línea de navegación es la siguiente:
 
-**Sinopsis en español: [comenzar-aquí](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nulificación.md) | [Resumen Ejecutivo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/resumen-ejecutivo.md)**
+**Sinopsis en español: [comenzar-aquí](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nulificacion.md) | [Resumen Ejecutivo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/resumen-ejecutivo.md)**
 
 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [thórei-dhamé](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vrochoi-kyrosis-CY.md)  
-🇮🇪 Achoimre as Gaeilge: [tosaigh-anseo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/lúba-neamhnithe.md)  
+🇮🇪 Achoimre as Gaeilge: [tosaigh-anseo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/luba-neamhnithe.md)  
 🇱🇹 Santrauka lietuvių kalba: [pradeti-cia](https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md)  
-🇬🇷 Σύνοψη στα ελληνικά: [arxi-edo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vróchoi-kýrosis.md)  
+🇬🇷 Σύνοψη στα ελληνικά: [arxi-edo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vrochoi-kyrosis.md)  
 
 This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption; it is the **State's failure to conclude the administrative process it initiated**.
 
