@@ -29,7 +29,7 @@ For the purpose of judicial review and technical accuracy, it is essential to fi
 
 > "Can a Member State lawfully hold the Council Presidency while suppressing an ethics complaint that documents its own breach of Treaty obligations in areas within the Presidency's functional responsibilities?"
 
-This question was first put before Judge Eugene Regan of the Court of Justice. No response was received.
+No appropriate response has been received —no explanation postulated.
 
 ---
 
