@@ -77,3 +77,8 @@ El expediente se encuentra ahora en fase contenciosa activa:
 Lo que inicialmente se presentó como una contribución técnica a la resiliencia pública se presenta hoy como una **prueba institucional**: ya no se trata de la validez científica de los trabajos, sino de la capacidad de un Estado para producir una decisión motivada —sea cual sea el resultado.
 
 El desafío ya no es la adopción de las propuestas; es la posibilidad misma de un acto decisorio.
+
+
+---
+
+[← Volver](https://github.com/dr-crunch/nullification-loops#nullification-loops)
