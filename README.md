@@ -8,7 +8,7 @@
 
 <summary>Phainocratic</summary>
 
-## Phainocracy
+### Phainocracy
 > *governing through the preservation of **appearances** rather than through substantive correction.*  
 
 From Greek φαινόμενον (phaínō), appearance (to show, to appear)  + κράτος (krátos), to rule.  
