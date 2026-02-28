@@ -438,4 +438,38 @@ https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
 
 * **scathan-agus-splanc-phainocratic-nullification-loops.png**: Visual nullification loops (B&W abstract particle physics design). *Scáthán agus Splanc* is Irish for 'Mirrors and Flash'
 
-*Dealraitheachas agus Riarachánachas*: [Governmentality 2025](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+*Dealraitheachas agus Riarachánachas*: Phainocracy and Governmentality  
+
+🇮🇪 Achoimre as Gaeilge: [dealraitheachas-agus-riarachánachas](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇫🇷 Synopsis en Français: [gouvernementalité-et-phainocratie](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇧🇪 Samenvatting in het Nederlands (BE): [bestuur-en-phainocratie-BE](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇱🇺 Résumé en Luxembourgeois: [Gouvernementalitéit-a-Phainocratie-LU](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇳🇱 Samenvatting in het Nederlands (NL): [bestuurlijkheid-en-phainocratie-NL](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+
+🇩🇪 Zusammenfassung auf Deutsch: [Gouvernementalität-und-Phainokratie](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇦🇹 Zusammenfassung auf Österreichischem Deutsch: [Gouvernementalität-und-Phainokratie-AT](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇵🇱 Streszczenie po polsku: [gubernamentalność-i-phainokracja](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇨🇿 Shrnutí v češtině: [guvernmentalita-a-phainokracie](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇸🇰 Zhrnutie v slovenčine: [guvernmentalita-a-phainokracia](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇭🇺 Összefoglaló magyarul: [guvernmentalitás-és-phainokrácia](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+
+🇬🇷 Σύνοψη στα ελληνικά: [κυβερνησιμότητα-και-φαινοκρατία](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [κυβερνησιμότητα-και-φαινοκρατία-CY](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇧🇬 Резюме на български: [гуверналност-и-файнокрация](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇷🇴 Rezumat în română: [guvernamentalitate-și-phainocrație](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇭🇷 Sažetak na hrvatskom: [guvernmentalnost-i-phainokracija](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇸🇮 Povzetek v slovenščini: [guvernmentalnost-in-phainokracija](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇪🇪 Kokkuvõte eesti keeles: [guvernmentaalsus-ja-phainokraatia](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇱🇻 Kopsavilkums latviešu valodā: [guvernmentalitāte-un-phainokrātija](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇱🇹 Santrauka lietuvių kalba: [guvernmentalumas-ir-phainokratija](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+
+🇮🇹 Sintesi in italiano: [governamentalità-e-phainocrazia](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇪🇸 Resumen en español: [gubernamentalidad-y-phainocracia](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇵🇹 Resumo em português (PT): [governamentalidade-e-phainocracia-PT](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇲🇹 Sommarju bil-Malti: [governmentalità-u-phainokrazija](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇫🇮 Yhteenveto suomeksi: [governmentaalisuus-ja-phainokratia](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇸🇪 Sammanfattning på svenska: [governmentalitet-och-phainokrati](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇩🇰 Resumé på dansk: [governmentalitet-og-phainokrati](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+
+🇪🇸 Resum en català: [governamentalitat-i-phainocracia-CAT](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
+🇵🇹 Resumo em português (PT, variante): [governamentalidade-e-phainocracia-PT2](https://github.com/dr-wojak/start-here?tab=readme-ov-file#1-governmentality-2025)
