@@ -13,7 +13,7 @@
 
 From Greek φαινόμενον (phaínō), appearance (to show, to appear)  + κράτος (krátos), to rule.  
 
-See: [Dealraitheachas and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition. *Dealraitheachas* is Irish (GA) for Phainocracy.  
+See: [*Dealraitheachas* and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition. *Dealraitheachas* is Irish (GA) for Phainocracy.  
 </details>
 
 A synopsis of this material, including background information, is available [here](https://github.com/dr-crunch/nullification-loops/blob/main/synopsis.md) —there's also an overview of [major topics](https://github.com/dr-crunch/nullification-loops/blob/main/major-topics.md).  
