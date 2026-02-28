@@ -40,6 +40,8 @@ From Wallace Stevens' *Final Soliloquy of the Interior Paramour* (CP 524)
 
 This compendium maps every party with a cognisable interest in the protracted failure to engage with Operations Research (O.R.) in Irish public governance — a failure documented continuously from the initial submission of November 11th, 2006, through to the present. The matter is no longer bounded by domestic administrative law. As Ireland holds the Presidency of the Council of the European Union in the second half of 2026, every layer of stakeholder interest — individual, civic, parliamentary, executive, judicial, bilateral, and supranational — is now engaged.
 
+What the Presidency moment clarifies is that this architecture, if exported — if Ireland chairs Council working groups on governance quality, rule-of-law indicators, or digital governance reform while this record stands unaddressed — the Evasocracy is not merely national; it becomes a template. The OR survey, as noted in the Compendium at the Scáthan agus Splánc landing page, can be adapted as a governance instrument across all EU states. The terrible irony is that without remediation, the inverse is equally true: the evasion architecture is also exportable, also adaptable, also instructive — as a lesson in how to absorb technical intelligence without acting on it, at EU scale.
+
 The primary repository of documentation is accessible at:
 
 https://github.com/dr-crunch/nullification-loops
