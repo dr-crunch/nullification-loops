@@ -1,6 +1,6 @@
 ![nullification-loops](https://github.com/dr-crunch/nullification-loops/blob/main/scathan-agus-splanc-phainocratic-nullification-loops-v2.png)
 # nullification-loops
-**Scáthan agus Splánc: Ireland’s Constitutional and Technical Crisis (Public Landing Page)**  
+**Scáthan agus Splanc: Ireland’s Constitutional and Technical Crisis (Public Landing Page)**  
 
 
 <details>
@@ -368,7 +368,7 @@ This complaint alleges structural non-resolution incompatible with:
 
 ---
 
-# scáthan-agus-splánc
+# scáthan-agus-splanc
 
 These documents outline a protracted governance and legal dispute between a private citizen and the Irish State regarding the alleged suppression of Operations Research methodologies. The author argues that various Irish institutions and officials, including EU Commissioner Michael McGrath, have systematically ignored a formal complaint that has persisted for nearly two decades. Central to the grievances is the claim that the Oireachtas petition mechanism has failed to function, creating a procedural void that violates both the Irish Constitution and EU law.  
 
