@@ -438,6 +438,8 @@ https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
 
 * **scathan-agus-splanc-phainocratic-nullification-loops.png**: Visual nullification loops (B&W abstract particle physics design). *Scáthán agus Splanc* is Irish for 'Mirrors and Flash'
 
+---
+
 # *Dealraitheachas agus Riarachánachas*: Phainocracy and Governmentality  
 **A Public Record of Governance, Preparedness, and Decision-Making in Ireland**
 
