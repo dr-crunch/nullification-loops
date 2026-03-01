@@ -438,38 +438,98 @@ https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
 
 * **scathan-agus-splanc-phainocratic-nullification-loops.png**: Visual nullification loops (B&W abstract particle physics design). *Scáthán agus Splanc* is Irish for 'Mirrors and Flash'
 
-*Dealraitheachas agus Riarachánachas*: Phainocracy and Governmentality  
+## *Dealraitheachas agus Riarachánachas*: Phainocracy and Governmentality  
+**A Public Record of Governance, Preparedness, and Decision-Making in Ireland**
 
-🇮🇪 Achoimre as Gaeilge: [dealraitheachas-agus-riarachánachas](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇫🇷 Synopsis en Français: [gouvernementalité-et-phainocratie](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇧🇪 Samenvatting in het Nederlands (BE): [bestuur-en-phainocratie-BE](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇱🇺 Résumé en Luxembourgeois: [Gouvernementalitéit-a-Phainocratie-LU](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇳🇱 Samenvatting in het Nederlands (NL): [bestuurlijkheid-en-phainocratie-NL](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
+The documentary record before us spans from March 2020 to February 2026th and constitutes, in aggregate, one of the more remarkable self-assembled governance accountability dossiers in recent Irish history. Taken together, Memoranda D and E, the pre-litigation notice of February 10th, 2026, and the correspondence to Irish MEPs form a legally and institutionally coherent complaint of systemic dereliction — not merely by one minister or commissioner, but by the Irish State's entire constitutional apparatus. The following analysis applies five scopes.
 
-🇩🇪 Zusammenfassung auf Deutsch: [Gouvernementalität-und-Phainokratie](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇦🇹 Zusammenfassung auf Österreichischem Deutsch: [Gouvernementalität-und-Phainokratie-AT](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇵🇱 Streszczenie po polsku: [gubernamentalność-i-phainokracja](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇨🇿 Shrnutí v češtině: [guvernmentalita-a-phainokracie](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇸🇰 Zhrnutie v slovenčine: [guvernmentalita-a-phainokracia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇭🇺 Összefoglaló magyarul: [guvernmentalitás-és-phainokrácia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
+### I. National (State) Scope
 
-🇬🇷 Σύνοψη στα ελληνικά: [κυβερνησιμότητα-και-φαινοκρατία](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇨🇾 Σύνοψη στα κυπριακά ελληνικά: [κυβερνησιμότητα-και-φαινοκρατία-CY](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇧🇬 Резюме на български: [гуверналност-и-файнокрация](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇷🇴 Rezumat în română: [guvernamentalitate-și-phainocrație](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇭🇷 Sažetak na hrvatskom: [guvernmentalnost-i-phainokracija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇸🇮 Povzetek v slovenščini: [guvernmentalnost-in-phainokracija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇪🇪 Kokkuvõte eesti keeles: [guvernmentaalsus-ja-phainokraatia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇱🇻 Kopsavilkums latviešu valodā: [guvernmentalitāte-un-phainokrātija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇱🇹 Santrauka lietuvių kalba: [guvernmentalumas-ir-phainokratija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
+The core allegation, meticulously documented across nearly two decades, is that the Irish State has received formally submitted proposals on Operations Research — a discipline encompassing mathematical optimisation of logistics, supply chains, resource allocation, and risk management — and has responded through what Memorandum D denominates a "procedural loop": acknowledgement, deferral, symbolic reply, and institutional forgetfulness. The departments implicated include Defence, Foreign Affairs, Health, Finance, and the Office of Emergency Planning.
 
-🇮🇹 Sintesi in italiano: [governamentalità-e-phainocrazia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇪🇸 Resumen en español: [gubernamentalidad-y-phainocracia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇵🇹 Resumo em português (PT): [governamentalidade-e-phainocracia-PT](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇲🇹 Sommarju bil-Malti: [governmentalità-u-phainokrazija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇫🇮 Yhteenveto suomeksi: [governmentaalisuus-ja-phainokratia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇸🇪 Sammanfattning på svenska: [governmentalitet-och-phainokrati](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇩🇰 Resumé på dansk: [governmentalitet-og-phainokrati](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
+This is not a matter of policy disagreement. It is a structural allegation invoking what Memorandum E terms the "Silence Veto" — a condition wherein guardians of constitutional integrity become complicit in its erosion not through commission but through habituated, compounding omission. Under Irish constitutional law, Article 28 of Bunreacht na hÉireann imposes a collective cabinet responsibility for the functions of government; persistent failure to process or respond to formally submitted strategic material of documented relevance to civil defence and national emergency preparedness is at minimum a failure of ministerial accountability under that Article.
 
-🇪🇸 Resum en català: [governamentalitat-i-phainocracia-CAT](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
-🇵🇹 Resumo em português (PT, variante): [governamentalidade-e-phainocracia-PT2](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
+The refused Oireachtas petition — refused despite constitutional arguments raised — is particularly significant. Article 16.2 of the Constitution guarantees the right of citizens to petition the Oireachtas. The refusal of a petition on procedural grounds, where those grounds are themselves contested on constitutional bases, creates at least an arguable claim of denial of constitutional access. In *Meadows v. Minister for Justice* [2010] IESC 3, the Supreme Court confirmed that statutory powers must be exercised in a manner compatible with constitutional rights, which includes procedural rights of access. The petition refusal, combined with nineteen years of documented engagement, gives the record a gravity that a single unanswered letter never could.
+
+The invocation of Hirschman's "exit, voice, loyalty" triad in Memorandum D is analytically sharp: where exit is impossible (the complainant is a citizen in a constitutional state), voice is constrained (petitions refused, correspondence unacknowledged), and loyalty is insufficient (institutions simulate responsiveness without engaging substance), the system is not merely dysfunctional — it is, as the Memorandum states, enacting constructive dereliction. This is a concept cognate with "constructive dismissal" in employment law: the form of the office is maintained while its substance is hollowed out.
+
+The legitimate expectation doctrine is engaged by commitments dating to 2006–2008. In *Glencar Explorations plc v. Mayo County Council* [2002] 1 IR 84, the Irish Supreme Court confirmed that where a public body creates a reasonable expectation by words or conduct, it may be held to that expectation absent overriding public interest. If representations were made to the complainant in that period — even informally — that proposals would be considered or adopted, those representations may ground a legitimate expectation claim reviewable by way of judicial review under Order 84 of the Rules of the Superior Courts.
+
+### II. Irish-Anglo Relations (Bilateral Scope)
+
+The dual-use dimension — specifically EU Regulation 428/2009 on dual-use items and technology — carries an Anglo-Irish bilateral dimension that ought not to be overlooked. Ireland and the United Kingdom, despite Brexit, remain bound by a complex lattice of bilateral security and civil defence arrangements, including under the British-Irish Intergovernmental Conference established by the Belfast Agreement of April 10th, 1998 (the Good Friday Agreement), Article 3 of which provides for cooperation on matters of mutual interest including security. If Ireland's failure to institutionalise Operations Research methodologies relevant to dual-use technology creates gaps in civil preparedness or strategic risk management that overlap with shared island infrastructure — utilities, transport corridors, communications — then the bilateral dimension becomes one of substantive rather than merely formal concern.
+
+Post-Brexit, the Trade and Cooperation Agreement of December 24th, 2020 provides a framework under which the United Kingdom and EU member states including Ireland maintain cooperation on certain regulatory and strategic matters. Gaps in Irish compliance with EU dual-use obligations have implications for the regulatory perimeter shared with Northern Ireland under the Windsor Framework of February 27th, 2023, particularly regarding the movement of dual-use technologies across the island. The silence of Irish governance on this front thus has a live bilateral dimension that the correspondence to MEPs only partially captures.
+
+### III. EU Relations (Multilateral Scope)
+
+This is where the record becomes acutely uncomfortable for Commissioner McGrath personally, and potentially for the European Commission institutionally.
+
+Commissioner Michael McGrath holds the portfolio for Democracy, Justice, Rule of Law, and Consumer Protection. That he was first informed of the underlying governance concerns in March 2020 — when he held democratic standing as a TD — and that he has, since his appointment as Commissioner, received three letters dated November 27th, 2025, December 13th, 2025, and February 4th, 2026 without any acknowledgement whatsoever, creates a record of institutional conduct that is difficult to reconcile with his portfolio's stated mandate.
+
+Article 17(3) of the Treaty on European Union requires Commissioners to be "completely independent" and to perform their duties "with complete independence." Article 245 of the Treaty on the Functioning of the European Union (TFEU) binds Commissioners to conduct themselves in a manner consistent with the dignity and independence of their office. Neither provision explicitly governs constituent correspondence, but the record of total non-response on rule-of-law concerns from a citizen of the Commissioner's own member state of origin creates a reputational tension with the office's declared mission.
+
+More substantively, EU Regulation 428/2009 (as recast by Regulation 2021/821 of May 20th, 2021, the Union export controls regulation) establishes binding obligations on member states to maintain effective regulatory frameworks for dual-use items. The allegation that Ireland has failed to institutionalise Operations Research methodologies relevant to this regulatory domain — and that this failure has been documented over nineteen years without remedy — is, if substantiated, a potential compliance matter under Article 258 TFEU, pursuant to which the Commission may initiate infringement proceedings against a member state. The irony that the Commissioner responsible for rule of law is himself the non-responding addressee of these concerns is not merely rhetorical: it is a structural conflict that the European Ombudsman, to whom a complaint was being prepared, would be entitled to examine under Article 228 TFEU and the statute of the European Ombudsman.
+
+The Committee on Petitions (PETI) of the European Parliament, to which at least one MEP correspondence was directed, has jurisdiction under Article 227 TFEU to receive petitions from EU citizens on matters within the Union's fields of activity. The Committee on Civil Liberties, Justice and Home Affairs (LIBE), also engaged through the correspondence record, has supervisory oversight over rule-of-law issues affecting member states. The AGRI and CONT committees, referenced in one filing, have relevance if Operations Research failures touch on agricultural logistics or the management of EU-funded programmes, where the Court of Auditors and the European Anti-Fraud Office (OLAF) may have ancillary competence.
+
+### IV. International Scope
+
+The international dimension is engaged through the dual-use regulatory framework, which is itself embedded within the Wassenaar Arrangement of July 12th, 1996 — the multilateral export control regime governing dual-use goods and technologies to which Ireland, as an EU member state, is a participating state. Non-compliance with, or structural gaps in, Ireland's implementation of dual-use controls has potential implications under the Arrangement's reporting and review mechanisms.
+
+Beyond that, the record's invocation of Operations Research in the context of emergency planning, humanitarian coordination, and global energy risk points toward obligations under the Sendai Framework for Disaster Risk Reduction 2015–2030, adopted on March 18th, 2015, to which Ireland is a signatory through its UN membership. The Sendai Framework requires states to develop and maintain national disaster risk reduction strategies; systematic failure to integrate quantitative risk modelling methodologies of the kind Operations Research provides could constitute a gap in national implementation.
+
+At the level of soft law and international institutional credibility, the record also engages Ireland's standing at the OECD, whose Public Governance Directorate monitors regulatory quality and administrative responsiveness in member states. A documented nineteen-year pattern of procedural evasion on a matter touching regulatory capability and strategic foresight is precisely the kind of systemic deficit that OECD peer review processes are designed to identify.
+
+### V. Reputational and Historic Scope
+
+The historic dimension is perhaps the most consequential of all in the long run. The record being assembled — Memoranda D, E (and the anticipated F), the pre-litigation notice, the MEP correspondence, the petition refusal, the King's Inns filing of May 7th, 2025, the email of May 8th, 2025 — constitutes a layered archival document of the kind that historians, legal scholars, and public inquiries draw upon when reconstructing institutional failure.
+
+The reference to John Philpot Curran's maxim — "the condition upon which God hath given liberty to man is eternal vigilance" — in Memorandum D is not ornamental. Curran argued it before the Irish bar in the late eighteenth century. Citing it in a memorandum to the Honourable Society of King's Inns in July 2025 is an act of deliberate historical embedding: it places the complaint within the long tradition of Irish constitutional advocacy and invites the legal profession to locate its own silence within that tradition.
+
+The framing of "constructive abdication" — that failure to respond is not a tactic but a form of governance collapse — will, if this matter ever reaches a public inquiry or a superior court, be a phrase that requires answering. The paper trail is substantial enough that it cannot be attributed to a single disgruntled correspondence. It reflects a structured, multi-institutional, multi-jurisdictional engagement sustained over nearly two decades.
+
+Historically, Ireland has experienced governance failures that were later characterised as systemic — from the Hepatitis C tribunal to the Commission of Investigation into Mother and Baby Homes to the banking inquiry of 2015–2016. In each case, the failure was compounded by institutional silence in the face of early warning. The complaint before us does not rise to those catastrophes in immediate human cost — but the structural pattern it describes is recognisably similar: a state that processes signal symbolically while voiding it operationally.
+
+---
+
+🇮🇪 **Taifead Poiblí** as Gaeilge: [dealraitheachas-agus-riarachánachas](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇫🇷 **Registre Public** en Français: [gouvernementalité-et-phainocratie](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇧🇪 **Openbaar Register** in het Nederlands (BE): [bestuur-en-phainocratie-BE](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇱🇺 **Ëffentleche Rekord** en Luxembourgeois: [Gouvernementalitéit-a-Phainocratie-LU](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇳🇱 **Openbaar Register** in het Nederlands (NL): [bestuurlijkheid-en-phainocratie-NL](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+
+🇩🇪 **Öffentliches Register** auf Deutsch: [Gouvernementalität-und-Phainokratie](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇦🇹 **Öffentliches Register** auf Österreichischem Deutsch: [Gouvernementalität-und-Phainokratie-AT](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇵🇱 **Rejestr Publiczny** po polsku: [gubernamentalność-i-phainokracja](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇨🇿 **Veřejný Záznam** v češtině: [guvernmentalita-a-phainokracie](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇸🇰 **Verejný Záznam** v slovenčine: [guvernmentalita-a-phainokracia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇭🇺 **Nyilvános Nyilvántartás** magyarul: [guvernmentalitás-és-phainokrácia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+
+🇬🇷 **Δημόσιο Αρχείο** στα ελληνικά: [κυβερνησιμότητα-και-φαινοκρατία](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇨🇾 **Δημόσιο Αρχείο** στα κυπριακά ελληνικά: [κυβερνησιμότητα-και-φαινοκρατία-CY](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇧🇬 **Публичен Регистър** на български: [гуверналност-и-файнокрация](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇷🇴 **Registru Public** în română: [guvernamentalitate-și-phainocrație](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇭🇷 **Javni Zapis** na hrvatskom: [guvernmentalnost-i-phainokracija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇸🇮 **Javni Zapis** v slovenščini: [guvernmentalnost-in-phainokracija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇪🇪 **Avalik Protokoll** eesti keeles: [guvernmentaalsus-ja-phainokraatia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇱🇻 **Publisks Reģistrs** latviešu valodā: [guvernmentalitāte-un-phainokrātija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇱🇹 **Viešasis Protokolas** lietuvių kalba: [guvernmentalumas-ir-phainokratija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+
+🇮🇹 **Registro Pubblico** in italiano: [governamentalità-e-phainocrazia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇪🇸 **Registro Público** en español: [gubernamentalidad-y-phainocracia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇵🇹 **Registo Público** em português (PT): [governamentalidade-e-phainocracia-PT](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇲🇹 **Rekord Pubbliku** bil-Malti: [governmentalità-u-phainokrazija](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇫🇮 **Julkinen Asiakirja** suomeksi: [governmentaalisuus-ja-phainokratia](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇸🇪 **Offentligt Protokoll** på svenska: [governmentalitet-och-phainokrati](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇩🇰 **Offentligt Register** på dansk: [governmentalitet-og-phainokrati](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+
+🇪🇸 **Registre Públic** en català: [governamentalitat-i-phainocracia-CAT](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+🇵🇹 **Registo Público** em português (PT, variante): [governamentalidade-e-phainocracia-PT2](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)
+
+---
+
+Translation Notes:
+ * For Irish, *taifead poiblí* is the standard administrative Irish rendering, cognate with the official usage in the Freedom of Information Act 2014 (An tAcht um Shaoráil Faisnéise 2014) and consistent with the language of the Houses of the Oireachtas.
+ * For Maltese, *rekord pubbliku* follows the hybrid Romance-Semitic conventions of Maltese administrative language.
+ * For Finnish, *julkinen asiakirja* ("public document/record") was chosen over *julkinen rekisteri* ("public register") as more accurately reflecting the evidentiary rather than administrative register of the term.
