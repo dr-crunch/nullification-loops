@@ -55,7 +55,9 @@ The *Délégation des Affaires Stratégiques (DAS)* opened the dossier in 2007 u
 
 France is also the author's national state. That changes the diplomatic register considerably. A French national, resident in Ireland, holding EU citizenship and UK right of abode, whose proprietary research has been retained without compensation for nineteen years by an EU Member State, is invoking the protection of his home state. This is a matter of **consular and diplomatic standing**, not merely academic interest.
 
-For the cohort: **France is the natural convener**. It has prior institutional knowledge through DAS, a national interest through citizenship, and the strategic weight to raise the matter at Council level without it appearing as a bilateral grievance between Ireland and a smaller state.
+For the cohort: **France is the natural convener**. It has prior institutional knowledge through DAS, a national interest through citizenship, and the strategic weight to raise the matter at Council level without it appearing as a bilateral grievance between Ireland and a smaller state. The Irish Government has confirmed that France has been identified as the preferred partner for Ireland's Armoured Fleet Programme — a programme to replace ageing vehicles and enhance Defence Forces capabilities — following a detailed assessment of options.
+
+France is therefore not a disinterested party in Irish defence. It is Ireland's named preferred bilateral defence partner at precisely the moment your dossier (a French-national researcher's OR/AI governance case, opened with the DAS in 2007) is being formally submitted to the DGRIS. The strategic coherence of that timing is worth noting explicitly in your correspondence.
 
 **The Derivation in Summary**
 
