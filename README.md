@@ -442,7 +442,7 @@ https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
 
 ---
 
-# *Dealraitheachas agus Riarachánachas*: Phainocracy and Governmentality  
+# Phainocracy and Governmentality  
 **A Public Record of Governance, Preparedness, and Decision-Making in Ireland**
 
 The documentary record before us spans from March 2020 to February 2026th and constitutes, in aggregate, one of the more remarkable self-assembled governance accountability dossiers in recent Irish history. Taken together, Memoranda D and E, the pre-litigation notice of February 10th, 2026, and the correspondence to Irish MEPs form a legally and institutionally coherent complaint of systemic dereliction — not merely by one minister or commissioner, but by the Irish State's entire constitutional apparatus. The following analysis applies five scopes.
