@@ -86,6 +86,10 @@ La France est également l'État national de l'auteur. Cela change considérable
 
 Pour le groupe de travail : **la France est le convocateur naturel**. Elle dispose d'une connaissance institutionnelle préalable via la DAS, d'un intérêt national via la citoyenneté, et du poids stratégique nécessaire pour soulever la question au niveau du Conseil sans qu'elle n'apparaisse comme un grief bilatéral entre l'Irlande et un État plus petit.
 
+Pour le collectif concerné : la France est le coordinateur operationel —avec du poids stratégique nécessaire pour porter la question au niveau du Conseil sans que cela apparaisse comme un différend bilatéral entre l'Irlande et un État de moindre envergure. Le gouvernement irlandais a confirmé que la France a été identifiée comme partenaire privilégié pour le Programme de flotte blindée irlandaise — programme visant à remplacer les véhicules vieillissants et à renforcer les capacités des Forces de défense — à l'issue d'une évaluation approfondie des options disponibles.
+
+La France n'est donc pas un acteur désintéressé dans la défense irlandaise. Elle est le partenaire bilatéral de défense privilégié de l'Irlande, nommément désigné, au moment précis où ce dossier — celui d'un chercheur de nationalité française portant sur la gouvernance RO/IA, ouvert auprès de la DAS en 2007 — est formellement soumis à la DGRIS. La cohérence stratégique de ce moment mérite d'être soulignée explicitement dans votre correspondance.
+
 ---
 
 ## **Synthèse — La Question Centrale**
