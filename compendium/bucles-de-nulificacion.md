@@ -78,7 +78,31 @@ Lo que inicialmente se presentó como una contribución técnica a la resilienci
 
 El desafío ya no es la adopción de las propuestas; es la posibilidad misma de un acto decisorio.
 
-
 ---
+
+### Piezas Adjuntas
+
+NB: La Comision Conjunta de Peticiones Publicas y Defensores del Pueblo (JCPP) es, mas o menos, el equivalente irlandes de la Comision de Peticiones del Parlamento Europeo: el organismo parlamentario encargado de recibir y supervisar las peticiones de los ciudadanos ante el Estado. Su mandato es analogico pero no identico al de PETI — combina la funcion de supervision de peticiones con la supervision de los defensores del pueblo. Es precisamente este mecanismo el que ha mantenido silencio total a traves de dieciocho comunicaciones sustantivas desde junio de 2025. Los documentos adjuntos documentan su colapso.  
+
+  - Aviso previo al litigio definitivo — "Final Pre-Litigation Notice" (10 de febrero de 2026)
+    - Ofrece la sintesis mas concisa de las dimensiones constitucionales y del Derecho de la Union, incluyendo la dimension McGrath y el fracaso del mecanismo de supervision de peticiones ante el Oireachtas.  
+
+  - Solicitud de coordinacion a nivel ejecutivo sobre un fallo de gobernanza persistente con implicaciones en el Derecho de la Union (27 de noviembre de 2025) y su carta de seguimiento del 4 de febrero de 2026
+    - Documentan conjuntamente las gestiones sin respuesta ante el gabinete del Comisario y exponen el analisis estructural y juridico ampliado en el marco del Derecho de la Union.  
+
+  - Vision general exhaustiva del fallo de gobernanza sistemica — "JCPP Systemic Governance Failure and Breakdown of Petition Oversight Mechanism" (12 de febrero de 2026)
+    - Presentacion completa del expediente ante la Comision Conjunta de Peticiones Publicas y el Defensor del Pueblo, con documentacion del colapso del mecanismo de supervision parlamentaria.  
+
+  - Anexo: Pertinencia estrategica de la Investigacion Operativa para la Defensa y la Seguridad nacional (10 de febrero de 2026)
+    - Articula las aplicaciones de doble uso del corpus de investigacion en el contexto de los marcos de seguridad nacional e institucional de la Union Europea.    
+
+  - Aviso formal de no compromiso dirigido al IIEA (23 de febrero de 2026)
+    - Ilustra la medida en que el patron de silencio institucional se extiende mas alla de los actores estatales para alcanzar a los organismos de la sociedad civil dotados de mandatos de interes publico explicitos.  
+
+  - Carta de esta fecha dirigida a Democracy Reporting International (DRI)
+    - Solicita una observacion de tercero ante el Defensor del Pueblo europeo sobre las dimensiones estructurales y procedimentales del patron de no-decision administrativa documentado en el presente expediente.  
+
+  - Solicitud de orientacion para la presentacion de una peticion en condiciones de riesgo institucional — dirigida a la Secretaria de la Comision de Peticiones, Parlamento Europeo (14 de mayo de 2025)
+    - Documenta que la Comision de Peticiones del Parlamento Europeo fue notificada de las dimensiones estructurales de este expediente con anterioridad a la Presidencia actual. La comunicacion quedo sin respuesta, extendiendo el patron de la Espiral de Nulificacion al propio organismo de supervision de peticiones de la Union.   
 
 [← Volver a los bucles de nulificación](https://github.com/dr-crunch/nullification-loops#nullification-loops)
