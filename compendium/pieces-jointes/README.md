@@ -79,10 +79,10 @@ Key Repository Metrics
 Metric	Description
 Timeline	2006–2025 (19-year longitudinal audit)
 Evidence Volume	26kg of proprietary research and strategic documentation
-Primary Institutional Respondents	Oireachtas Clerks, DFA, Department of Defence, Office of Emergency Planning (OEP)
-Documented Engagement	18 substantive submissions to the JCPP; 86+ formal communications (Meinhardt Case)
+Primary Institutional Respondents	**Oireachtas Clerks, DFA, Department of Defence, Office of Emergency Planning (OEP)**
+Documented Engagement	_18 substantive submissions to the JCPP_; 86+ formal communications (Meinhardt Case)
 Core Subject Focus	Strategic integration of O.R. in Defense, Security, and Governance
-Legal Framework	EU Regulation 2021/821, Article 2 TEU, and the Tort of Conversion
+Legal Framework	**EU Regulation 2021/821, Article 2 TEU, and the Tort of Conversion**
 
 The following documentation provides the technical and legal basis for defining O.R. not as an optional administrative tool, but as a strategic imperative for the preservation of the Rule of Law.
 
@@ -172,8 +172,7 @@ Institutional Petitions & Oversight
 * JCPP Submission: An overview of the 18 substantive submissions met with total institutional silence, documenting the breakdown of the public petition mechanism.
 * PETI Submission: Formal guidance request to the European Parliament regarding institutional risk and the withholding of scientific protections.
 
-Root Access: Google Drive Folder
-
+[Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
 
 --------------------------------------------------------------------------------
 
@@ -183,3 +182,25 @@ Root Access: Google Drive Folder
 The logic of this repository rests on the principle of Mandamus: the State holds a non-discretionary duty to act on acknowledged obligations. In the Irish context, silence is not neutrality; it is a decision to maintain a "Structural Antinomy" that imperils national security and constitutional integrity. The systematic use of the Silence Veto has converted a procedural oversight into an "Evasocracy" that nullifies citizen input at the source.
 
 As a necessary response, the next phase of this record involves a High Court petition and parallel filings with the Court of Justice of the European Union (CJEU). These are not merely legal challenges, but a required architectural intervention. The proposed "Charter of Governance Rights" serves as the constitutional antibody to this condition, transforming procedural design from a shield for institutional inaction into a source of enforceable, justiciable accountability. Procedural justice requires that lawful input be processed, not merely "noted" into oblivion.
+
+1] CEPS - Défaillance structurelle en matière de responsabilité institutionnelle en Irlande.pdf
+
+[2] Irish Aid Governance Failure & Ombudsman Referral - Operations Research (O.R.) - Nineteen Years Without Resolution.pdf
+
+[3] Formal Notice of Non-Engagement — Rule of Law and EU Governance Failure; Request for Board Escalation.pdf
+
+[4] Final Pre-Litigation Notice Following Unanswered Ultimatum.pdf
+
+[5] JCPP - Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms.pdf
+
+[6] Follow-Up on Operations Research in Irish Governance.pdf
+
+[7] Determination of Petition_ Continued Request for Lawful Procedure.pdf
+
+[8] Formal Notice of Non-Engagement — Rule of Law and EU Governance Failure; Request for Board Escalation -communications.pdf
+
+[9] Request for Executive-Level Coordination on a Protracted Governance Failure with EU-Law Implications -nov27.pdf
+
+[10] PETI - Request for Guidance on Submitting a Petition under Conditions of Institutional Risk and Withholding of Scientific Protections.pdf
+
+[11] Duty of Care, Data Protection, Safe Harbour.pdf
