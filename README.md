@@ -368,7 +368,7 @@ This complaint alleges structural non-resolution incompatible with:
 
 ---
 
-# scáthan-agus-splanc
+# scáthán-agus-splanc
 
 These documents outline a protracted governance and legal dispute between a private citizen and the Irish State regarding the alleged suppression of Operations Research methodologies. The author argues that various Irish institutions and officials, including EU Commissioner Michael McGrath, have systematically ignored a formal complaint that has persisted for nearly two decades. Central to the grievances is the claim that the Oireachtas petition mechanism has failed to function, creating a procedural void that violates both the Irish Constitution and EU law.  
 
