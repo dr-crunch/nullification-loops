@@ -4,17 +4,13 @@
 <summary>Phainocratic</summary>
 
 ### Phainocracy
-> *governing through the preservation of **appearances** rather than through substantive correction.*  
-
 From Greek φαινόμενον (phaínō), appearance (to show, to appear)  + κράτος (krátos), to rule.  
+
+In a phainocratic regime, authority is maintained through the preservation of appearances rather than substantive action or correctiont describes a system where structural failures are allowed to persist because they are kept "unseen" through the management of how things look.
 
 See [*Dealraitheachas* and Other Sorts of Conflated Inaction](https://drive.google.com/file/d/1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA) for a full definition. *Dealraitheachas* is Irish (GA) for Phainocracy.  
 
-
-Phainocracy—translated into Irish as Dealraitheachas—is a form of governance in which authority is maintained through the preservation of appearances rather than substantive action or correction.
-Derived from the Greek phaínō (to appear) and krátos (to rule), it describes a system where structural failures are allowed to persist because they are kept "unseen" through the management of how things look
-
-In a phainocratic order, authority is exercised not through responsibility or decision-making, but through the simulation of engagement: acknowledging, noting, or "considering" files without ever acting upon them
+The phainocratic order is exercised not through responsibility or decision-making, but through the simulation of engagement: acknowledging, noting, or "considering" files without ever acting upon them
 
 Phainocracy transforms the fundamental nature of public administration in the following ways:  
 
