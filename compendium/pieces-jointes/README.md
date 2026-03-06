@@ -69,6 +69,4 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 [Full Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
 
-**When the committee charged with petition oversight refuses to acknowledge petitions,**  
-**the constitutional right of petition is nullified at its source.**
 </details>
