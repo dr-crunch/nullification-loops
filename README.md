@@ -436,10 +436,6 @@ https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f
 Repository of the Full Formal Complaint:  
 https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS
 
-### **IV. Supporting Material**
-
-* **scathan-agus-splanc-phainocratic-nullification-loops.png**: Visual nullification loops (B&W abstract particle physics design). *Scáthán agus Splanc* is Irish for 'Mirrors and Flash'
-
 ---
 
 # Phainocracy and Governmentality  
