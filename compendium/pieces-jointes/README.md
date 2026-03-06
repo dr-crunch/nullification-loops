@@ -67,6 +67,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 </details>
 
+---
 
 # Institutional Accountability and the Strategic Integration of Operations Research (O.R.)
 
