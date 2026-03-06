@@ -179,13 +179,7 @@ When the committee specifically charged with oversight of petition mechanisms re
 | **holly-cairns-annex.png** | [holly-cairns-annex.png](https://drive.google.com/file/d/1dIuHm_ms69_Hrt2FGzIIH90hOMMSB9Ew) |
 | **roderic-o-gorman-annex.png** | [roderic-o-gorman-annex.png](https://drive.google.com/file/d/1RJUxXAvKUMTBlFFz-rqZ_Zy5oxvrTJ1u) |
 
-### **IV. Other Resources**
-
-| File Name / Resource | Direct Link / Source Reference |
-| :---- | :---- |
-| **scathan-agus-splanc-phainocratic-nullification-loops.png** | [scathan-agus-splanc-phainocratic-nullification-loops.png](https://drive.google.com/file/d/1w7lt-jj_2EZQUi8NPGEWb9nzUntCZgpV) 
-
-### **V. Core Evidence Repositories (External Links)**
+### **IV. Core Evidence Repositories (External Links)**
 
 The following repositories house the historical documents:
 
