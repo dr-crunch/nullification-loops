@@ -33,9 +33,7 @@ For the cohort: **3b is the shared jurisdictional ground**. Every state in the c
 ## The McGrath Dimension
 **🇪🇺 Multilateral Affairs**
 
-This is the most precisely ironic and legally pointed single fact in the entire corpus:
-
-The individual now charged with initiating EU infringement procedures against Member States for rule-of-law failures first received notification of this governance failure in March and April of 2020, as a sitting TD. He did not act. He is now European Commissioner for Democracy, Justice, and the Rule of Law. He has still not responded — in either capacity.
+EU Commissioner Michael McGrath is charged with initiating EU infringement procedures against Member States for rule-of-law failures first received notification of this governance failure in March and April of 2020, as a sitting TD. He did not act. He is now European Commissioner for Democracy, Justice, and the Rule of Law. He has still not responded — in either capacity.
 
 His professional background (Head of MIS at UCC, Fellow of Chartered Accountants Ireland, Minister for Public Expenditure and Reform, Minister for Finance) establishes beyond dispute that he has the technical literacy to engage with the material. His silence is not explicable by ignorance. It is part of the evidentiary record.
 
