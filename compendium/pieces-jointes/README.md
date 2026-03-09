@@ -41,14 +41,10 @@ Modern defense organizations (NATO, US DoD, UK MOD) have institutionalized O.R. 
 
 The absence of these functions within the OEP represents an administrative systems failure, leaving the State structurally detached from the methodologies utilized by every comparable defense system worldwide.
 
-
---------------------------------------------------------------------------------
-
 <details>
 
 
 <summary>Phainocratic Nullification Loops</summary>
-[Scátháin agus Splanc](https://github.com/dr-crunch/nullification-loops#nullification-loops)
 
 ### Phainocracy
 From Greek φαινόμενον (phaínō), appearance (to show, to appear)  + κράτος (krátos), to rule.  
@@ -113,6 +109,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 [Full Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
 
 </details>
+[Scátháin agus Splanc](https://github.com/dr-crunch/nullification-loops#nullification-loops)
 
 ---
 
