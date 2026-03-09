@@ -47,7 +47,8 @@ The absence of these functions within the OEP represents an administrative syste
 <details>
 
 
-<summary>Phainocratic</summary>
+<summary>Phainocratic Nullification Loops</summary>
+[Scátháin agus Splanc](https://github.com/dr-crunch/nullification-loops#nullification-loops)
 
 ### Phainocracy
 From Greek φαινόμενον (phaínō), appearance (to show, to appear)  + κράτος (krátos), to rule.  
