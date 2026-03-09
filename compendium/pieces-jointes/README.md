@@ -113,6 +113,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 </details>
 
+---
 
 **3. The Architecture of Failure: "Phainocracy" and the Nullification Loop**
 
@@ -134,7 +135,7 @@ Where the State fails to apply O.R. methodologies, it effectively loses the capa
 --------------------------------------------------------------------------------
 
 
-4. EU Legal Framework & Rule of Law Compliance
+**4. EU Legal Framework & Rule of Law Compliance**
 
 As Ireland approaches its 2026 EU Council Presidency, it faces a "Presidency Paradox." The State will chair Council proceedings on AI alignment, export controls, and the Rule of Law, while maintaining a 19-year "Silence Veto" at home. This case engages three primary dimensions of EU law:
 
