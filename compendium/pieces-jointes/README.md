@@ -1,6 +1,10 @@
 # Institutional Accountability and the Strategic Integration of Operations Research (O.R.)
 **_Structural Non-Governance in Ireland_**
 
+This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption; it is the **State's failure to conclude the administrative process it initiated**.
+
+This landing page cross-references the top-view of the impasse with the detailed evidence and the corresponding direct links found within the provided documentation. 
+
 **1. Repository Overview & Narrative Context**
 
 This repository constitutes a longitudinal audit of institutional inertia within the Irish State, providing a nineteen-year evidentiary record (2006–2025) of "administrative non-decision" regarding the adoption of Operations Research (O.R.). It is not merely a collection of files, but a documented history of how a foundational analytic discipline—essential for modern statecraft—has been systematically excluded from the architecture of national governance. The core thesis of these archivos adjuntos is that this exclusion creates a "structural antinomy": a condition where systemic risks are formally acknowledged by state actors but effectively nullified through a "Silence Veto." This procedural mechanism ensures that critical strategic methodologies remain unimplemented and unreviewed despite nearly two decades of high-level engagement.
@@ -101,12 +105,6 @@ Sinopsis en español: [comenzar-aquí](https://github.com/dr-crunch/nullificatio
 🇮🇪 Achoimre as Gaeilge: [tosaigh anseo](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/luba-neamhnithe.md)  
 🇱🇹 Santrauka lietuvių kalba: [pradeti cia](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/anuliavimo-kilpos.md)  
 🇬🇷 Σύνοψη στα ελληνικά: [κοίτα εδώ](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vrochoi-kyrosis.md)  
-
-This repository documents a sustained pattern of institutional non-engagement with formally submitted Operations Research (O.R.) methodology across Irish government departments from 2006–2026. The core issue is not technology adoption; it is the **State's failure to conclude the administrative process it initiated**.
-
-This landing page cross-references the top-view of the impasse with the detailed evidence and the corresponding direct links found within the provided documentation. It's part of a series of similar landing pages; the direct link to the *Governmentality 2026* folder is here:
-
-[Full Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
 
 </details>
 
