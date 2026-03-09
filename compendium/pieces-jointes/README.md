@@ -109,6 +109,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 [Full Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
 
 </details>
+
 [Scátháin agus Splanc](https://github.com/dr-crunch/nullification-loops#nullification-loops)
 
 ---
