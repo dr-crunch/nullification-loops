@@ -1,4 +1,4 @@
-![nullification-loops](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/scathan-agus-splanc-phainocratic-nullification-loops-v2.png)
+![nullification-loops](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/scathain-agus-splanc.jpg)
 # nullification-loops
 **Structural Operations Freeze in the Irish Public Petition System: A Mixed Curriculum of Misadministration**  
 **_Scátháin agus Splanc_**
