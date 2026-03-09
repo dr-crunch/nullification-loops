@@ -1,8 +1,7 @@
-
-
 # Institutional Accountability and the Strategic Integration of Operations Research (O.R.)
+**_Structural Non-Governance in Ireland_**
 
-1. Repository Overview & Narrative Context
+**1. Repository Overview & Narrative Context**
 
 This repository constitutes a longitudinal audit of institutional inertia within the Irish State, providing a nineteen-year evidentiary record (2006–2025) of "administrative non-decision" regarding the adoption of Operations Research (O.R.). It is not merely a collection of files, but a documented history of how a foundational analytic discipline—essential for modern statecraft—has been systematically excluded from the architecture of national governance. The core thesis of these archivos adjuntos is that this exclusion creates a "structural antinomy": a condition where systemic risks are formally acknowledged by state actors but effectively nullified through a "Silence Veto." This procedural mechanism ensures that critical strategic methodologies remain unimplemented and unreviewed despite nearly two decades of high-level engagement.
 
@@ -22,7 +21,7 @@ The following documentation provides the technical and legal basis for defining 
 --------------------------------------------------------------------------------
 
 
-2. The Strategic Imperative: Operations Research (O.R.) in National Defense
+**2. The Strategic Imperative: Operations Research (O.R.) in National Defense**
 
 Operations Research is not an adjunct to national strategy; it is constitutive of strategic success. Developed as an applied military science during World War II to optimize radar networks, anti-submarine routing, and resource allocation, O.R. was born from the realization that strategic problems are essentially mathematical and organizational constraints functioning under high uncertainty. For the Irish State, particularly the Department of Defence and the Office of Emergency Planning (OEP), O.R. represents the essential analytic layer required to translate qualitative intent into quantitative execution.
 
@@ -115,7 +114,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 </details>
 
 
-3. The Architecture of Failure: "Phainocracy" and the Nullification Loop
+**3. The Architecture of Failure: "Phainocracy" and the Nullification Loop**
 
 The documented 19-year failure is categorized as "Phainocracy" (Dealraitheachas), a mode of governance where the preservation of appearances replaces substantive decision-making. In a phainocratic order, authority is exercised through compliance rituals—docketing, referring, and acknowledging—while structural failures remain uncorrected. This is epitomized by the Meinhardt Case, where 86+ formal communications were absorbed into a system that simulates consideration while engineering institutional forgetting.
 
@@ -149,7 +148,7 @@ The McGrath Dimension & The Tort of Conversion Commissioner Michael McGrath, cur
 --------------------------------------------------------------------------------
 
 
-5. Repository Directory: "Archivos Adjuntos"
+**5. _Archivos Adjuntos_**
 
 This directory coordinates the singular evidentiary record of institutional non-engagement. Each link is a component of the cumulative effort to secure a substantive administrative determination.
 
@@ -178,7 +177,7 @@ Institutional Petitions & Oversight
 --------------------------------------------------------------------------------
 
 
-6. The Requirement for Procedural Justice
+**6. The Requirement for Procedural Justice**
 
 The logic of this repository rests on the principle of Mandamus: the State holds a non-discretionary duty to act on acknowledged obligations. In the Irish context, silence is not neutrality; it is a decision to maintain a "Structural Antinomy" that imperils national security and constitutional integrity. The systematic use of the Silence Veto has converted a procedural oversight into an "Evasocracy" that nullifies citizen input at the source.
 
