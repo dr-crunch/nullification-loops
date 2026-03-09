@@ -184,24 +184,24 @@ The logic of this repository rests on the principle of Mandamus: the State holds
 
 As a necessary response, the next phase of this record involves a High Court petition and parallel filings with the Court of Justice of the European Union (CJEU). These are not merely legal challenges, but a required architectural intervention. The proposed "Charter of Governance Rights" serves as the constitutional antibody to this condition, transforming procedural design from a shield for institutional inaction into a source of enforceable, justiciable accountability. Procedural justice requires that lawful input be processed, not merely "noted" into oblivion.
 
-1] CEPS - Défaillance structurelle en matière de responsabilité institutionnelle en Irlande.pdf
+[1] CEPS [Défaillance structurelle en matière de responsabilité institutionnelle en Irlande](https://drive.google.com/file/d/1ZSHHM7v0WAV3FGVOsk-XxMHPNAcKutuG/view?usp=drive_link)
 
-[2] Irish Aid Governance Failure & Ombudsman Referral - Operations Research (O.R.) - Nineteen Years Without Resolution.pdf
+[2] [Irish Aid Governance Failure & Ombudsman Referral](https://drive.google.com/file/d/1rv6DMyCHIRIvJRC4WY6rzl3L0_eJ0Wgz/view?usp=drive_link) Operations Research (O.R.) - Nineteen Years Without Resolution
 
-[3] Formal Notice of Non-Engagement — Rule of Law and EU Governance Failure; Request for Board Escalation.pdf
+[3] [Formal Notice of Non-Engagement](https://drive.google.com/file/d/1_457mzypOGCH9rzgYuK9RUA3SaWbxTvj/view?usp=drive_link) Rule of Law and EU Governance Failure; Request for Board Escalation
 
-[4] Final Pre-Litigation Notice Following Unanswered Ultimatum.pdf
+[4] [Final Pre-Litigation Notice Following Unanswered Ultimatum](https://drive.google.com/file/d/1tMi94twUL5FVuZ5EmBL_GI1WJ0uE8Vwx/view?usp=drive_link)
 
-[5] JCPP - Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms.pdf
+[5] JCPP [Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms](https://drive.google.com/file/d/1gUiRYFlz6nT7A1e6TkCnDhMdw0uKeMUj/view)
 
-[6] Follow-Up on Operations Research in Irish Governance.pdf
+[6] [Follow-Up on Operations Research in Irish Governance](https://drive.google.com/file/d/15pOnmfCTx9oXwyoaIl_FcezJAb_FrB40/view)
 
-[7] Determination of Petition_ Continued Request for Lawful Procedure.pdf
+[7] [Determination of Petition Continued](https://drive.google.com/file/d/1ZtlC1ubTFRKDr7YAbKY5H_47a2gXWSbC/view) Request for Lawful Procedure
 
-[8] Formal Notice of Non-Engagement — Rule of Law and EU Governance Failure; Request for Board Escalation -communications.pdf
+[8] IIEA [Formal Notice of Non-Engagement](https://drive.google.com/file/d/1_457mzypOGCH9rzgYuK9RUA3SaWbxTvj/view) Rule of Law and EU Governance Failure; Request for Board Escalation (Communications)
 
-[9] Request for Executive-Level Coordination on a Protracted Governance Failure with EU-Law Implications -nov27.pdf
+[9] EU Commissioner McGrath [Request for Executive-Level Coordination on a Protracted Governance Failure with EU-Law Implications](https://drive.google.com/file/d/13rANYhjA-vLkirfKL2L9UfmsjM8yt8Bp/view) (November 27th, 2025)
 
-[10] PETI - Request for Guidance on Submitting a Petition under Conditions of Institutional Risk and Withholding of Scientific Protections.pdf
+[10] PETI [Request for Guidance on Submitting a Petition under Conditions of Institutional Risk and Withholding of Scientific Protections](https://drive.google.com/file/d/1jD9Rmrlgp1wB0hqDqNIRNb8n3SwNBrCk/view)
 
-[11] Duty of Care, Data Protection, Safe Harbour.pdf
+[11] Duty of Care, Data Protection, Safe Harbour (Letter from Enda Kenny)
