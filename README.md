@@ -198,7 +198,7 @@ The following repositories house the historical documents:
 
 *The Systemic Nullification Loop*  
 
-The correspondence confirms that this is indeed a **"complicated problem"** characterised by **multiple fissures** that have converged into what is described as a **"systemic nullification loop"**. The analysis suggests that, because these issues are epistemically linked, they cannot be resolved in isolation, and the petitioner is pursuing **parallel tracks** for a comprehensive resolution.  
+The correspondence confirms that this is indeed a "complicated problem" characterised by **multiple fissures** that have converged into what is described as a **systemic nullification loop**. The analysis suggests that, because these issues are epistemically linked, they cannot be resolved in isolation, and the petitioner is pursuing **parallel tracks** for a comprehensive resolution.  
 
 The primary fissures identified in the sources include:  
 
