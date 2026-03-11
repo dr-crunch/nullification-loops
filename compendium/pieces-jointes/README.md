@@ -169,6 +169,7 @@ Institutional Petitions & Oversight
 
 * JCPP Submission: An overview of the 18 substantive submissions met with total institutional silence, documenting the breakdown of the public petition mechanism.
 * PETI Submission: Formal guidance request to the European Parliament regarding institutional risk and the withholding of scientific protections.
+* JCEUA Submission: Structured Review of EU Affairs Dimensions, 2006–2026. Submitted to the Joint Committee on European Union Affairs March 9th, 2026
 
 [Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
 
