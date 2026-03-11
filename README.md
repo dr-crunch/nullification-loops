@@ -195,6 +195,8 @@ The following repositories house the historical documents:
 * **Historical Repository**:  
   [https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl\_PH0zTNqO3JaURrh](https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh)
 
+---
+
 ## Description of Impasse and Legal Authority to Break the Deadlock
 
 *The Systemic Nullification Loop*  
