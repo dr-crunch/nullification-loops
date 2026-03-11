@@ -67,7 +67,7 @@ This was addressed directly to Judge Eugene Regan of the Court of Justice. It aw
 
 https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g
 
-🇫🇷 Synopsis en Français: boucles-de-nullification-IE [link]
+🇫🇷 Synopsis en Français: [boucles-de-nullification](https://github.com/dr-crunch/nullification-loops#nullification-loops)
 🇬🇷 Σύνοψη στα ελληνικά: vróchoi-kýrosis-IE [link]
 🇨🇾 Σύνοψη στα κυπριακά ελληνικά: vróchoi-kýrosis-CY [link]
 🇮🇪 Achoimre as Gaeilge: lúba-neamhnithe-IE [link]
