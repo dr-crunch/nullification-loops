@@ -1,6 +1,6 @@
 # Compendium of Stakeholders
 ### Governance Accountability & Operations Research — Irish & EU Dimensions
-*Updated: February 27th, 2026*
+*Updated: March 11th, 2026*
 
 ---
 
