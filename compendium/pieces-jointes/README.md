@@ -182,6 +182,46 @@ The logic of this repository rests on the principle of Mandamus: the State holds
 
 As a necessary response, the next phase of this record involves a High Court petition and parallel filings with the Court of Justice of the European Union (CJEU). These are not merely legal challenges, but a required architectural intervention. The proposed "Charter of Governance Rights" serves as the constitutional antibody to this condition, transforming procedural design from a shield for institutional inaction into a source of enforceable, justiciable accountability. Procedural justice requires that lawful input be processed, not merely "noted" into oblivion.
 
+---
+
+procedural justice [nullification-loops](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)
+
+🇮🇪 **Ceanglas na Ceartais Nós Imeachta** as Gaeilge: [ceanglas-ceartas-nós-imeachta](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇫🇷 **L'Exigence de Justice Procédurale** en Français: [exigence-justice-procédurale](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇧🇪 **De Vereiste van Procedurele Rechtvaardigheid** in het Nederlands (BE): [vereiste-procedurele-rechtvaardigheid-BE](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇱🇺 **D'Ufuerderung vun der Prozeduraler Gerechtegkeet** en Luxembourgeois: [ufuerderung-prozedural-gerechtegkeet-LU](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇳🇱 **De Vereiste van Procedurele Rechtvaardigheid** in het Nederlands (NL): [vereiste-procedurele-rechtvaardigheid-NL](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+
+🇩🇪 **Die Anforderung der Verfahrensgerechtigkeit** auf Deutsch: [anforderung-verfahrensgerechtigkeit](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇦🇹 **Die Anforderung der Verfahrensgerechtigkeit** auf Österreichischem Deutsch: [anforderung-verfahrensgerechtigkeit-AT](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇵🇱 **Wymóg Sprawiedliwości Proceduralnej** po polsku: [wymóg-sprawiedliwość-proceduralna](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇨🇿 **Požadavek Procesní Spravedlnosti** v češtině: [požadavek-procesní-spravedlnost](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇸🇰 **Požiadavka Procesnej Spravodlivosti** v slovenčine: [požiadavka-procesná-spravodlivosť](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇭🇺 **Az Eljárási Igazságosság Követelménye** magyarul: [eljárási-igazságosság-követelménye](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+
+🇬🇷 **Η Απαίτηση Δικαιοσύνης Διαδικασίας** στα ελληνικά: [απαίτηση-δικαιοσύνη-διαδικασίας](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇨🇾 **Η Απαίτηση Δικαιοσύνης Διαδικασίας** στα κυπριακά ελληνικά: [απαίτηση-δικαιοσύνη-διαδικασίας-CY](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇧🇬 **Изискването за Процесуална Справедливост** на български: [изискване-процесуална-справедливост](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇷🇴 **Cerința Justiției Procedurale** în română: [cerința-justiție-procedurală](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇭🇷 **Zahtjev za Proceduralnom Pravdom** na hrvatskom: [zahtjev-proceduralna-pravda](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇸🇮 **Zahteva po Postopkovni Pravičnosti** v slovenščini: [zahteva-postopkovna-pravičnost](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇪🇪 **Menetlusliku Õigluse Nõue** eesti keeles: [menetluslik-õiglus-nõue](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇱🇻 **Procesuālā Taisnīguma Prasība** latviešu valodā: [procesuālā-taisnīguma-prasība](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇱🇹 **Procesinio Teisingumo Reikalavimas** lietuvių kalba: [procesinio-teisingumo-reikalavimas](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+
+🇮🇹 **Il Requisito della Giustizia Procedurale** in italiano: [requisito-giustizia-procedurale](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇪🇸 **El Requisito de la Justicia Procesal** en español: [requisito-justicia-procesal](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇵🇹 **O Requisito da Justiça Processual** em português (PT): [requisito-justiça-processual-PT](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇲🇹 **Il-Ħtieġa tal-Ġustizzja Proċedurali** bil-Malti: [ħtieġa-ġustizzja-proċedurali](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇫🇮 **Menettelyllisen Oikeudenmukaisuuden Vaatimus** suomeksi: [menettelyllinen-oikeudenmukaisuus-vaatimus](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇸🇪 **Kravet på Processuell Rättvisa** på svenska: [kravet-processuell-rättvisa](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇩🇰 **Kravet om Processuel Retfærdighed** på dansk: [kravet-processuel-retfærdighed](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+
+🇪🇸 **El Requisit de la Justícia Processal** en català: [requisit-justícia-processal-CAT](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+🇵🇹 **O Requisito da Justiça Processual** em português (PT, variante): [requisito-justiça-processual-PT2](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)  
+
+---
+
 [1] CEPS [Défaillance structurelle en matière de responsabilité institutionnelle en Irlande](https://drive.google.com/file/d/1ZSHHM7v0WAV3FGVOsk-XxMHPNAcKutuG/view?usp=drive_link)
 
 [2] [Irish Aid Governance Failure & Ombudsman Referral](https://drive.google.com/file/d/1rv6DMyCHIRIvJRC4WY6rzl3L0_eJ0Wgz/view?usp=drive_link) Operations Research (O.R.) - Nineteen Years Without Resolution
