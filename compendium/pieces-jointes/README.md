@@ -245,3 +245,8 @@ procedural justice [nullification-loops](https://github.com/dr-crunch/nullificat
 [11] PETI [Request for Guidance on Submitting a Petition under Conditions of Institutional Risk and Withholding of Scientific Protections](https://drive.google.com/file/d/1jD9Rmrlgp1wB0hqDqNIRNb8n3SwNBrCk/view)
 
 [12] Duty of Care, Data Protection, Safe Harbour (Letter from Enda Kenny)
+
+---
+
+See also: the [Compendium of Stakeholders](https://github.com/dr-crunch/nullification-loops/blob/main/compendium.md), as covered by the synopsis and dossier.  
+
