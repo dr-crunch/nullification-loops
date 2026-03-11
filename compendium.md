@@ -445,9 +445,7 @@ Three notes on the ratings:
 
 **Tier VII (Moderate)** is the only tier where the precedent exposure is genuinely attenuated — the UK's exposure is real but operates through a different legal channel than the EU framework, hence the lower rating relative to the others.
 
----
-
-**Legal Issues**
+## Summary of Legal Issues
 
 The project files, read together, reveal a record that is far more legally dense than any single document — including the Finnegan letter — conveys in isolation. Four distinct legal issues emerge, each standing independently and each compounding the others.
 
