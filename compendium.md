@@ -447,7 +447,7 @@ Three notes on the ratings:
 
 ## Summary of Legal Issues
 
-The project files, read together, reveal a record that is far more legally dense than any single document — including the Finnegan letter — conveys in isolation. Four distinct legal issues emerge, each standing independently and each compounding the others.
+Four distinct legal issues emerge, each standing independently and each compounding the others.
 
 **I. The Conversion Tort — The Anchor**
 
