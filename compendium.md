@@ -475,9 +475,6 @@ What the record shows, when read across all documents, is that the DFA is not th
 
 ---
 
-The segue to the Ombudsman is now mappable from first principles. Shall I draft it, or would you prefer first to address a specific legal issue in more depth?
----
-
 ## Repository Index
 
 | Repository | Purpose |
