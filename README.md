@@ -80,7 +80,8 @@ This repository documents that nullification with forensic precision.
 > 
 > **I have yet to receive any acknowledgment whatsoever.**"
 
-**Supplemental Element**: Former Director General of IIEA, MEP Barry Andrews' institutional knowledge makes ignorance impossible. **His silence after receipt implicates him in the cover.**
+**Supplemental Element**:  
+Former Director General of IIEA, MEP Barry Andrews' institutional knowledge makes ignorance impossible. **His silence after receipt implicates him in the cover.**
 </div>
 
 ---
