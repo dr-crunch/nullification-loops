@@ -247,7 +247,7 @@ procedural justice [nullification-loops](https://github.com/dr-crunch/nullificat
 
 [11] PETI [Request for Guidance on Submitting a Petition under Conditions of Institutional Risk and Withholding of Scientific Protections](https://drive.google.com/file/d/1jD9Rmrlgp1wB0hqDqNIRNb8n3SwNBrCk/view)
 
-[12] Seanad Select Committee on EU Scrutiny and Transparency[Submission to the Committee, March 11th, 2026](https://drive.google.com/file/d/1k-FVtgRPjqZrch-IZHTL1EWOtFGRU9AY)
+[12] Seanad Select Committee on EU Scrutiny and Transparency [Submission to the Committee, March 11th, 2026](https://drive.google.com/file/d/1k-FVtgRPjqZrch-IZHTL1EWOtFGRU9AY)
 
 [13] Duty of Care, Data Protection, Safe Harbour (Letter from Enda Kenny)
 
