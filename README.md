@@ -52,7 +52,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 📌 **2008** — DFA Engaged; No Statutory Determination Issued  
 📌 **February 2009** — Irish Aid Presentation; Report Promised by Minister's Office; Never Produced; Never Disclosed  
 📌 **2011** — Ministerial Abandonment; Impasse Reinstated  
-📌 **2020** — HSE / DFA unable to retrace steps; National Logistical Emergency
+📌 **2020** — HSE / DFA unable to retrace steps; National Logistical Emergency  
 📌 **FIN-MO-03632-2024** — Dossier Returned to then-Tánaiste Martin; Parliamentary Inquiry Conditions Met; No Inquiry Initiated  
 📌 **2025** — Storm Éowyn reiterates the same active conditions via OEP function freeze; Formal Complaint stonewalled
 
