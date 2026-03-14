@@ -148,7 +148,7 @@ The McGrath Dimension & The Tort of Conversion Commissioner Michael McGrath, cur
 --------------------------------------------------------------------------------
 
 
-**5. _Archivos Adjuntos_**
+**5. _Archivos Adjunto / Archivos Justtificativos_**
 
 This directory coordinates the singular evidentiary record of institutional non-engagement. Each link is a component of the cumulative effort to secure a substantive administrative determination.
 
@@ -187,6 +187,8 @@ The logic of this repository rests on the principle of Mandamus: the State holds
 As a necessary response, the next phase of this record involves a High Court petition and parallel filings with the Court of Justice of the European Union (CJEU). These are not merely legal challenges, but a required architectural intervention. The proposed "Charter of Governance Rights" serves as the constitutional antibody to this condition, transforming procedural design from a shield for institutional inaction into a source of enforceable, justiciable accountability. Procedural justice requires that lawful input be processed, not merely "noted" into oblivion.
 
 ---
+
+## _Neamhnú Idir-réimnigh_
 
 procedural justice [nullification-loops](https://github.com/dr-crunch/nullification-loops?tab=readme-ov-file#procedural-justice)
 
