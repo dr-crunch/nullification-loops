@@ -51,7 +51,8 @@ Let me pull the memoranda content more carefully before expanding.Now the ethica
 ---
 
 **THE THREE BREACHES**
-📌 **2006** — O.R. Corpus Presented; DFA Assumes Custody; No Statutory Determination Issued
+📌 **2006** — Research Presented; Knowledge Transferred; Verbal Promise from Taoiseach; State Assumes Custody
+📌 **2008** - DFA Engaged; No Statutory Determination Issued
 📌 **February 2009** — Irish Aid Presentation; Ministerial Report Promised by Micheál Martin; Never Produced; Never Disclosed
 📌 **FIN-MO-03632-2024** — Dossier Returned to Tánaiste Martin; Parliamentary Inquiry Conditions Met; No Inquiry Initiated
 
