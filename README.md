@@ -45,48 +45,46 @@ This landing page cross-references the top-view of the impasse with the detailed
 🔴 **INTERREGNUM NULLIFICANS**
 *19 Years. No Evaluation. No Determination. No Remedy.*
 
----
-
-**THE THREE BREACHES**
-📌 **2006** — Research Presented; Knowledge Transferred; Verbal Promise from Taoiseach; State Assumes Custody
-📌 **2008** - DFA Engaged; No Statutory Determination Issued
-📌 **February 2009** — Irish Aid Presentation; Ministerial Report Promised by Micheál Martin; Never Produced; Never Disclosed
-📌 **FIN-MO-03632-2024** — Dossier Returned to Tánaiste Martin; Parliamentary Inquiry Conditions Met; No Inquiry Initiated
+**THE THREE SECURITY BREACHES**
+📌 **2006** — Research Presented; Knowledge Transferred; Verbal Promise from Taoiseach; State Assumes Custody; DOD Engaged  
+📌 **2008** - DFA Engaged; No Statutory Determination Issued  
+📌 **February 2009** — Irish Aid Presentation; Ministerial Report Promised by Micheál Martin; Never Produced; Never Disclosed  
+📌 **FIN-MO-03632-2024** — Dossier Returned to Tánaiste Martin; Parliamentary Inquiry Conditions Met; No Inquiry Initiated  
 
 ---
 
 **THE CHANNELS**
-🔇 **Joint Committee on Public Petitions:** 18 Contacts — 0 Replies
-🏛️ **Joint Committee on European Union Affairs:** 7 Contact Points — Declined, then Deleted
-🔕 **Seanad Select Committee on EU Scrutiny:** Submission Refused — No Standing Order Cited; No Statutory Basis Given
+🔇 **Joint Committee on Public Petitions:** 18 Contacts — 0 Replies  
+🏛️ **Joint Committee on European Union Affairs:** 7 Contact Points — Declined, then Deleted  
+🔕 **Seanad Select Committee on EU Scrutiny:** Submission Refused — No Standing Order Cited; No Statutory Basis Given  
 
 ---
 
 **THE COMPLAINT RECORD**
-📜 226-Page Formal Complaint — Dismissed Simultaneously by Both Houses on the Same Date
-⚖️ Bilateral Frivolous-and-Vexatious Determination: Same Date, Same Characterisation, Same Invented Grounds
-📝 17-Page Rebuttal — Never Acknowledged by Any Officer on Either Side
-🗑️ JCEUA Deleted Correspondence After Declining — Article 41 CFR Engaged
-🔁 Nullification Loop Confirmed: Remit Displacement → Abandonment Without Referral → Procedural Nullification
+📜 226-Page Formal Complaint — Dismissed Simultaneously by Both Houses on the Same Date  
+⚖️ Bilateral Frivolous-and-Vexatious Determination: Same Date, Same Characterisation, Same Invented Grounds  
+📝 17-Page Rebuttal — Never Acknowledged by Any Officer on Either Side  
+🗑️ JCEUA Deleted Correspondence After Declining — Article 41 CFR Engaged  
+🔁 Nullification Loop Confirmed: Remit Displacement → Abandonment Without Referral → Procedural Nullification  
 
 ---
 
 **THE ETHICAL BREACHES**
-🧱 **Silence Veto** — Knowledge Accepted, Never Processed; Signal Routed Into Institutional Void
-🔒 **Séachanachas** — Governance by Evasion; Accountability Sidestepped Through Diversion, Delay, and Procedural Smokescreen
-♾️ **Recursive Nullification** — Each Channel Closes Without Referral; The Matter Circulates Without Ever Receiving a Determination
-🎭 **Legality Without Recursion** — Constitutional Roles Scripted but Unenacted; Oversight Formalised but Unresponsive
-🏦 **Fiduciary Breach** — State Holds 26kg of Proprietary Materials for 19 Years Without Evaluation, Compensation, or Lawful Basis
-⚠️ **Operational Closure** — A System Functionally Closed While Appearing Procedurally Open
-🪤 **Double Bind** — Citizens Compelled to Petition; Petitions Structurally Annulled at the Threshold
+🧱 **Silence Veto** — Knowledge Accepted, Never Processed; Signal Routed Into Institutional Void  
+🔒 **Séachanachas** — Governance by Evasion; Accountability Sidestepped Through Diversion, Delay, and Procedural Smokescreen  
+♾️ **Recursive Nullification** — Each Channel Closes Without Referral; The Matter Circulates Without Ever Receiving a Determination  
+🎭 **Legality Without Recursion** — Constitutional Roles Scripted but Unenacted; Oversight Formalised but Unresponsive  
+🏦 **Fiduciary Breach** — State Holds 26kg of Proprietary Materials for 19 Years Without Evaluation, Compensation, or Lawful Basis  
+⚠️ **Operational Closure** — A System Functionally Closed While Appearing Procedurally Open  
+🪤 **Double Bind** — Citizens Compelled to Petition; Petitions Structurally Annulled at the Threshold  
 
 ---
 
 **THE CONSEQUENCE**
-🇪🇺 Ireland Assumes the EU Council Presidency 2026 — This Record Is Publicly Indexed and Transmitted
-⚖️ High Court & CJEU Proceedings in Preparation — ECJ Registry Already Copied
-🌐 Record Transmitted to: PETI · European Ombudsman · CEPS · DGRIS · Democracy Reporting International
-🔴 **Competent Authority Vacancy: 19 Years. The Obligation Does Not Expire. It Finds Its Determination.**
+🇪🇺 Ireland Assumes the EU Council Presidency 2026 — This Record Is Publicly Indexed and Transmitted  
+⚖️ High Court & CJEU Proceedings in Preparation — ECJ Registry Already Copied  
+🌐 Record Transmitted to: PETI · European Ombudsman · CEPS · DGRIS · Democracy Reporting International  
+🔴 **Competent Authority Vacancy: 19 Years. The Obligation Does Not Expire. It Finds Its Determination.**  
 
 </div>
 
