@@ -194,20 +194,6 @@ Not a single communication—across three separate recipients (Cathaoirleach, Le
 
 When the committee specifically charged with oversight of petition mechanisms refuses to acknowledge petitions, the constitutional architecture has failed at its foundation.
 
-### **Core Evidence Repositories (External Links)**
-
-The following repositories house the historical documents:
-
-* **Main Repository**:  
-  [https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g](https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g)
-  
-* **Repository of Formal Complaint**:  
-  [https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS](https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS)  
-* **Support material for Memorandum E**:  
-  [https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy](https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy)  
-* **Historical Repository**:  
-  [https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl\_PH0zTNqO3JaURrh](https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh)
-
 ---
 
 ## Description of Impasse and Legal Authority to Break the Deadlock
@@ -229,6 +215,20 @@ The primary fissures identified in the sources include:
 • **The Personal Accountability Fissure:** The case is personally linked to **Commissioner Michael McGrath**, whose professional background in **Management Information Systems (MIS)** is cited as proof that he possesses the technical literacy to understand the matter. His silence in his current role —which is specifically charged with **Rule of Law compliance**— is framed as a mirror of his silence as a TD in 2020, creating a conflict of interest at the apex of the EU's justice portfolio.  
 
 The petitioner emphasises that these fissures must be resolved at once because **parallel proceedings** before domestic courts for **Judicial Review** and the **Court of Justice of the European Union (CJEU)** are being prepared to address the statutory, constitutional, and EU-law dimensions simultaneously.  
+
+### **Core Evidence Repositories (External Links)**
+
+The following repositories house the historical documents:
+
+* **Main Repository**:  
+  [https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g](https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g)
+  
+* **Repository of Formal Complaint**:  
+  [https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS](https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS)  
+* **Support material for Memorandum E**:  
+  [https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy](https://drive.google.com/drive/u/0/folders/16bwnxY4xbbmjCQBaMQiCvHAzIE1IYWYy)  
+* **Historical Repository**:  
+  [https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl\_PH0zTNqO3JaURrh](https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh)
 
 ---
 
