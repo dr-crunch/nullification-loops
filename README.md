@@ -42,10 +42,10 @@ This landing page cross-references the top-view of the impasse with the detailed
 ---
 
 
-🔴 **INTERREGNUM NULLIFICANS**
+🔴 **INTERREGNUM NULLIFICANS**  
 *19 Years. No Evaluation. No Determination. No Remedy.*
 
-**THE THREE SECURITY BREACHES**
+**THE THREE SECURITY BREACHES**  
 📌 **2006** — Research Presented; Knowledge Transferred; Verbal Promise from Taoiseach; State Assumes Custody; DOD Engaged  
 📌 **2008** - DFA Engaged; No Statutory Determination Issued  
 📌 **February 2009** — Irish Aid Presentation; Ministerial Report Promised by Micheál Martin; Never Produced; Never Disclosed  
