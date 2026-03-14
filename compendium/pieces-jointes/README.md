@@ -1,3 +1,5 @@
+![archivos-adjunctos](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/pieces-jointes/archivos-adjuntos-interregnum-nullificans.jpg)
+
 # Institutional Accountability and the Strategic Integration of Operations Research (O.R.)
 **_Structural Non-Governance in Ireland_**
 
