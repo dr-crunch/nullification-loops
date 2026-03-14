@@ -47,7 +47,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 ---
 
-**THE THREE SECURITY BREACHES**  
+**THREE SECURITY BREACHES**  
 📌 **2006** — Research Presented; Knowledge Transferred; Verbal Promise from Taoiseach; State Assumes Custody; DOD Engaged  
 📌 **2008** — DFA Engaged; No Statutory Determination Issued  
 📌 **February 2009** — Irish Aid Presentation; Ministerial Report Promised by Micheál Martin; Never Produced; Never Disclosed  
@@ -55,14 +55,14 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 ---
 
-**THE CHANNELS**  
+**CHANNELS**  
 🔇 **Joint Committee on Public Petitions:** 18 Contacts — 0 Replies  
 🏛️ **Joint Committee on European Union Affairs:** 7 Contact Points — Declined, then Deleted  
 🔕 **Seanad Select Committee on EU Scrutiny:** Submission Refused — No Standing Order Cited; No Statutory Basis Given  
 
 ---
 
-**THE COMPLAINT RECORD**  
+**COMPLAINT RECORD**  
 📜 226-Page Formal Complaint — Dismissed Simultaneously by Both Houses on the Same Date  
 ⚖️ Bilateral Frivolous-and-Vexatious Determination: Same Date, Same Characterisation, Same Invented Grounds  
 📝 17-Page Rebuttal — Never Acknowledged by Any Officer on Either Side  
@@ -71,7 +71,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 ---
 
-**THE ETHICAL BREACHES**  
+**ETHICAL BREACHES**  
 🧱 **Silence Veto** — Knowledge Accepted, Never Processed; Signal Routed Into Institutional Void  
 🔒 **Séachanachas** — Governance by Evasion; Accountability Sidestepped Through Diversion, Delay, and Procedural Smokescreen  
 ♾️ **Recursive Nullification** — Each Channel Closes Without Referral; The Matter Circulates Without Ever Receiving a Determination  
@@ -82,7 +82,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 ---
 
-**THE CONSEQUENCE**  
+**KNOCK-ON EFFECTS**  
 🇪🇺 Ireland Assumes the EU Council Presidency 2026 — This Record Is Publicly Indexed and Transmitted  
 ⚖️ High Court & CJEU Proceedings in Preparation — ECJ Registry Already Copied  
 🌐 Record Transmitted to: PETI · European Ombudsman · CEPS · DGRIS · Democracy Reporting International  
@@ -192,7 +192,7 @@ When the committee specifically charged with oversight of petition mechanisms re
 
 
 
-###**I. Correspondence & Formal Submissions **
+### **I. Correspondence & Formal Submissions**
 
 | File Name | Direct Link / Source Reference |
 | :---- | :---- |
