@@ -41,9 +41,6 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 ---
 
-Let me pull the memoranda content more carefully before expanding.Now the ethical architecture is fully visible. Here is the expanded emoji-burst, organised by channel, breach taxonomy, and ethical register drawn from the memoranda:
-
----
 
 🔴 **INTERREGNUM NULLIFICANS**
 *19 Years. No Evaluation. No Determination. No Remedy.*
