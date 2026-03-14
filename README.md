@@ -403,7 +403,7 @@ The following is a comprehensive inventory of the files identified within the *G
 
 The matter was referred to the Joint Committee on Public Petitions and the Ombudsmen on multiple occasions.
 
-### **Evidentiary Records & Communication Logs (Image Files)**
+### **Evidentiary Records & Communication Logs**
 
 The MEP list already seems well established as being futile communications: looking into the EU stadards of accountability, is this oversight merely hypothetical —what is it? How are motions forwarded, bills passed, charters ratified?
 
