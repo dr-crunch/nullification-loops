@@ -387,7 +387,7 @@ The materials include pre-litigation notices, emails to several Members of the E
 
 The following is a comprehensive inventory of the files identified within the *Governmentality 2026* folder:
 
-### **I. Correspondence & Formal Submissions (PDF Documents)**
+### **I. Correspondence & Formal Submissions**
 
 * **Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms.pdf**: A comprehensive overview dated February 12, 2026, addressed to the Joint Committee on Public Petitions (JCPP) and the Ombudsmen. It details a nineteen-year pattern of administrative non-response regarding Operations Research governance failures.  
 * **Request for Assistance — Institutional Non-Response & Governance Accountability.pdf**: Correspondence dated February 12, 2026, to MEP Barry Andrews seeking assistance with institutional accountability regarding Commissioner Michael McGrath’s alleged non-response to constituent concerns.  
@@ -403,7 +403,7 @@ The following is a comprehensive inventory of the files identified within the *G
 
 The matter was referred to the Joint Committee on Public Petitions and the Ombudsmen on multiple occasions.
 
-### **Evidentiary Records & Communication Logs**
+### **II. Evidentiary Records & Communication Logs**
 
 The MEP list already seems well established as being futile communications: looking into the EU stadards of accountability, is this oversight merely hypothetical —what is it? How are motions forwarded, bills passed, charters ratified?
 
@@ -426,6 +426,14 @@ Here are the named members of EU Parliament who can be considered in breach of b
 | Nina Carberry | Fine Gael / EPP | Not Yet Contacted | — | — |
 | Ciaran Mullooly | Independent / Renew | Not Yet Contacted | — | — |
 
+### **III. Communication Logs (Image Files)**
+
+* **albert-dolan-emails.png**: A log of communications with Mr Albert Dolan TD (Leas-Cathaoirleach, Committee on Public Petitions and the Ombudsmen) including pre-litigation notices and survey requests from February 2026 and earlier.  
+* **louise-oreilly-emails.png**: Documentation of emails to Ms Louise O'Reilly TD (Chathaoirleach, Committee on Public Petitions and the Ombudsmen) spanning from March 2020 to February 2026, covering topics from pandemic preparedness to governance failure.  
+* **thomas-byrne-email-community-call.png**: A record of correspondence with Minister of State Thomas Byrne regarding Operations Research in Irish governance and pandemic preparedness.  
+* **holly-cairns-emails.png**: Documentation of communications with Ms Holly Cairns TD concerning legislative action on governance failure.
+* **neale-richmond-emails-tall.png**: Multiple, clear signals to aid and resolve the matter; silence since 2020. NB: Minister Richmond is named on the Annex II Supplemental List. 
+* **jcpp-emails.png**: A record of substantive submissions to the Joint Committee on Public Petitions (JCPP), noted in accompanying documents as having received no response.  
 
 | File Name | Direct Link / Source Reference |
 | :---- | :---- |
@@ -441,16 +449,7 @@ It persists until a body possessing recognised adjudicative authority (e.g. Iris
 The impasse is structural, not episodic.
 
 
-### **II. Evidentiary Records & Communication Logs (Image Files)**
-
-* **albert-dolan-emails.png**: A log of communications with Mr Albert Dolan TD (Leas-Cathaoirleach, Committee on Public Petitions and the Ombudsmen) including pre-litigation notices and survey requests from February 2026 and earlier.  
-* **louise-oreilly-emails.png**: Documentation of emails to Ms Louise O'Reilly TD (Chathaoirleach, Committee on Public Petitions and the Ombudsmen) spanning from March 2020 to February 2026, covering topics from pandemic preparedness to governance failure.  
-* **thomas-byrne-email-community-call.png**: A record of correspondence with Minister of State Thomas Byrne regarding Operations Research in Irish governance and pandemic preparedness.  
-* **holly-cairns-emails.png**: Documentation of communications with Ms Holly Cairns TD concerning legislative action on governance failure.
-* **neale-richmond-emails-tall.png**: Multiple, clear signals to aid and resolve the matter; silence since 2020. NB: Minister Richmond is named on the Annex II Supplemental List. 
-* **jcpp-emails.png**: A record of substantive submissions to the Joint Committee on Public Petitions (JCPP), noted in accompanying documents as having received no response.  
-
-### **III. Highlights from Annex II of the Formal Complaint**
+### **IV. Highlights from Annex II of the Formal Complaint**
 
 * **pearse-doherty-annex.png**: Long-term engagement with Mr Pearse Doherty TD (dating back to 2008\).  
 * **Mairéad-Farrell-annex.png**: Ms Mairéad Farrell TD was contacted regarding Operations Research in 2020 (See "The Community Call").  
@@ -458,7 +457,6 @@ The impasse is structural, not episodic.
 * **paul-murphy-annex.png**: Mr Paul Murphy TD also appears in Annex II.  
 * **holly-cairns-annex.png**: Ms Holly Cairns TD is named on a list of 57 non-office holding deputies named in the complaint.
 * **roderic-o-gorman-annex.png** Mr Roderic O'Gorman TD, Green Party.
-### **III. Highlights from Annex II**
 
 | File Name / Resource | Direct Link / Source Reference |
 | :---- | :---- |
