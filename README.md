@@ -194,40 +194,7 @@ Not a single communication—across three separate recipients (Cathaoirleach, Le
 
 When the committee specifically charged with oversight of petition mechanisms refuses to acknowledge petitions, the constitutional architecture has failed at its foundation.
 
-
-
-### **I. Correspondence & Formal Submissions**
-
-| File Name | Direct Link / Source Reference |
-| :---- | :---- |
-| **Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms.pdf** | [Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms.pdf](https://drive.google.com/file/d/1-vETFPyMCzLWE1vm4T6Xse29cjC_SjUC) |
-| **Request for Assistance — Institutional Non-Response & Governance Accountability.pdf** | [Request for Assistance — Institutional Non-Response & Governance Accountability.pdf](https://drive.google.com/file/d/1174VD7xuI1pWwi5xEpv61DX_5PR6I0bg) |
-| **Request for Assistance — EU Commissioner Non-Response to Irish Constituent.pdf** | [Request for Assistance — EU Commissioner Non-Response to Irish Constituent.pdf](https://drive.google.com/file/d/1P21364PfykyJsjenJptUsDtu0e6xgcAR) |
-| **Request for Assistance — Rule of Law Concerns & Commissioner Non-Response.pdf** | [Request for Assistance — Rule of Law Concerns & Commissioner Non-Response.pdf](https://drive.google.com/file/d/1bZ56cMDj-2kogbbw0nwRBB2Jnu_jOIJp) |
-
-### **II. Evidentiary Records & Communication Logs (Image Files)**
-
-| File Name | Direct Link / Source Reference |
-| :---- | :---- |
-| **albert-dolan-emails.png** | [albert-dolan-emails.png](https://drive.google.com/file/d/1QQY0MXG10JZfiVA0Bj2AUXnLCPTW7_1d) |
-| **louise-oreilly-emails.png** | [louise-oreilly-emails.png](https://drive.google.com/file/d/1-Znu6CbnYecWvMr2vB7eHB-02AU_5o4P) |
-| **thomas-byrne-email-community-call.png** | [thomas-byrne-email-community-call.png](https://drive.google.com/file/d/1kTTKUzNVvVqCTqt6yFOMIVb-fNkZ8wIj) |
-| **holly-cairns-emails.png** | [holly-cairns-emails.png](https://drive.google.com/file/d/1u4aB4-UtCUZlqwws5sQu6C0xALPSz8LQ) |
-| **jcpp-emails.png** | [jcpp-emails.png](https://drive.google.com/file/d/17V0pdruGcOmNn4o6l7GErXcRyTeH_CMd) |
-| **neale-richmond-emails-tall.png** | [neale-richmond-emails-tall.png](https://drive.google.com/file/d/1YB4c34mM5N42gCX4boR6tefdqCKu_slZ) |
-
-### **III. Highlights from Annex II**
-
-| File Name / Resource | Direct Link / Source Reference |
-| :---- | :---- |
-| **pearse-doherty-annex.png** | [pearse-doherty-annex.png](https://drive.google.com/file/d/1sICqfbyfE7NyMaTpHWaZIXS_hoTWO--1) |
-| **Mairéad-Farrell-annex.png** | [Mairéad-Farrell-annex.png](https://drive.google.com/file/d/1x6Q5a3NOTtK1aI_2pvtO6sA1W5Xt1W3I) |
-| **mary-lou-mcdonald.png** | [mary-lou-mcdonald.png](https://drive.google.com/file/d/18UrtGmGZjhXduj3MrxvKj49BVh9Kf708) |
-| **paul-murphy-annex.png** | [paul-murphy-annex.png](https://drive.google.com/file/d/1_63M0Cae4bbcCRnrbOnudvJraPqgC1_5) |
-| **holly-cairns-annex.png** | [holly-cairns-annex.png](https://drive.google.com/file/d/1dIuHm_ms69_Hrt2FGzIIH90hOMMSB9Ew) |
-| **roderic-o-gorman-annex.png** | [roderic-o-gorman-annex.png](https://drive.google.com/file/d/1RJUxXAvKUMTBlFFz-rqZ_Zy5oxvrTJ1u) |
-
-### **IV. Core Evidence Repositories (External Links)**
+### **Core Evidence Repositories (External Links)**
 
 The following repositories house the historical documents:
 
@@ -427,7 +394,16 @@ The following is a comprehensive inventory of the files identified within the *G
 * **Request for Assistance — EU Commissioner Non-Response.pdf**: Correspondence dated February 12, 2026, to MEP Lynn Boylan regarding the same pattern of non-response by Commissioner Michael McGrath.  
 * **Request for Assistance — Rule of Law Concerns & Commissioner Non-Response.pdf**: Correspondence dated February 12, 2026, to MEP Aodhán Ó Ríordáin highlighting rule-of-law concerns and requesting parliamentary intervention.
 
+| File Name | Direct Link / Source Reference |
+| :---- | :---- |
+| **Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms.pdf** | [Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms.pdf](https://drive.google.com/file/d/1-vETFPyMCzLWE1vm4T6Xse29cjC_SjUC) |
+| **Request for Assistance — Institutional Non-Response & Governance Accountability.pdf** | [Request for Assistance — Institutional Non-Response & Governance Accountability.pdf](https://drive.google.com/file/d/1174VD7xuI1pWwi5xEpv61DX_5PR6I0bg) |
+| **Request for Assistance — EU Commissioner Non-Response to Irish Constituent.pdf** | [Request for Assistance — EU Commissioner Non-Response to Irish Constituent.pdf](https://drive.google.com/file/d/1P21364PfykyJsjenJptUsDtu0e6xgcAR) |
+| **Request for Assistance — Rule of Law Concerns & Commissioner Non-Response.pdf** | [Request for Assistance — Rule of Law Concerns & Commissioner Non-Response.pdf](https://drive.google.com/file/d/1bZ56cMDj-2kogbbw0nwRBB2Jnu_jOIJp) |
+
 The matter was referred to the Joint Committee on Public Petitions and the Ombudsmen on multiple occasions.
+
+### **Evidentiary Records & Communication Logs (Image Files)**
 
 The MEP list already seems well established as being futile communications: looking into the EU stadards of accountability, is this oversight merely hypothetical —what is it? How are motions forwarded, bills passed, charters ratified?
 
@@ -449,6 +425,16 @@ Here are the named members of EU Parliament who can be considered in breach of b
 | Seán Kelly | Fine Gael / EPP | Not Yet Contacted | — | — |
 | Nina Carberry | Fine Gael / EPP | Not Yet Contacted | — | — |
 | Ciaran Mullooly | Independent / Renew | Not Yet Contacted | — | — |
+
+
+| File Name | Direct Link / Source Reference |
+| :---- | :---- |
+| **albert-dolan-emails.png** | [albert-dolan-emails.png](https://drive.google.com/file/d/1QQY0MXG10JZfiVA0Bj2AUXnLCPTW7_1d) |
+| **louise-oreilly-emails.png** | [louise-oreilly-emails.png](https://drive.google.com/file/d/1-Znu6CbnYecWvMr2vB7eHB-02AU_5o4P) |
+| **thomas-byrne-email-community-call.png** | [thomas-byrne-email-community-call.png](https://drive.google.com/file/d/1kTTKUzNVvVqCTqt6yFOMIVb-fNkZ8wIj) |
+| **holly-cairns-emails.png** | [holly-cairns-emails.png](https://drive.google.com/file/d/1u4aB4-UtCUZlqwws5sQu6C0xALPSz8LQ) |
+| **jcpp-emails.png** | [jcpp-emails.png](https://drive.google.com/file/d/17V0pdruGcOmNn4o6l7GErXcRyTeH_CMd) |
+| **neale-richmond-emails-tall.png** | [neale-richmond-emails-tall.png](https://drive.google.com/file/d/1YB4c34mM5N42gCX4boR6tefdqCKu_slZ) |
 
 Authority distributed without termination produces evasion by design.
 It persists until a body possessing recognised adjudicative authority (e.g. Irish High Court or the Court of Justice of the European Union) compels the completion of the decision function.
@@ -472,7 +458,16 @@ The impasse is structural, not episodic.
 * **paul-murphy-annex.png**: Mr Paul Murphy TD also appears in Annex II.  
 * **holly-cairns-annex.png**: Ms Holly Cairns TD is named on a list of 57 non-office holding deputies named in the complaint.
 * **roderic-o-gorman-annex.png** Mr Roderic O'Gorman TD, Green Party.
+### **III. Highlights from Annex II**
 
+| File Name / Resource | Direct Link / Source Reference |
+| :---- | :---- |
+| **pearse-doherty-annex.png** | [pearse-doherty-annex.png](https://drive.google.com/file/d/1sICqfbyfE7NyMaTpHWaZIXS_hoTWO--1) |
+| **Mairéad-Farrell-annex.png** | [Mairéad-Farrell-annex.png](https://drive.google.com/file/d/1x6Q5a3NOTtK1aI_2pvtO6sA1W5Xt1W3I) |
+| **mary-lou-mcdonald.png** | [mary-lou-mcdonald.png](https://drive.google.com/file/d/18UrtGmGZjhXduj3MrxvKj49BVh9Kf708) |
+| **paul-murphy-annex.png** | [paul-murphy-annex.png](https://drive.google.com/file/d/1_63M0Cae4bbcCRnrbOnudvJraPqgC1_5) |
+| **holly-cairns-annex.png** | [holly-cairns-annex.png](https://drive.google.com/file/d/1dIuHm_ms69_Hrt2FGzIIH90hOMMSB9Ew) |
+| **roderic-o-gorman-annex.png** | [roderic-o-gorman-annex.png](https://drive.google.com/file/d/1RJUxXAvKUMTBlFFz-rqZ_Zy5oxvrTJ1u) |
   
 Annex II is available here:  
 https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f
