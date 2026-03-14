@@ -82,7 +82,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 🎭 **Legality Without Recursion** — Constitutional Roles Scripted but Unenacted; Oversight Formalised but Unresponsive  
 🏦 **Fiduciary Breach** — State Holds 26kg of Proprietary Materials for 19 Years Without Evaluation, Compensation, or Lawful Basis  
 ⚠️ **Operational Closure** — A System Functionally Closed While Appearing Procedurally Open  
-🪤 **Double Bind** — Citizens Compelled to Petition; Petitions Structurally Annulled at the Threshold  
+🪤 **Stalemate of Obligation** — Citizens Compelled to Petition; Petitions Structurally Annulled at the Threshold; Unconstitutional Contumacy  
 
 ---
 
