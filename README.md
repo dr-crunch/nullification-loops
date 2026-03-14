@@ -192,7 +192,7 @@ When the committee specifically charged with oversight of petition mechanisms re
 
 
 
-### **I. Correspondence & Formal Submissions **
+###**I. Correspondence & Formal Submissions **
 
 | File Name | Direct Link / Source Reference |
 | :---- | :---- |
