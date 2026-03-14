@@ -155,16 +155,6 @@ Core Strategic Annexes
 * Annex-Strategic-Relevance: Defines the foundational role of O.R. in military planning, citing its WWII origins and the OEP's analytical deficit.
 * Operations Research Survey: A comprehensive mapping of O.R. sub-domains to specific public service functions, including Housing, Justice, and Health.
 
-Formal Pre-Litigation & Notices
-
-* Final Pre-Litigation Notice: The February 2026 ultimatum to the Oireachtas Clerk regarding constitutional breaches and the "Silence Veto."
-* DRI - Structural Accountability Failure: A request for a third-party observation from Democracy Reporting International regarding Ireland's breach of "Good Administration" standards.
-
-Ministerial & Executive Correspondence
-
-* Letters to Commissioner McGrath: Documentation of unanswered requests for executive coordination sent to the EU Commission (Nov 2025 – Feb 2026).
-* Memorandum for Government: A repackaged framework for O.R. governance intended for full Cabinet review, addressing the 19-year failure loop.
-
 Institutional Petitions & Oversight
 
 * JCPP Submission[^5] : An overview of the 18 substantive submissions met with total institutional silence, documenting the breakdown of the public petition mechanism. 
@@ -172,6 +162,16 @@ Institutional Petitions & Oversight
 * JCEUA Submission[^10] : Structured Review of EU Affairs Dimensions, 2006–2026. Submitted to the Joint Committee on European Union Affairs March 9th, 2026 
 * Seanad Select Committee on EU Scrutiny and Transparency Submission[^seanad] : Structural Non-Governance, the Council Presidency, and the Limits of Acknowledgment Under EU Regulation 2021/821 and Standing Order 115(1)(a),March 11th, 2026 
 
+Formal Pre-Litigation & Notices
+
+* Final Pre-Litigation Notice: The February 2026 ultimatum to the Oireachtas Clerk regarding constitutional breaches and the "Silence Veto."
+* DRI - Structural Accountability Failure: A request for a third-party observation from Democracy Reporting International regarding Ireland's breach of "Good Administration" standards.
+* Notice to the Seanad Select Committee on EU Scrutiny and Transparency[^notice]
+
+Ministerial & Executive Correspondence
+
+* Letters to Commissioner McGrath: Documentation of unanswered requests for executive coordination sent to the EU Commission (Nov 2025 – Feb 2026).
+* Memorandum for Government: A repackaged framework for O.R. governance intended for full Cabinet review, addressing the 19-year failure loop.
 
 [Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
 
@@ -248,6 +248,8 @@ procedural justice [nullification-loops](https://github.com/dr-crunch/nullificat
  - PETI [Request for Guidance on Submitting a Petition under Conditions of Institutional Risk and Withholding of Scientific Protections](https://drive.google.com/file/d/1jD9Rmrlgp1wB0hqDqNIRNb8n3SwNBrCk/view)
 
 [^seanad]: Seanad Select Committee on EU Scrutiny and Transparency [Submission to the Committee, March 11th, 2026](https://drive.google.com/file/d/1k-FVtgRPjqZrch-IZHTL1EWOtFGRU9AY)
+
+[^notice]: Seanad Select Committee on EU Scrutiny and Transparency [Notice of Administrative Non-Determination](https://drive.google.com/file/d/1jfemqcuqBvfHTMc9ILIXUKtJ8jc7tHQ3/view?usp=drive_link)
 
  - Duty of Care, Data Protection, Safe Harbour (Letter from Enda Kenny)
 
