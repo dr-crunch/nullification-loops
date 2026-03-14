@@ -167,10 +167,10 @@ Ministerial & Executive Correspondence
 
 Institutional Petitions & Oversight
 
-* JCPP Submission: An overview of the 18 substantive submissions met with total institutional silence, documenting the breakdown of the public petition mechanism.
+* JCPP Submission[^5] : An overview of the 18 substantive submissions met with total institutional silence, documenting the breakdown of the public petition mechanism. 
 * PETI Submission: Formal guidance request to the European Parliament regarding institutional risk and the withholding of scientific protections.
-* JCEUA Submission: Structured Review of EU Affairs Dimensions, 2006–2026. Submitted to the Joint Committee on European Union Affairs March 9th, 2026
-* Seanad Select Committee on EU Scrutiny and Transparency Submission: Structural Non-Governance, the Council Presidency, and the Limits of Acknowledgment Under EU Regulation 2021/821 and Standing Order 115(1)(a),March 11th, 2026
+* JCEUA Submission[^10] : Structured Review of EU Affairs Dimensions, 2006–2026. Submitted to the Joint Committee on European Union Affairs March 9th, 2026 
+* Seanad Select Committee on EU Scrutiny and Transparency Submission[^12] : Structural Non-Governance, the Council Presidency, and the Limits of Acknowledgment Under EU Regulation 2021/821 and Standing Order 115(1)(a),March 11th, 2026 
 
 
 [Governmentality 2026 Repository](https://drive.google.com/drive/u/0/folders/1lvFwZwWpRR2tC4BwsdeR8X0Dxk2mmAwo)
@@ -225,31 +225,31 @@ procedural justice [nullification-loops](https://github.com/dr-crunch/nullificat
 ---
 ## Documentary Record
 
-[1] CEPS [Défaillance structurelle en matière de responsabilité institutionnelle en Irlande](https://drive.google.com/file/d/1ZSHHM7v0WAV3FGVOsk-XxMHPNAcKutuG/view?usp=drive_link)
+ - CEPS [Défaillance structurelle en matière de responsabilité institutionnelle en Irlande](https://drive.google.com/file/d/1ZSHHM7v0WAV3FGVOsk-XxMHPNAcKutuG/view?usp=drive_link)
 
-[2] [Irish Aid Governance Failure & Ombudsman Referral](https://drive.google.com/file/d/1rv6DMyCHIRIvJRC4WY6rzl3L0_eJ0Wgz/view?usp=drive_link) Operations Research (O.R.) - Nineteen Years Without Resolution
+ - [Irish Aid Governance Failure & Ombudsman Referral](https://drive.google.com/file/d/1rv6DMyCHIRIvJRC4WY6rzl3L0_eJ0Wgz/view?usp=drive_link) Operations Research (O.R.) - Nineteen Years Without Resolution
 
-[3] IIEA [Formal Notice of Non-Engagement](https://drive.google.com/file/d/1FA117kfbmybUSFoJ7yJXYitaBCaVDsCY/view) Rule of Law and EU Governance Failure; Request for Board Escalation
+ - IIEA [Formal Notice of Non-Engagement](https://drive.google.com/file/d/1FA117kfbmybUSFoJ7yJXYitaBCaVDsCY/view) Rule of Law and EU Governance Failure; Request for Board Escalation
 
-[4] [Final Pre-Litigation Notice Following Unanswered Ultimatum](https://drive.google.com/file/d/1tMi94twUL5FVuZ5EmBL_GI1WJ0uE8Vwx/view?usp=drive_link)
+ - [Final Pre-Litigation Notice Following Unanswered Ultimatum](https://drive.google.com/file/d/1tMi94twUL5FVuZ5EmBL_GI1WJ0uE8Vwx/view?usp=drive_link)
 
-[5] JCPP [Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms](https://drive.google.com/file/d/1gUiRYFlz6nT7A1e6TkCnDhMdw0uKeMUj/view)
+[^5]: JCPP [Systemic Governance Failure and Breakdown of Petition Oversight Mechanisms](https://drive.google.com/file/d/1gUiRYFlz6nT7A1e6TkCnDhMdw0uKeMUj/view)
 
-[6] [Follow-Up on Operations Research in Irish Governance](https://drive.google.com/file/d/15pOnmfCTx9oXwyoaIl_FcezJAb_FrB40/view)
+ - [Follow-Up on Operations Research in Irish Governance](https://drive.google.com/file/d/15pOnmfCTx9oXwyoaIl_FcezJAb_FrB40/view)
 
-[7] [Determination of Petition Continued](https://drive.google.com/file/d/1ZtlC1ubTFRKDr7YAbKY5H_47a2gXWSbC/view) Request for Lawful Procedure
+ - [Determination of Petition Continued](https://drive.google.com/file/d/1ZtlC1ubTFRKDr7YAbKY5H_47a2gXWSbC/view) Request for Lawful Procedure
 
-[8] IIEA [Formal Notice of Non-Engagement](https://drive.google.com/file/d/1_457mzypOGCH9rzgYuK9RUA3SaWbxTvj/view) Request for Board Escalation (Communications)
+ - IIEA [Formal Notice of Non-Engagement](https://drive.google.com/file/d/1_457mzypOGCH9rzgYuK9RUA3SaWbxTvj/view) Request for Board Escalation (Communications)
 
-[9] EU Commissioner McGrath [Request for Executive-Level Coordination on a Protracted Governance Failure with EU-Law Implications](https://drive.google.com/file/d/13rANYhjA-vLkirfKL2L9UfmsjM8yt8Bp/view) (November 27th, 2025)
+ - EU Commissioner McGrath [Request for Executive-Level Coordination on a Protracted Governance Failure with EU-Law Implications](https://drive.google.com/file/d/13rANYhjA-vLkirfKL2L9UfmsjM8yt8Bp/view) (November 27th, 2025)
 
-[10] JCEUA [Timeline Review March, 2026](https://drive.google.com/file/d/1rVCRvUs91lYDAoo_YIfxpAAsYzEAMMxm)
+[^10]: JCEUA [Timeline Review March, 2026](https://drive.google.com/file/d/1rVCRvUs91lYDAoo_YIfxpAAsYzEAMMxm)
 
-[11] PETI [Request for Guidance on Submitting a Petition under Conditions of Institutional Risk and Withholding of Scientific Protections](https://drive.google.com/file/d/1jD9Rmrlgp1wB0hqDqNIRNb8n3SwNBrCk/view)
+ - PETI [Request for Guidance on Submitting a Petition under Conditions of Institutional Risk and Withholding of Scientific Protections](https://drive.google.com/file/d/1jD9Rmrlgp1wB0hqDqNIRNb8n3SwNBrCk/view)
 
-[12] Seanad Select Committee on EU Scrutiny and Transparency [Submission to the Committee, March 11th, 2026](https://drive.google.com/file/d/1k-FVtgRPjqZrch-IZHTL1EWOtFGRU9AY)
+[^12]: Seanad Select Committee on EU Scrutiny and Transparency [Submission to the Committee, March 11th, 2026](https://drive.google.com/file/d/1k-FVtgRPjqZrch-IZHTL1EWOtFGRU9AY)
 
-[13] Duty of Care, Data Protection, Safe Harbour (Letter from Enda Kenny)
+ - Duty of Care, Data Protection, Safe Harbour (Letter from Enda Kenny)
 
 ---
 
