@@ -61,6 +61,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 **OVERSIGHT CHANNELS**  
 🔇 **Joint Committee on Public Petitions:** 18 Contacts — 0 Replies  
 🏛️ **Joint Committee on European Union Affairs:** 7 Contact Points — Declined, then Deleted  
+🏛️ **6 Additional Oireachtas Committees Declined Jurisdiction**  
 🔕 **Seanad Select Committee on EU Scrutiny:** Submission Refused — No Standing Order Cited; No Statutory Basis Given  
 
 ---
