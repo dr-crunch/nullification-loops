@@ -51,7 +51,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 📌 **2006** — Research Presented; Knowledge Transferred; Verbal Promise from Taoiseach; State Assumes Custody; DOD Engaged  
 📌 **2008** — DFA Engaged; No Statutory Determination Issued  
 📌 **February 2009** — Irish Aid Presentation; Ministerial Report Promised by Micheál Martin; Never Produced; Never Disclosed  
-📌 **FIN-MO-03632-2024** — Dossier Returned to Tánaiste Martin; Parliamentary Inquiry Conditions Met; No Inquiry Initiated  
+📌 **FIN-MO-03632-2024** — Dossier Returned to then-Tánaiste Martin; Parliamentary Inquiry Conditions Met; No Inquiry Initiated  
 
 ---
 
