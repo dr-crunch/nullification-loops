@@ -162,7 +162,8 @@ Institutional Petitions & Oversight
 * JCPP Submission[^5] : An overview of the 18 substantive submissions met with total institutional silence, documenting the breakdown of the public petition mechanism. 
 * PETI Submission: Formal guidance request to the European Parliament regarding institutional risk and the withholding of scientific protections.
 * JCEUA Submission[^10] : Structured Review of EU Affairs Dimensions, 2006–2026. Submitted to the Joint Committee on European Union Affairs March 9th, 2026 
-* Seanad Select Committee on EU Scrutiny and Transparency Submission[^seanad] : Structural Non-Governance, the Council Presidency, and the Limits of Acknowledgment Under EU Regulation 2021/821 and Standing Order 115(1)(a),March 11th, 2026 
+* Seanad Select Committee on EU Scrutiny and Transparency Submission[^seanad] : Structural Non-Governance, the Council Presidency, and the Limits of Acknowledgment Under EU Regulation 2021/821 and Standing Order 115(1)(a), March 11th, 2026
+  * _Interregnum Nullificans_ Submission[^interregnum] : Follow-up Statement of Record — connects seventeen legal and constitutional frameworks to the factual record, March 18th, 2026
 
 Formal Pre-Litigation & Notices
 
@@ -254,6 +255,8 @@ procedural justice [nullification-loops](https://github.com/dr-crunch/nullificat
 [^seanad]: Seanad Select Committee on EU Scrutiny and Transparency [Submission to the Committee, March 11th, 2026](https://drive.google.com/file/d/1k-FVtgRPjqZrch-IZHTL1EWOtFGRU9AY)
 
 [^notice]: Seanad Select Committee on EU Scrutiny and Transparency [Notice of Administrative Non-Determination](https://drive.google.com/file/d/1jfemqcuqBvfHTMc9ILIXUKtJ8jc7tHQ3/view?usp=drive_link)
+
+[^interregnum]: Seanad Select Committee on EU Scrutiny and Transparency, March 18th, 2026 [Interregnum Nullificans](https://drive.google.com/file/d/1YB7so7pzTg7uZFFir7nKWxB5wZZeSEX3) 
 
  - Duty of Care, Data Protection, Safe Harbour (Letter from Enda Kenny)
 
