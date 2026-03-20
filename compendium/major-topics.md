@@ -74,7 +74,7 @@ Each topic has its own register — legal, diplomatic, technical, humanitarian, 
 
 **The question is the actual viability of Ireland's Council Presidency in terms of EU standards, international standards, ethical frameworks and legal doctrines —this in light of France's convening authority, and the public record that is already indexed and growing.**  
 
-## Interregnum Nullificans:
+## Interregnum Nullificans
 
 Live: the formulation of delegation, a concern of the state.  
 
