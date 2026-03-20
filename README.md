@@ -92,6 +92,8 @@ This landing page cross-references the top-view of the impasse with the detailed
 ⚖️ High Court & CJEU Proceedings in Preparation — ECJ Registry Already Copied  
 🌐 Record Transmitted to: PETI · European Ombudsman · CEPS · DGRIS · Democracy Reporting International  
 🚩 **Competent Authority Vacancy: 19 Years. The Obligation Does Not Expire. It Finds Its Determination.**  
+💥 Conspóid ollmhór / polémique massive / Massive Controversy
+
 
 </div>
 
