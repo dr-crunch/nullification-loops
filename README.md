@@ -41,6 +41,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 ---
 
+### Procedural Justice
 
 🔴 **INTERREGNUM NULLIFICANS**  
 *19 Years. No Evaluation. No Determination. No Remedy.*
