@@ -528,6 +528,10 @@ The framing of "constructive abdication" — that failure to respond is not a ta
 
 Historically, Ireland has experienced governance failures that were later characterised as systemic — from the Hepatitis C tribunal to the Commission of Investigation into Mother and Baby Homes to the banking inquiry of 2015–2016. In each case, the failure was compounded by institutional silence in the face of early warning. The complaint before us does not rise to those catastrophes in immediate human cost — but the structural pattern it describes is recognisably similar: a state that processes signal symbolically while voiding it operationally.
 
+[en direct](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/major-topics.md#interregnum-nullificans) _Pièces Jointes: Interregnum Nullificans_
+
+[Pièces Jointes](https://github.com/dr-crunch/nullification-loops/tree/main/compendium/pieces-jointes)
+
 ---
 
 🇮🇪 **Taifead Poiblí** : [dealraitheachas-agus-riarachánachas](https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file#governmentality-2025)  
