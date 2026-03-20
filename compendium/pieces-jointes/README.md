@@ -29,16 +29,16 @@ The following documentation provides the technical and legal basis for defining 
 
 **2. The Strategic Imperative: Operations Research (O.R.) in National Defense**
 
-Operations Research is not an adjunct to national strategy; it is constitutive of strategic success. Developed as an applied military science during World War II to optimize radar networks, anti-submarine routing, and resource allocation, O.R. was born from the realization that strategic problems are essentially mathematical and organizational constraints functioning under high uncertainty. For the Irish State, particularly the Department of Defence and the Office of Emergency Planning (OEP), O.R. represents the essential analytic layer required to translate qualitative intent into quantitative execution.
+Operations Research is not an adjunct to national strategy; it is constitutive of strategic success. Developed as an applied military science during World War II to optimize radar networks, anti-submarine routing, and resource allocation, O.R. was born from the realisation that strategic problems are essentially mathematical and organisational constraints functioning under high uncertainty. For the Irish State, particularly the Department of Defence and the Office of Emergency Planning (OEP), O.R. represents the essential analytic layer required to translate qualitative intent into quantitative execution.
 
 The source context identifies specific "Solver Classes" that are directly embedded in the statutory functions of defense and national readiness:
 
-* Assignment & Facility Layout: Critical for force design and infrastructure optimization.
+* Assignment & Facility Layout: Critical for force design and infrastructure optimisation.
 * Conformal Mapping & Data Conditioning: Essential for signal processing and advanced capability evaluation.
 * Decision Analysis & Decision Trees: Fundamental for risk modeling and capability development.
-* Supply Chain Management & Financement Structure Analysis: Necessary for procurement optimization and logistics readiness.
+* Supply Chain Management & Financement Structure Analysis: Necessary for procurement optimisation and logistics readiness.
 
-Modern defense organizations (NATO, US DoD, UK MOD) have institutionalized O.R. to manage core functions that the Irish OEP currently lacks:
+Modern defense organisations (NATO, US DoD, UK MOD) have institutionalized O.R. to manage core functions that the Irish OEP currently lacks:
 
 * Readiness Forecasting: Predicting capability needs before crises emerge.
 * Force Design: Comparing capabilities and optimizing force structures for interoperability.
