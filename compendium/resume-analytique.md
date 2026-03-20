@@ -102,6 +102,8 @@ Chaque thème possède son propre registre — juridique, diplomatique, techniqu
 
 La question centrale est celle-ci : **la viabilité réelle de la Présidence irlandaise du Conseil de l'UE — au regard des normes européennes, des standards internationaux, des cadres éthiques et des doctrines juridiques — est-elle compatible avec dix-neuf ans de paralysie administrative documentée, face à l'autorité de convocation de la France et à un dossier public déjà indexé et en expansion ?**
 
-En Direct: la formulation de délégation, l'un sourcis de l'état. [_Interregnum Nullificans_](https://drive.google.com/file/d/1YB7so7pzTg7uZFFir7nKWxB5wZZeSEX3)  
+## Interrègne annulant 
+
+En Direct: la formulation de délégation, d'un souci de l'état. [_Interregnum Nullificans_](https://drive.google.com/file/d/1YB7so7pzTg7uZFFir7nKWxB5wZZeSEX3)  
 
 [← Retour aux boucles de nullification](https://github.com/dr-crunch/nullification-loops#nullification-loops)
