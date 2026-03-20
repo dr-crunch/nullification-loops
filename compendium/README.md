@@ -81,4 +81,6 @@ The absence of substantive response from independent civil-society engagement is
 
 What makes this significant for the Commission as a stakeholder is that civil-society institutions such as CEPS, Brussels-based think-tanks, and the IIEA ordinarily function as informal early-warning nodes for the Commission. If those nodes are also non-responsive, the Commission's own information environment on Irish governance quality is structurally impoverished — and its endorsement of Ireland's Presidency readiness rests on that impoverished foundation.
 
+[Neamhnú Idir-réimnigh](https://github.com/dr-crunch/nullification-loops/tree/main/compendium/pieces-jointes#neamhn%C3%BA-idir-r%C3%A9imnigh)
+
 [Pièces Jointes](https://github.com/dr-crunch/nullification-loops/tree/main/compendium/pieces-jointes)
