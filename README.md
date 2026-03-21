@@ -1,7 +1,7 @@
 ![nullification-loops](https://github.com/dr-crunch/nullification-loops/blob/main/compendium/scathain-agus-splanc-v3.jpg)
 # nullification-loops
 **Structural Operations Freeze in the Irish Public Petition System: A Mixed Curriculum of Misadministration**  
-**_Scátháin agus Splanc_**
+**_Scátháin agus Splanc_**: "Mirrors and Flash"  
 
 
 <details>
