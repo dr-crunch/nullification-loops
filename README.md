@@ -46,6 +46,15 @@ This landing page cross-references the top-view of the impasse with the detailed
 🔴 **INTERREGNUM NULLIFICANS**  
 *19 Years. No Evaluation. No Determination. No Remedy.*
 
+___
+
+Five distinct registers operating simultaneously:
+  * evidentiary (tables, refs, dates)
+  * legal argument (fissures, grounds)
+  * political record (MEP/committee tables)
+  * narrative analysis (five scopes)
+  * directory (document indexes, links)
+
 ---
 
 **SECURITY BREACHES**  
