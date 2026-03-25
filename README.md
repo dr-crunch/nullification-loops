@@ -48,7 +48,7 @@ This landing page cross-references the top-view of the impasse with the detailed
 
 ___
 
-Five distinct registers operating simultaneously:
+Distinct registers operating simultaneously:
   * evidentiary (tables, refs, dates)
   * legal argument (fissures, grounds)
   * political record (MEP/committee tables)
