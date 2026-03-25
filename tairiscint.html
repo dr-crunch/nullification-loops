@@ -354,8 +354,9 @@
   tbody tr { border-bottom: 1px solid var(--rule); }
   tbody tr:hover { background: var(--paper-warm); }
   tbody td { padding: 0.65rem 0.8rem; color: var(--ink-light); vertical-align: top; line-height: 1.55; }
-  tbody td:first-child { font-family: var(--mono); font-size: 0.76rem; color: var(--ink); white-space: nowrap; }
-  .tier-header td {
+  tbody td:first-child { font-family: var(--mono); font-size: 0.76rem; color: var(--ink); }
+  .tier-header td,
+  .tier-header td:first-child {
     background: var(--ink);
     color: var(--paper);
     font-family: var(--mono);
@@ -365,7 +366,8 @@
     padding: 0.55rem 0.8rem;
     font-weight: 400;
   }
-  .td-instrument { font-weight: 500; color: var(--ink); font-family: var(--serif); font-size: 0.88rem; }
+  .td-instrument { font-weight: 500; color: var(--ink); font-family: var(--serif); font-size: 0.88rem; max-width: 180px; white-space: normal; }
+  .td-authority { max-width: 160px; white-space: normal; word-break: break-word; }
   .td-charter { font-family: var(--mono); font-size: 0.72rem; color: var(--accent); }
   .td-status-active { color: var(--ack); font-family: var(--mono); font-size: 0.72rem; }
   .td-status-pending { color: var(--pending); font-family: var(--mono); font-size: 0.72rem; }
@@ -1200,63 +1202,63 @@
       </thead>
       <tbody>
         <tr>
-          <td>Irish High Court</td>
+          <td class="td-authority">Irish High Court</td>
           <td>Order 84 RSC — Judicial Review; Mandamus; Certiorari</td>
           <td>In preparation</td>
           <td>(1) McEntee Foreclosure (DOD-MO-01201-2025): three independent irrationality grounds. (2) Ultra vires Section 8(3) determination of 10 September 2025. (3) DFA competent authority vacancy under EU Reg. 2021/821.</td>
           <td><span class="badge badge-prep">In preparation</span></td>
         </tr>
         <tr>
-          <td>European Ombudsman</td>
+          <td class="td-authority">European Ombudsman</td>
           <td>Article 228 TFEU — Maladministration by EU-implementing Member State bodies</td>
           <td>Active — record transmitted</td>
           <td>DFA's zero-determination record under EU Reg. 2021/821 across nineteen years. JCEUA deletion of formally received correspondence. Absence of statutory account of inapplicability.</td>
           <td><span class="badge badge-active">Active</span></td>
         </tr>
         <tr>
-          <td>PETI — EP Committee on Petitions</td>
+          <td class="td-authority">PETI — EP Committee on Petitions</td>
           <td>EP Rules of Procedure — Right of Petition under Art. 227 TFEU</td>
           <td>Active</td>
           <td>DFA's unperformed competent authority obligation. JCEUA declination and deletion without statutory basis. Absence of EU law compliance determination.</td>
           <td><span class="badge badge-active">Active</span></td>
         </tr>
         <tr>
-          <td>Court of Justice of the EU</td>
+          <td class="td-authority">Court of Justice of the EU</td>
           <td>Art. 267 TFEU (preliminary reference); Art. 258–260 TFEU (infringement); direct action</td>
           <td>CJEU parallel filing in preparation</td>
           <td>Breach of EU Reg. 2021/821 competent authority obligation. Violation of Arts. 41 and 47 CFR. Breach of Arts. 2 and 4(3) TEU. Presidency Paradox: Ireland assumes Council Presidency July 1st, 2026 with documented unresolved competent authority vacancy.</td>
           <td><span class="badge badge-prep">In preparation</span></td>
         </tr>
         <tr>
-          <td>Commissioner McGrath — Democracy, Justice, Rule of Law</td>
+          <td class="td-authority">Commissioner McGrath — Democracy, Justice, Rule of Law</td>
           <td>Art. 2 TEU; Rule of Law monitoring mechanism; Commissioner mandate</td>
           <td>Formal notification: 27 November 2025</td>
           <td>Art. 2 TEU breach characterisation placed on record. Ireland's DFA holds a zero-determination record on a matter directly within the Commissioner's Rule of Law monitoring mandate.</td>
           <td><span class="badge badge-silent">No response</span></td>
         </tr>
         <tr>
-          <td>Commissioner Šefčovič — Interinstitutional Relations and Transparency</td>
+          <td class="td-authority">Commissioner Šefčovič — Interinstitutional Relations and Transparency</td>
           <td>EU transparency obligations; institutional cooperation mandate</td>
           <td>Record transmitted</td>
           <td>DFA's transparency gap: designated publisher of Ireland's EU compliance record while holding zero-determination entry under Reg. 2021/821.</td>
           <td><span class="badge badge-silent">No response</span></td>
         </tr>
         <tr>
-          <td>Commissioner Lahbib — Crisis Management</td>
+          <td class="td-authority">Commissioner Lahbib — Crisis Management</td>
           <td>Crisis management mandate; EU emergency preparedness framework</td>
           <td>Record transmitted</td>
           <td>OR corpus with documented applications to emergency logistics, civil defence, and disaster risk management. Storm Éowyn (January 2025): technology available and unassessed during operational overload.</td>
           <td><span class="badge badge-silent">No response</span></td>
         </tr>
         <tr>
-          <td>CEPS — Centre for European Policy Studies</td>
+          <td class="td-authority">CEPS — Centre for European Policy Studies</td>
           <td>Academic and policy engagement; EU governance research</td>
           <td>Formal transmission: March 2026</td>
           <td>Full evidentiary record of the Interregnum Nullificans. Structural analysis of EU Member State competent authority vacancy as a governance failure template.</td>
           <td><span class="badge badge-received">Record received</span></td>
         </tr>
         <tr>
-          <td>DGRIS — Direction Générale des Relations Internationales et de la Stratégie (France)</td>
+          <td class="td-authority">DGRIS — Direction Générale des Relations Internationales et de la Stratégie (France)</td>
           <td>Bilateral strategic engagement; dual-use governance; Jan. 2011 DAS meeting on record</td>
           <td>Record transmitted: March 2026</td>
           <td>OR corpus with dual-use and national security characteristics. Original French engagement (DAS, January 2011) documented in breach sequence. DGRIS is the successor body.</td>
