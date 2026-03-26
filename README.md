@@ -431,8 +431,8 @@ Here are the named members of EU Parliament who can be considered in breach of b
 | Barry Cowen | Fianna Fáil / Renew | Sent — No Response | 23 Feb 2026 | *EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance* |
 | Billy Kelleher | Fianna Fáil / Renew | Sent — No Response | 23 Feb 2026 | *EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance* |
 | Cynthia Ní Mhurchú | Fianna Fáil / Renew | Sent — No Response | 23 Feb 2026 | *EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance* |
-| Kathleen Funchion | Sinn Féin / The Left | Not Yet Contacted | — | — |
-| Maria Walsh | Fine Gael / EPP | Not Yet Contacted | — | — |
+| Kathleen Funchion | Sinn Féin / The Left | Sent - No Response | 26 Mar 2026 | *Request for Assistance — Systemic Non-Response, Petition Failure & Rule of Law Implications* |
+| Maria Walsh | Fine Gael / EPP | Sent - No Response | 24 Mar 2026 | *Request for Assistance — Systemic Non-Response, Nullification Loops & Ombudsman Escalation* |
 | Regina Doherty | Fine Gael / EPP | Not Yet Contacted | — | — |
 | Seán Kelly | Fine Gael / EPP | Not Yet Contacted | — | — |
 | Nina Carberry | Fine Gael / EPP | Not Yet Contacted | — | — |
