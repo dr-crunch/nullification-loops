@@ -90,6 +90,15 @@
     flex-shrink: 0;
   }
 
+  /* Legal dossier card — accent (dark red) variant */
+  .dossier-card.legal-variant {
+    border-left-color: var(--accent);
+    background: #f0e8e8;
+  }
+  .dossier-card.legal-variant:hover { background: #e8dcdc; }
+  .dossier-card.legal-variant .dossier-card-label { color: var(--accent); }
+  .dossier-card.legal-variant .dossier-card-arrow { color: var(--accent); }
+
   /* Content Pillars */
   .pillar-content { grid-column: span 6; padding: 2rem; background: var(--paper-warm); border: 1px solid var(--rule); }
   .pillar-content h3 { font-family: 'Cinzel', serif; margin-bottom: 1rem; border-bottom: 1px solid var(--ink); padding-bottom: 0.5rem; }
@@ -178,6 +187,15 @@
         <div class="dossier-card-desc">Statement of Record</div>
       </div>
       <span class="dossier-card-arrow">Open Dossier ↗</span>
+    </a>
+
+    <a href="https://dr-wojak.github.io/legal/" class="dossier-card legal-variant">
+      <div>
+        <span class="dossier-card-label">Statutory · Constitutional · Jurisprudential · Active / Litigation Prep</span>
+        <div class="dossier-card-title">Legal Repository — Mandamus, Governance Breach &amp; Ethical Duties</div>
+        <div class="dossier-card-desc">19-year evidentiary record · High Court filings · Formal complaints · Oireachtas correspondence · Jurisprudential briefs · Extra-jurisdictional abeyance</div>
+      </div>
+      <span class="dossier-card-arrow">Open Repository ↗</span>
     </a>
     
     <div class="pillar-content">
