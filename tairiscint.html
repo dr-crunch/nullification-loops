@@ -389,6 +389,72 @@
   .badge-silent { background: rgba(139,26,26,0.1); color: var(--accent); border: 1px solid rgba(139,26,26,0.25); }
   .badge-received { background: var(--paper-deep); color: var(--ink-faint); border: 1px solid var(--rule); }
 
+  /* ── LEGAL REPOSITORY LINK CARD ── */
+  .repo-card {
+    display: flex;
+    align-items: stretch;
+    margin: 2.5rem 0;
+    border: 1px solid var(--rule);
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.2s;
+    max-width: 74ch;
+  }
+  .repo-card:hover { background: var(--paper-warm); }
+  .repo-card:hover .repo-card-arrow { background: var(--accent); color: var(--paper); }
+  .repo-card-flag {
+    background: var(--accent);
+    width: 5px;
+    flex-shrink: 0;
+  }
+  .repo-card-body {
+    padding: 1.2rem 1.5rem;
+    flex: 1;
+    border-bottom: none;
+  }
+  .repo-card-label {
+    font-family: var(--mono);
+    font-size: 0.58rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 0.45rem;
+  }
+  .repo-card-title {
+    font-family: var(--display);
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ink);
+    display: block;
+    margin-bottom: 0.4rem;
+    font-weight: 500;
+  }
+  .repo-card-desc {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--ink-faint);
+    line-height: 1.6;
+    display: block;
+  }
+  .repo-card-arrow {
+    display: flex;
+    align-items: center;
+    padding: 0 1.4rem;
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: var(--paper-deep);
+    border-left: 1px solid var(--rule);
+    white-space: nowrap;
+    flex-shrink: 0;
+    transition: background 0.2s, color 0.2s;
+  }
+
   /* ── CLOSING QUOTE ── */
   .closing {
     margin-top: 3rem;
@@ -438,6 +504,7 @@
     .content { padding: 2rem 1rem 3rem; }
     .hypothesis { grid-template-columns: 1fr; }
     .site-footer { padding: 1.5rem 1.2rem; }
+    .repo-card-arrow { display: none; }
   }
 </style>
 </head>
@@ -1267,6 +1334,17 @@
       </tbody>
     </table>
   </div>
+
+  <!-- LEGAL REPOSITORY LINK CARD — inserted after Saisine table, before Closing -->
+  <a class="repo-card" href="https://dr-wojak.github.io/legal/" target="_blank" rel="noopener">
+    <div class="repo-card-flag"></div>
+    <div class="repo-card-body">
+      <span class="repo-card-label">Statutory · Constitutional · Jurisprudential · Active / Litigation Prep</span>
+      <span class="repo-card-title">Legal Repository — The Full Evidentiary Record</span>
+      <span class="repo-card-desc">High Court filings, notices of motion, formal complaints, Oireachtas correspondence, jurisprudential briefs, and extra-jurisdictional abeyance. The structured instrument base from which this Tairiscint derives its evidential grounding.</span>
+    </div>
+    <div class="repo-card-arrow">Open Repository ↗</div>
+  </a>
 
   <!-- CLOSING -->
   <div class="part-header">
