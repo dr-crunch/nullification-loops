@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nullification Loops — Dossier · Scáthan agus Splanc</title>
+<title>Nullification Loops — Dossier</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Source+Code+Pro:wght@400;500&display=swap" rel="stylesheet">
 <style>
@@ -31,27 +31,12 @@
   --mono: 'Source Code Pro', monospace;
   --serif: 'EB Garamond', Georgia, serif;
   --display: 'Cinzel', serif;
+  --masthead-h: 0px;
+  --tabnav-h: 0px;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 16px; scroll-behavior: smooth; }
 body { background: var(--paper); color: var(--ink); font-family: var(--serif); font-size: 1rem; line-height: 1.75; }
-
-/* ── BACK NAV ── */
-.back-nav {
-  background: var(--paper-3);
-  border-bottom: 1px solid var(--rule-2);
-  padding: 0.55rem 2rem;
-}
-.back-nav a {
-  font-family: var(--mono);
-  font-size: 0.62rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--ink-4);
-  text-decoration: none;
-  border-bottom: none;
-}
-.back-nav a:hover { color: var(--accent); }
 
 /* ── MASTHEAD ── */
 .masthead {
@@ -65,6 +50,7 @@ body { background: var(--paper); color: var(--ink); font-family: var(--serif); f
 }
 .masthead-inner { max-width: 1100px; margin: 0 auto; }
 .masthead-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 2rem; margin-bottom: 1.4rem; }
+.masthead-titles {}
 .masthead-kicker { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--gold-lt); margin-bottom: 0.5rem; display: block; }
 .masthead-title { font-family: var(--display); font-size: clamp(1.4rem, 3vw, 2.2rem); font-weight: 500; color: var(--paper); letter-spacing: 0.03em; line-height: 1.1; }
 .masthead-title em { font-family: var(--serif); font-style: italic; color: var(--gold-lt); font-size: 90%; }
@@ -112,27 +98,39 @@ body { background: var(--paper); color: var(--ink); font-family: var(--serif); f
 .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
 
 /* ── CONTENT ── */
-.tab-content { display: none; max-width: 1100px; margin: 0 auto; padding: 2.5rem 2rem 4rem; }
+.tab-content { display: none; max-width: 1100px; margin: 0 auto; padding: 2.5rem 2rem 4rem; animation: fadeIn 0.2s ease; }
 .tab-content.active { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
 
 /* ── TYPOGRAPHY ── */
 h2 { font-family: var(--display); font-size: 1.1rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink); margin: 2.5rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--rule); }
 h2:first-child { margin-top: 0; }
 h3 { font-family: var(--serif); font-size: 1.1rem; font-weight: 500; font-style: italic; color: var(--ink-2); margin: 1.8rem 0 0.6rem; }
+h4 { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-3); margin: 1.4rem 0 0.5rem; }
 p { max-width: 74ch; margin-bottom: 1rem; color: var(--ink-2); }
 p:last-child { margin-bottom: 0; }
 a { color: var(--accent); text-decoration: none; border-bottom: 1px solid rgba(154,28,28,0.3); }
 a:hover { border-bottom-color: var(--accent); }
+
+/* ── LEAD ── */
 .lead { font-size: 1.15rem; font-weight: 400; color: var(--ink); border-left: 3px solid var(--accent); padding-left: 1.4rem; margin: 0 0 1.5rem; max-width: 72ch; line-height: 1.7; }
+
+/* ── BLOCKQUOTE ── */
 blockquote { background: var(--gold-bg); border-left: 3px solid var(--gold); padding: 1.2rem 1.5rem; margin: 1.5rem 0; max-width: 72ch; }
 blockquote p { font-style: italic; font-size: 1.05rem; color: var(--ink); }
 blockquote cite { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-4); font-style: normal; display: block; margin-top: 0.5rem; }
+
+/* ── KICKER LABEL ── */
 .kicker { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); display: block; margin-bottom: 0.3rem; }
+
+/* ── CALL-OUT BOX ── */
 .callout { border: 1px solid var(--rule-2); padding: 1.2rem 1.4rem; margin: 1.5rem 0; background: var(--paper-2); }
 .callout.red { border-color: rgba(154,28,28,0.35); background: var(--accent-bg); }
 .callout.gold { border-color: rgba(160,120,24,0.35); background: var(--gold-bg); }
 .callout-title { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.6rem; display: block; }
 .callout.gold .callout-title { color: var(--gold); }
+
+/* ── EVIDENCE TABLE ── */
 .ev-table-wrap { overflow-x: auto; margin: 1.5rem 0; }
 table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
 thead tr { border-bottom: 2px solid var(--rule-2); }
@@ -143,17 +141,24 @@ tbody td { padding: 0.65rem 0.8rem; color: var(--ink-2); vertical-align: top; li
 tbody td:first-child { font-family: var(--mono); font-size: 0.78rem; color: var(--ink); }
 .td-ref { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-4); }
 tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; padding: 0.6rem 0.8rem; border-top: 2px solid var(--rule-2); color: var(--ink); }
+
+/* ── STATUS BADGES ── */
 .badge { display: inline-block; font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.12em; text-transform: uppercase; padding: 0.18rem 0.55rem; vertical-align: middle; }
 .badge-silence { background: rgba(154,28,28,0.12); color: var(--silence); border: 1px solid rgba(154,28,28,0.25); }
 .badge-ack { background: var(--ack-bg); color: var(--ack); border: 1px solid rgba(24,80,40,0.25); }
 .badge-pending { background: var(--pending-bg); color: var(--pending); border: 1px solid rgba(74,72,32,0.25); }
+.badge-live { background: rgba(154,28,28,0.08); color: var(--accent); border: 1px solid rgba(154,28,28,0.2); }
+
+/* ── LOOP DIAGRAM ── */
 .loop-flow { display: flex; align-items: stretch; margin: 1.5rem 0 0.5rem; border: 1px solid var(--rule-2); overflow: hidden; }
-.loop-stage { flex: 1; padding: 1rem 0.8rem; border-right: 1px solid var(--rule); }
+.loop-stage { flex: 1; padding: 1rem 0.8rem; border-right: 1px solid var(--rule); position: relative; }
 .loop-stage:last-child { border-right: none; }
 .loop-stage-n { font-family: var(--mono); font-size: 0.58rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); display: block; margin-bottom: 0.3rem; }
 .loop-stage-title { font-family: var(--display); font-size: 0.7rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink); display: block; margin-bottom: 0.35rem; font-weight: 500; }
 .loop-stage-desc { font-size: 0.78rem; line-height: 1.5; color: var(--ink-4); }
 .loop-invariant { background: var(--accent-bg); border-top: 1px solid rgba(154,28,28,0.3); padding: 0.5rem 1rem; font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); text-align: center; }
+
+/* ── COMPARISON ── */
 .compare-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--rule); margin: 1.5rem 0; }
 .compare-col { background: var(--paper); padding: 1.2rem; }
 .compare-col.silence { background: var(--accent-bg); }
@@ -162,16 +167,22 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 .compare-item { padding: 0.4rem 0; border-bottom: 1px solid var(--rule); font-size: 0.88rem; color: var(--ink-2); display: flex; gap: 0.5rem; align-items: flex-start; }
 .compare-item:last-child { border-bottom: none; }
 .compare-item .ci-ref { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-4); white-space: nowrap; }
+
+/* ── FISSURE CARDS ── */
 .fissure-list { display: flex; flex-direction: column; gap: 1px; background: var(--rule); margin: 1.5rem 0; }
 .fissure { background: var(--paper); padding: 1rem 1.2rem; display: grid; grid-template-columns: 100px 1fr; gap: 1rem; align-items: start; }
 .fissure-label { font-family: var(--display); font-size: 0.72rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); font-weight: 500; padding-top: 0.2rem; }
 .fissure-body p { margin-bottom: 0; font-size: 0.92rem; }
 .fissure-body .fissure-title { font-weight: 500; font-style: italic; color: var(--ink); margin-bottom: 0.3rem; font-size: 0.95rem; }
+
+/* ── ACTOR GROUPS ── */
 .actor-group { margin: 1.5rem 0; }
-.actor-group-header { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ink-4); padding: 0.5rem 0.8rem; background: var(--paper-3); border: 1px solid var(--rule); }
+.actor-group-header { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ink-4); padding: 0.5rem 0.8rem; background: var(--paper-3); border: 1px solid var(--rule); margin-bottom: 0; }
 .actor-item { padding: 0.65rem 0.8rem; border: 1px solid var(--rule); border-top: none; font-size: 0.9rem; }
 .actor-name { font-weight: 500; color: var(--ink); }
 .actor-role { font-style: italic; color: var(--ink-4); font-size: 0.85rem; }
+
+/* ── DOCUMENT INDEX ── */
 .doc-section { margin: 1.5rem 0; }
 .doc-section-header { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--ink-4); display: block; margin-bottom: 0.6rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--rule); }
 .doc-item { display: flex; align-items: flex-start; gap: 0.8rem; padding: 0.6rem 0; border-bottom: 1px solid var(--rule); }
@@ -179,21 +190,115 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 .doc-icon { width: 28px; height: 28px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; background: var(--paper-3); border: 1px solid var(--rule); font-family: var(--mono); font-size: 0.55rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-4); }
 .doc-name { font-size: 0.88rem; color: var(--ink-2); flex: 1; line-height: 1.45; }
 .doc-link { font-family: var(--mono); font-size: 0.65rem; color: var(--accent); white-space: nowrap; }
+
+/* ── LANGUAGE GRID ── */
 .lang-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1px; background: var(--rule); margin: 1.5rem 0; }
 .lang-item { background: var(--paper); padding: 0.7rem 0.9rem; display: flex; align-items: center; gap: 0.6rem; font-size: 0.88rem; }
 .lang-flag { font-size: 1.1rem; flex-shrink: 0; }
 .lang-name { color: var(--ink-2); }
 .lang-native { font-size: 0.75rem; color: var(--ink-4); display: block; }
 .lang-link { font-family: var(--mono); font-size: 0.6rem; color: var(--accent); margin-left: auto; white-space: nowrap; }
+
+/* ── SCOPE SECTIONS ── */
 .scope-nav { display: flex; gap: 0.5rem; flex-wrap: wrap; margin: 1.2rem 0; }
 .scope-btn { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; padding: 0.3rem 0.7rem; background: var(--paper-2); border: 1px solid var(--rule-2); color: var(--ink-4); cursor: pointer; transition: all 0.15s; }
 .scope-btn:hover, .scope-btn.active { background: var(--accent-bg); border-color: rgba(154,28,28,0.35); color: var(--accent); }
 .scope-panel { display: none; }
-.scope-panel.active { display: block; }
+.scope-panel.active { display: block; animation: fadeIn 0.18s ease; }
+
+/* ── TERM CLOUD ── */
 .term-cloud { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1rem 0; }
 .term-tag { font-family: var(--mono); font-size: 0.68rem; padding: 0.2rem 0.5rem; background: var(--paper-3); border: 1px solid var(--rule); color: var(--ink-3); letter-spacing: 0.05em; }
 .term-tag.primary { background: var(--accent-bg); border-color: rgba(154,28,28,0.3); color: var(--accent); }
 
+/* ── COMPENDIUM SPECIFIC STYLES ── */
+.compendium-wrap { max-width: 86ch; }
+
+/* Poem block */
+.poem-block { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1px; background: var(--rule); margin: 1.5rem 0 2rem; }
+.poem-lang { background: var(--paper); padding: 1rem 1.2rem; }
+.poem-lang-label { font-family: var(--mono); font-size: 0.58rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--ink-4); display: block; margin-bottom: 0.5rem; }
+.poem-lang p { font-style: italic; font-size: 0.88rem; line-height: 1.65; color: var(--ink-2); max-width: none; margin: 0; }
+.poem-attribution { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold); margin: 0 0 2rem; padding: 0.5rem 0.8rem; background: var(--gold-bg); border-left: 2px solid var(--gold); display: inline-block; }
+
+/* Tier table */
+.tier-table-wrap { overflow-x: auto; margin: 1.5rem 0; }
+.tier-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+.tier-table thead tr { border-bottom: 2px solid var(--rule-2); }
+.tier-table thead th { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-4); padding: 0.5rem 0.8rem; text-align: left; font-weight: 400; }
+.tier-table tbody tr { border-bottom: 1px solid var(--rule); }
+.tier-table tbody tr:hover { background: var(--paper-2); }
+.tier-table tbody td { padding: 0.65rem 0.8rem; vertical-align: top; line-height: 1.5; color: var(--ink-2); }
+.tier-table td:first-child { font-family: var(--mono); font-size: 0.75rem; color: var(--ink-4); }
+.tier-table td:nth-child(2) { font-weight: 500; color: var(--ink); }
+.exposure-badge { display: inline-block; font-family: var(--mono); font-size: 0.58rem; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.15rem 0.45rem; }
+.exp-critical { background: rgba(154,28,28,0.2); color: var(--silence); border: 1px solid rgba(154,28,28,0.3); }
+.exp-severe { background: rgba(154,28,28,0.12); color: var(--accent); border: 1px solid rgba(154,28,28,0.2); }
+.exp-high { background: rgba(160,120,24,0.12); color: var(--gold); border: 1px solid rgba(160,120,24,0.25); }
+.exp-moderate { background: var(--paper-3); color: var(--ink-3); border: 1px solid var(--rule-2); }
+.exp-universal { background: rgba(24,80,40,0.1); color: var(--ack); border: 1px solid rgba(24,80,40,0.2); }
+.exp-existential { background: #1a0505; color: #e88; border: 1px solid #5a1a1a; }
+.exp-decisive { background: rgba(74,63,46,0.12); color: var(--ink-3); border: 1px solid var(--rule-2); }
+.exp-systemic { background: rgba(154,28,28,0.08); color: var(--accent-lt); border: 1px solid rgba(154,28,28,0.15); }
+
+/* Rotation table */
+.rotation-table { width: 100%; border-collapse: collapse; font-size: 0.88rem; margin: 1.5rem 0; }
+.rotation-table thead th { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-4); padding: 0.5rem 0.8rem; text-align: left; border-bottom: 2px solid var(--rule-2); }
+.rotation-table tbody tr { border-bottom: 1px solid var(--rule); }
+.rotation-table tbody tr:hover { background: var(--paper-2); }
+.rotation-table tbody td { padding: 0.55rem 0.8rem; color: var(--ink-2); }
+.rotation-table td:first-child { font-family: var(--mono); font-size: 0.8rem; font-weight: 500; color: var(--ink); }
+.rotation-table tr.current { background: var(--gold-bg); }
+.rotation-table tr.current td { color: var(--ink); }
+.rotation-table tr.upcoming { background: var(--accent-bg); }
+.rotation-table tr.upcoming td { color: var(--ink); }
+
+/* Compendium section tabs */
+.comp-nav { display: flex; gap: 0.4rem; flex-wrap: wrap; margin: 1.5rem 0 0; }
+.comp-btn { font-family: var(--mono); font-size: 0.58rem; letter-spacing: 0.13em; text-transform: uppercase; padding: 0.28rem 0.65rem; background: var(--paper-2); border: 1px solid var(--rule-2); color: var(--ink-4); cursor: pointer; transition: all 0.12s; }
+.comp-btn:hover { color: var(--ink-2); background: var(--paper-3); }
+.comp-btn.active { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+.comp-panel { display: none; padding: 1.5rem 0 0; }
+.comp-panel.active { display: block; animation: fadeIn 0.18s ease; }
+
+/* Country category cards */
+.cat-grid { display: flex; flex-direction: column; gap: 1px; background: var(--rule); margin: 1.5rem 0; }
+.cat-card { background: var(--paper); padding: 1rem 1.2rem; }
+.cat-header { display: flex; align-items: baseline; gap: 0.8rem; margin-bottom: 0.6rem; }
+.cat-number { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); }
+.cat-name { font-family: var(--display); font-size: 0.85rem; letter-spacing: 0.04em; font-weight: 500; color: var(--ink); }
+.cat-members { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-4); font-style: normal; }
+.cat-body p { font-size: 0.88rem; max-width: none; }
+
+/* Legal issues */
+.legal-issue { border: 1px solid var(--rule-2); padding: 1.2rem 1.4rem; margin: 1rem 0; background: var(--paper); }
+.legal-issue-header { display: flex; align-items: baseline; gap: 0.8rem; margin-bottom: 0.6rem; border-bottom: 1px solid var(--rule); padding-bottom: 0.5rem; }
+.legal-num { font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); }
+.legal-title { font-family: var(--serif); font-size: 1rem; font-weight: 500; font-style: italic; color: var(--ink); }
+.legal-subtitle { font-family: var(--mono); font-size: 0.65rem; color: var(--gold); letter-spacing: 0.1em; }
+.legal-issue p { font-size: 0.9rem; max-width: none; }
+
+/* Repo index */
+.repo-list { margin: 1.5rem 0; border: 1px solid var(--rule-2); }
+.repo-item { display: flex; align-items: center; gap: 1rem; padding: 0.6rem 0.9rem; border-bottom: 1px solid var(--rule); font-size: 0.85rem; }
+.repo-item:last-child { border-bottom: none; }
+.repo-item:hover { background: var(--paper-2); }
+.repo-icon { font-family: var(--mono); font-size: 0.55rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-4); background: var(--paper-3); border: 1px solid var(--rule); padding: 0.15rem 0.35rem; flex-shrink: 0; }
+.repo-url { font-family: var(--mono); font-size: 0.72rem; color: var(--accent); border-bottom: 1px solid rgba(154,28,28,0.3); }
+.repo-url:hover { border-bottom-color: var(--accent); }
+.repo-desc { color: var(--ink-4); font-size: 0.82rem; flex: 1; }
+
+/* DFA callout */
+.dfa-callout { border: 2px solid var(--accent); background: var(--accent-bg); padding: 1.3rem 1.5rem; margin: 2rem 0; }
+.dfa-callout h4 { font-family: var(--display); font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin: 0 0 0.7rem; }
+.dfa-callout p { font-size: 0.9rem; max-width: none; }
+
+/* CJEU question box */
+.cjeu-box { border: 1px solid var(--gold); background: var(--gold-bg); padding: 1.2rem 1.5rem; margin: 1.5rem 0; text-align: center; }
+.cjeu-box blockquote { background: none; border: none; padding: 0; margin: 0; max-width: none; }
+.cjeu-box blockquote p { font-size: 1.05rem; font-style: italic; color: var(--ink); font-weight: 500; }
+
+/* ── RESPONSIVE ── */
 @media (max-width: 700px) {
   .masthead { padding: 1.5rem; }
   .masthead-top { flex-direction: column; }
@@ -204,22 +309,18 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   .fissure { grid-template-columns: 1fr; }
   .masthead-stats { flex-wrap: wrap; }
   .stat { flex: none; width: 50%; padding-bottom: 0.8rem; margin-bottom: 0.8rem; border-right: none; border-bottom: 1px solid rgba(255,255,255,0.08); }
+  .poem-block { grid-template-columns: 1fr; }
 }
 </style>
 </head>
 <body>
 
-<!-- BACK NAV -->
-<div class="back-nav">
-  <a href="index.html">← Nullification Loops · Statement of Record</a>
-</div>
-
 <!-- MASTHEAD -->
-<header class="masthead">
+<header class="masthead" id="masthead">
   <div class="masthead-inner">
     <div class="masthead-top">
       <div class="masthead-titles">
-        <span class="masthead-kicker">dr-crunch / nullification-loops · Full Dossier</span>
+        <span class="masthead-kicker">dr-crunch / nullification-loops · Public Dossier</span>
         <div class="masthead-title">Scáthan agus Splanc <em>&mdash; Mirrors and Flash</em></div>
         <div class="masthead-sub">Ireland's Constitutional and Technical Crisis · 2006–2026 · Interregnum Nullificans</div>
       </div>
@@ -255,7 +356,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 </header>
 
 <!-- TAB NAV -->
-<div class="tab-nav-wrap" id="dossier-nav">
+<div class="tab-nav-wrap" id="tabnav">
   <nav class="tab-nav">
     <button class="tab-btn active" onclick="switchTab('overview', this)">I · Overview</button>
     <button class="tab-btn" onclick="switchTab('loop', this)">II · The Loop</button>
@@ -265,11 +366,13 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <button class="tab-btn" onclick="switchTab('documents', this)">VI · Documents</button>
     <button class="tab-btn" onclick="switchTab('scopes', this)">VII · Five Scopes</button>
     <button class="tab-btn" onclick="switchTab('languages', this)">VIII · Languages</button>
+    <button class="tab-btn" onclick="switchTab('compendium', this)">IX · Compendium</button>
   </nav>
 </div>
 
 <!-- TAB I: OVERVIEW -->
 <div id="tab-overview" class="tab-content active">
+
   <h2>Phainocracy</h2>
   <p class="lead">Governing through the preservation of <em>appearances</em> rather than through substantive correction.</p>
   <p>From Greek φαινόμενον (<em>phaínō</em>), appearance — to show, to appear — and κράτος (<em>krátos</em>), to rule. The Irish term is <em>Dealraitheachas</em>.</p>
@@ -332,6 +435,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
 <!-- TAB II: THE LOOP -->
 <div id="tab-loop" class="tab-content">
+
   <h2>The Nullification Loop — Lúba Neamhnithe</h2>
   <p>The Silence Veto operates through five identifiable institutional speech-acts, documented across nineteen years. Each is individually defensible. Collectively they form a closed loop whose output has been invariant through every change of government, minister, and official.</p>
 
@@ -381,20 +485,24 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
       <div class="compare-item"><span class="badge badge-silence">0</span><span>Communications to Leas-Chathaoirleach Albert Dolan — 8 sent, 0 replies</span></div>
       <div class="compare-item"><span class="badge badge-silence">0</span><span>Communications to Clerk Martha Dowling — 1 sent, 0 replies</span></div>
       <div class="compare-item"><span class="badge badge-silence">0</span><span>Communications to jcpp@oireachtas.ie — 4 sent, 0 replies</span></div>
-      <p style="font-size:0.85rem;color:var(--silence);margin-top:0.8rem;">No automated acknowledgement. No jurisdictional declination. No reference number. No informal response. No response whatsoever. When the committee charged with petition oversight refuses to acknowledge petitions, the constitutional architecture has failed at its foundation.</p>
+      <p style="font-size:0.85rem; color:var(--silence); margin-top:0.8rem;">No automated acknowledgement. No jurisdictional declination. No reference number. No informal response. No response whatsoever. When the committee charged with petition oversight refuses to acknowledge petitions, the constitutional architecture has failed at its foundation.</p>
     </div>
   </div>
 
   <h2>Portfolio Diffusion — The Accountability Gap</h2>
   <p>The matter intersects humanitarian logistics (Irish Aid), emergency planning coordination (OEP), defence-related dual-use considerations, and foreign affairs oversight. No office has issued a decision, formally declined jurisdiction, or designated a responsible decision-holder. Distributed competence without decision ownership creates a structural accountability gap. Authority distributed without termination produces evasion by design. It persists until a body possessing recognised adjudicative authority compels the completion of the decision function.</p>
+
 </div>
 
 <!-- TAB III: EVIDENCE -->
 <div id="tab-evidence" class="tab-content">
+
   <h2>Communications Record — 16 Documented</h2>
   <div class="ev-table-wrap">
     <table>
-      <thead><tr><th>Recipient</th><th>Count</th><th>Dates</th><th>Status</th></tr></thead>
+      <thead><tr>
+        <th>Recipient</th><th>Count</th><th>Dates</th><th>Status</th>
+      </tr></thead>
       <tbody>
         <tr><td>Cathaoirleach Louise O'Reilly</td><td>5</td><td>June 2025 – Feb 2026</td><td><span class="badge badge-silence">0 replies</span></td></tr>
         <tr><td>Leas-Chathaoirleach Albert Dolan</td><td>8</td><td>Aug 2025 – Feb 2026</td><td><span class="badge badge-silence">0 replies</span></td></tr>
@@ -409,7 +517,9 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   <h2>MEP Register — Irish Members of European Parliament</h2>
   <div class="ev-table-wrap">
     <table>
-      <thead><tr><th>MEP</th><th>Party / Group</th><th>Date Sent</th><th>Subject</th><th>Status</th></tr></thead>
+      <thead><tr>
+        <th>MEP</th><th>Party / Group</th><th>Date Sent</th><th>Subject</th><th>Status</th>
+      </tr></thead>
       <tbody>
         <tr><td>Barry Andrews</td><td class="td-ref">Fianna Fáil / Renew</td><td class="td-ref">12 Feb 2026</td><td>Request for Assistance — Institutional Non-Response &amp; Governance Accountability</td><td><span class="badge badge-silence">No response</span></td></tr>
         <tr><td>Lynn Boylan</td><td class="td-ref">Sinn Féin / The Left</td><td class="td-ref">12 Feb 2026</td><td>Request for Assistance — EU Commissioner Non-Response</td><td><span class="badge badge-silence">No response</span></td></tr>
@@ -419,8 +529,8 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
         <tr><td>Barry Cowen</td><td class="td-ref">Fianna Fáil / Renew</td><td class="td-ref">23 Feb 2026</td><td>EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance</td><td><span class="badge badge-silence">No response</span></td></tr>
         <tr><td>Billy Kelleher</td><td class="td-ref">Fianna Fáil / Renew</td><td class="td-ref">23 Feb 2026</td><td>EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance</td><td><span class="badge badge-silence">No response</span></td></tr>
         <tr><td>Cynthia Ní Mhurchú</td><td class="td-ref">Fianna Fáil / Renew</td><td class="td-ref">23 Feb 2026</td><td>EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance</td><td><span class="badge badge-silence">No response</span></td></tr>
-        <tr><td>Kathleen Funchion</td><td class="td-ref">Sinn Féin / The Left</td><td class="td-ref">26 Mar 2026</td><td>Request for Assistance — Systemic Non-Response, Petition Failure & Rule of Law Implications</td><td><span class="badge badge-silence">No response</span></td></tr>
-        <tr><td>Maria Walsh</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">24 Mar 2026</td><td>Request for Assistance — Systemic Non-Response, Nullification Loops & Ombudsman Escalation</td><td><span class="badge badge-silence">No response</span></td></tr>
+        <tr><td>Kathleen Funchion</td><td class="td-ref">Sinn Féin / The Left</td><td class="td-ref">—</td><td>—</td><td><span class="badge badge-pending">Not yet contacted</span></td></tr>
+        <tr><td>Maria Walsh</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">—</td><td>—</td><td><span class="badge badge-pending">Not yet contacted</span></td></tr>
         <tr><td>Regina Doherty</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">—</td><td>—</td><td><span class="badge badge-pending">Not yet contacted</span></td></tr>
         <tr><td>Seán Kelly</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">—</td><td>—</td><td><span class="badge badge-pending">Not yet contacted</span></td></tr>
         <tr><td>Nina Carberry</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">—</td><td>—</td><td><span class="badge badge-pending">Not yet contacted</span></td></tr>
@@ -438,6 +548,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
 <!-- TAB IV: LEGAL -->
 <div id="tab-legal" class="tab-content">
+
   <h2>Five Fissures — The Systemic Nullification Loop</h2>
   <div class="fissure-list">
     <div class="fissure">
@@ -509,10 +620,12 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   <p>A methodology never formally assessed cannot be said to have been rejected on the merits. The institutional non-response has created evidentiary damage — the suppression, by institutional inertia, of material formally submitted but never assessed.</p>
   <h3>IV. EU and International Dimension</h3>
   <p>Where a Member State promotes governance capacity externally while sustaining prolonged internal non-decision in a directly relevant domain, the coherence of that position becomes materially relevant. This complaint alleges structural non-resolution incompatible with EU Charter Article 41, Irish administrative law, and the State's stated development commitments.</p>
+
 </div>
 
 <!-- TAB V: ACTORS -->
 <div id="tab-actors" class="tab-content">
+
   <h2>Implicated Offices and Individuals</h2>
 
   <div class="actor-group">
@@ -562,10 +675,12 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <p>Under Article 15 of the Constitution, the legislative authority includes continuous supervision of executive administration. A functioning opposition is integral to this architecture. Its constitutional role includes forcing executive articulation where silence persists, creating a formal record capable of scrutiny, converting administrative inaction into reviewable ministerial position, and ensuring executive discretion does not harden into unexamined non-decision.</p>
   <p>Where awareness is present but procedural activation is absent, the reciprocal structure between executive and opposition attenuates. The observation is institutional rather than partisan.</p>
+
 </div>
 
 <!-- TAB VI: DOCUMENTS -->
 <div id="tab-documents" class="tab-content">
+
   <h2>Document Index</h2>
 
   <div class="doc-section">
@@ -632,7 +747,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <div class="doc-item"><div class="doc-icon">IMG</div><div class="doc-name">Mairéad-Farrell-annex.png · Contacted 2020 (The Community Call)</div><a class="doc-link" href="https://drive.google.com/file/d/1x6Q5a3NOTtK1aI_2pvtO6sA1W5Xt1W3I" target="_blank">Drive ↗</a></div>
     <div class="doc-item"><div class="doc-icon">IMG</div><div class="doc-name">mary-lou-mcdonald.png · Historical contact starting May 2008</div><a class="doc-link" href="https://drive.google.com/file/d/18UrtGmGZjhXduj3MrxvKj49BVh9Kf708" target="_blank">Drive ↗</a></div>
     <div class="doc-item"><div class="doc-icon">IMG</div><div class="doc-name">paul-murphy-annex.png</div><a class="doc-link" href="https://drive.google.com/file/d/1_63M0Cae4bbcCRnrbOnudvJraPqgC1_5" target="_blank">Drive ↗</a></div>
-    <div class="doc-item"><div class="doc-icon">IMG</div><div class="doc-name">holly-cairns-annex.png · Named on list of 57 non-office holding deputies</div><a class="doc-link" href="https://drive.google.com/file/d/1dIuHm_ms69_Hrt2FGzIIH90hOMMSB9Ew" target="_blank">Drive ↗</a></div>
+    <div class="doc-item"><div class="doc-icon">IMG</div><div class="doc-name">holly-cairns-annex.png · Named on list of 57 non-office holding deputies</div><a class="doc-link" href="https://drive.google.com/file/d/1dIuHm_ms69_Hrt2FGDh8y5oxvrTJ1u" target="_blank">Drive ↗</a></div>
     <div class="doc-item"><div class="doc-icon">IMG</div><div class="doc-name">roderic-o-gorman-annex.png</div><a class="doc-link" href="https://drive.google.com/file/d/1RJUxXAvKUMTBlFFz-rqZ_Zy5oxvrTJ1u" target="_blank">Drive ↗</a></div>
     <div class="doc-item"><div class="doc-icon">PDF</div><div class="doc-name">Annex II — Full list (57 non-office holding deputies)</div><a class="doc-link" href="https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f" target="_blank">Drive ↗</a></div>
   </div>
@@ -645,10 +760,12 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <div class="doc-item"><div class="doc-icon">DIR</div><div class="doc-name">Historical Repository</div><a class="doc-link" href="https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh" target="_blank">Drive ↗</a></div>
     <div class="doc-item"><div class="doc-icon">GH</div><div class="doc-name">Public Repository — github.com/dr-crunch/nullification-loops</div><a class="doc-link" href="https://github.com/dr-crunch/nullification-loops" target="_blank">GitHub ↗</a></div>
   </div>
+
 </div>
 
 <!-- TAB VII: FIVE SCOPES -->
 <div id="tab-scopes" class="tab-content">
+
   <div class="scope-nav">
     <button class="scope-btn active" onclick="switchScope('national', this)">I · National</button>
     <button class="scope-btn" onclick="switchScope('angloirish', this)">II · Anglo-Irish</button>
@@ -696,12 +813,14 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <blockquote><p>The framing of "constructive abdication" — that failure to respond is not a tactic but a form of governance collapse — will, if this matter ever reaches a public inquiry or a superior court, be a phrase that requires answering. The paper trail is substantial enough that it cannot be attributed to a single disgruntled correspondence.</p></blockquote>
     <p>Historically, Ireland has experienced governance failures later characterised as systemic — from the Hepatitis C tribunal to the Commission of Investigation into Mother and Baby Homes to the banking inquiry of 2015–2016. In each case, the failure was compounded by institutional silence in the face of early warning. The complaint before us does not rise to those catastrophes in immediate human cost — but the structural pattern it describes is recognisably similar: a state that processes signal symbolically while voiding it operationally.</p>
   </div>
+
 </div>
 
 <!-- TAB VIII: LANGUAGES -->
 <div id="tab-languages" class="tab-content">
+
   <h2>Multilingual Distribution — 14 EU Languages</h2>
-  <p>Each language version is a separate point of entry for a distinct institutional audience. The translation programme is a legal and political argument, not a communications strategy.</p>
+  <p>Each language version is a separate point of entry for a distinct institutional audience. The translation programme is a legal and political argument, not a communications strategy. Catalan leads the ordering — argumentative, not alphabetical.</p>
 
   <div class="lang-grid">
     <div class="lang-item"><span class="lang-flag">🇮🇪</span><div><span class="lang-name">Gaeilge</span><span class="lang-native">Lúba Neamhnithe</span></div><a class="lang-link" href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/luba-neamhnithe.md" target="_blank">↗</a></div>
@@ -731,24 +850,429 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <div class="lang-item"><span class="lang-flag">🇧🇪</span><div><span class="lang-name">Nederlands (BE)</span><span class="lang-native">Bestuur en Phainocratie</span></div><a class="lang-link" href="https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file" target="_blank">↗</a></div>
     <div class="lang-item"><span class="lang-flag">🇳🇱</span><div><span class="lang-name">Nederlands (NL)</span><span class="lang-native">Bestuurlijkheid</span></div><a class="lang-link" href="https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file" target="_blank">↗</a></div>
     <div class="lang-item"><span class="lang-flag">🇱🇺</span><div><span class="lang-name">Lëtzebuergesch</span><span class="lang-native">Gouvernementalitéit</span></div><a class="lang-link" href="https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file" target="_blank">↗</a></div>
-    <div class="lang-item" style="background:var(--gold-bg);border:1px solid rgba(160,120,24,0.25)"><span class="lang-flag">🇪🇸</span><div><span class="lang-name" style="color:var(--gold)">Català</span><span class="lang-native">Governamentalitat i Phainocracia</span></div><a class="lang-link" href="https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file" target="_blank">↗</a></div>
+    <div class="lang-item" style="background:var(--gold-bg);border:1px solid rgba(160,120,24,0.25)"><span class="lang-flag">🇪🇸</span><div><span class="lang-name" style="color:var(--gold)">Català (leads)</span><span class="lang-native">Governamentalitat i Phainocracia</span></div><a class="lang-link" href="https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file" target="_blank">↗</a></div>
   </div>
 
   <div class="callout gold" style="margin-top:1.5rem;">
     <span class="callout-title">Translation Note</span>
-    <p>Irish and Lithuanian retain weighted positions: Irish for the constitutional language dimension within the primary jurisdiction; Lithuanian for the Council Trio dimension and the Nordic-Baltic ombudsman tradition.</p>
+    <p>Catalan leads the ordering — argumentative, not alphabetical. The flag convention uses the combined state/regional pairing, acknowledging both constitutional reality and cultural-political claim simultaneously. Irish and Lithuanian retain weighted positions: Irish for the constitutional language dimension within the primary jurisdiction; Lithuanian for the Council Trio dimension and the Nordic-Baltic ombudsman tradition.</p>
   </div>
+
 </div>
 
+<!-- TAB IX: COMPENDIUM -->
+<div id="tab-compendium" class="tab-content">
+
+  <h2>Compendium of Stakeholders</h2>
+  <p class="lead">Governance Accountability &amp; Operations Research — Irish &amp; EU Dimensions · Updated 11 March 2026</p>
+
+  <!-- Polyglot poem -->
+  <div class="poem-block">
+    <div class="poem-lang">
+      <span class="poem-lang-label">🇨🇾 Κυπριακά</span>
+      <p>Απού τον ίδιον φως, απού τον νουν,<br>σπίτιν φτιάννουμεν εις τον εσπερινόν αέρα,<br>εν ω το είναι αρκεί.</p>
+    </div>
+    <div class="poem-lang">
+      <span class="poem-lang-label">🇮🇪 Gaeilge</span>
+      <p>As an solas céanna seo, as lár an intinn,<br>déanaimid teach sa ghaoth thráthnóna,<br>ina bhfuil bheith ann le chéile leor.</p>
+    </div>
+    <div class="poem-lang">
+      <span class="poem-lang-label">🇱🇹 Lietuvių</span>
+      <p>Iš tos pačios šviesos, iš proto centro,<br>mes kuriame buveinę vakariniame ore,<br>kurioje būti kartu pakanka.</p>
+    </div>
+    <div class="poem-lang">
+      <span class="poem-lang-label">🇬🇷 Ἑλληνικά</span>
+      <p>Ἐκ τοῦ αὐτοῦ φωτός, ἐκ τοῦ νοῦ,<br>οἰκίαν ποιοῦμεν ἐν τῷ ἑσπερίῳ ἀέρι,<br>ἐν ᾧ τὸ εἶναι ἀρκεῖ.</p>
+    </div>
+    <div class="poem-lang">
+      <span class="poem-lang-label">🇫🇷 Français</span>
+      <p>De cette même lumière, du centre de l'esprit,<br>nous faisons une demeure dans l'air du soir,<br>où être là ensemble suffit.</p>
+    </div>
+    <div class="poem-lang">
+      <span class="poem-lang-label">🇪🇸 Español</span>
+      <p>De esta misma luz, del centro de la mente,<br>hacemos una morada en el aire del atardecer,<br>donde estar juntos basta.</p>
+    </div>
+  </div>
+  <div class="poem-attribution">Wallace Stevens · <em>Final Soliloquy of the Interior Paramour</em> (CP 524)</div>
+
+  <!-- Sub-navigation -->
+  <div class="comp-nav">
+    <button class="comp-btn active" onclick="switchComp('preamble', this)">Preamble</button>
+    <button class="comp-btn" onclick="switchComp('presidency', this)">I · Presidency</button>
+    <button class="comp-btn" onclick="switchComp('entrapment', this)">II · Entrapment</button>
+    <button class="comp-btn" onclick="switchComp('stakeholders', this)">III · Stakeholders</button>
+    <button class="comp-btn" onclick="switchComp('precedent', this)">IV · Precedent</button>
+    <button class="comp-btn" onclick="switchComp('polmap', this)">V · Political Map</button>
+    <button class="comp-btn" onclick="switchComp('synthesis', this)">Synthesis</button>
+    <button class="comp-btn" onclick="switchComp('legal', this)">Legal Summary</button>
+    <button class="comp-btn" onclick="switchComp('repos', this)">Repositories</button>
+  </div>
+
+  <!-- PREAMBLE -->
+  <div id="comp-preamble" class="comp-panel active">
+    <div class="callout gold">
+      <span class="callout-title">Judicial Review — Prefatory Legal Question</span>
+      <p>For the purpose of judicial review and technical accuracy, it is essential to distinguish between two distinct EU leadership roles: the <strong>Presidency of the Council of the European Union</strong> (a rotating role held by Member State governments) and the <strong>President of the European Council</strong> (a permanent individual position, currently held by António Costa).</p>
+    </div>
+    <div class="cjeu-box">
+      <blockquote><p>"Can a Member State lawfully hold the Council Presidency while suppressing an ethics complaint that documents its own breach of Treaty obligations in areas within the Presidency's functional responsibilities?"</p></blockquote>
+    </div>
+    <p style="text-align:center;font-family:var(--mono);font-size:0.7rem;color:var(--ink-4);margin-top:0.5rem;">No appropriate response has been received — no explanation postulated.</p>
+
+    <h3>Preamble</h3>
+    <p>This compendium maps every party with a cognisable interest in the protracted failure to engage with Operations Research (O.R.) in Irish public governance — a failure documented continuously from the initial submission of 11 November 2006 through to the present. The matter is no longer bounded by domestic administrative law. As Ireland holds the Presidency of the Council of the European Union in the second half of 2026, every layer of stakeholder interest — individual, civic, parliamentary, executive, judicial, bilateral, and supranational — is now engaged.</p>
+    <p>What the Presidency moment clarifies is that this architecture, if exported — if Ireland chairs Council working groups on governance quality, rule-of-law indicators, or digital governance reform while this record stands unaddressed — the Evasocracy is not merely national; it becomes a template. The OR survey can be adapted as a governance instrument across all EU states. The terrible irony is that without remediation, the inverse is equally true: the evasion architecture is also exportable, also adaptable, also instructive — as a lesson in how to absorb technical intelligence without acting on it, at EU scale.</p>
+  </div>
+
+  <!-- PRESIDENCY -->
+  <div id="comp-presidency" class="comp-panel">
+    <h2>Part I — The Council Presidency: Legal Basis</h2>
+    <p>The rotation of the Presidency is governed by <strong>Article 16(9) TEU</strong> and <strong>Article 236 TFEU</strong>. The current specific order was established by <strong>Council Decision (EU) 2016/1316</strong>, revised following the United Kingdom's withdrawal from the European Union.</p>
+
+    <h3>Rotation Schedule 2024–2030</h3>
+    <div class="ev-table-wrap">
+      <table class="rotation-table">
+        <thead><tr><th>Year</th><th>January – June</th><th>July – December</th></tr></thead>
+        <tbody>
+          <tr><td>2024</td><td>Belgium</td><td>Hungary</td></tr>
+          <tr><td>2025</td><td>Poland</td><td>Denmark</td></tr>
+          <tr class="current"><td>2026</td><td>🇨🇾 Cyprus <span class="badge badge-live">Current</span></td><td>🇮🇪 Ireland <span class="badge badge-pending">Upcoming</span></td></tr>
+          <tr class="upcoming"><td>2027</td><td>🇱🇹 Lithuania <span style="font-size:0.72rem;color:var(--ink-4);">(Trio)</span></td><td>🇬🇷 Greece <span style="font-size:0.72rem;color:var(--ink-4);">(Trio)</span></td></tr>
+          <tr><td>2028</td><td>Italy</td><td>Latvia</td></tr>
+          <tr><td>2029</td><td>Luxembourg</td><td>Netherlands</td></tr>
+          <tr><td>2030</td><td>Slovakia</td><td>Malta</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="callout gold">
+      <span class="callout-title">The Trio System</span>
+      <p><strong>Current Trio (2025–2026):</strong> Poland, Denmark, and Cyprus. <strong>Next Trio (2026–2027):</strong> Ireland, Lithuania, and Greece. To ensure continuity across the six-month terms, Member States work in groups of three preparing a shared 18-month programme of long-term goals and a common agenda.</p>
+    </div>
+
+    <h3>Functional Responsibilities of the Presidency</h3>
+    <p>The Member State holding the Presidency is responsible for chairing meetings of the Council (except the Foreign Affairs Council, chaired by the High Representative), setting the agenda for legislative files and brokering compromises, and representing the Council in negotiations with other EU institutions including the European Parliament (trilogues).</p>
+  </div>
+
+  <!-- ENTRAPMENT -->
+  <div id="comp-entrapment" class="comp-panel">
+    <h2>Part II — Structural Entrapment: The Presidency as Accountability Dissolution Mechanism</h2>
+
+    <div class="callout red">
+      <span class="callout-title">The Temporal Trap</span>
+      <p>The convergence of Ireland's forthcoming Presidency with the twenty-year suppression of the O.R. ethics complaint constitutes <strong>structural entrapment</strong> — a condition in which institutional architecture systematically prevents the discharge of accountability obligations.</p>
+      <ul style="margin-top:0.7rem;padding-left:1.4rem;font-size:0.9rem;color:var(--ink-2);">
+        <li>Ireland assumes the EU Council Presidency: <strong>1 July 2026</strong></li>
+        <li>Ethics complaint suppression: <strong>11 November 2006 – 27 February 2026</strong> (twenty years)</li>
+      </ul>
+    </div>
+
+    <p>Each six-month rotation creates a "responsibility sink" where incoming presidencies inherit no institutional memory and outgoing presidencies transfer no accountability. The 18-month Trio system compounds this: Poland, Denmark, and Cyprus (the current Trio) have no contact with Ireland's domestic governance failures; Ireland, Lithuania, and Greece (the next Trio) will be too institutionally preoccupied with Council duties to audit Ireland's own record.</p>
+
+    <div class="callout">
+      <span class="callout-title">The Strategic Window — Ireland chairs while the complaint remains suppressed</span>
+      <p>Ireland will chair Council meetings on civil protection coordination (TFEU Art. 196) · broker compromises on dual-use export controls (Reg. 428/2009) · represent the Council in trilogues with Parliament and Commission — all while concealing its own twenty-year breach of those same obligations.</p>
+    </div>
+
+    <h3>The Trio System as Loose Architecture</h3>
+    <p>For 18 months from 1 July 2026, Ireland will be within the governance architecture while simultaneously: suppressing its own ethics complaint; setting EU priorities on emergency preparedness; coordinating cross-border intelligence cooperation; and — per the structural logic of the nullification loop — effectively blocking any Commission investigation into its own TFEU Art. 196 breach.</p>
+    <p>This is not administrative failure. It is structural entrapment without functional self-discipline.</p>
+  </div>
+
+  <!-- STAKEHOLDERS -->
+  <div id="comp-stakeholders" class="comp-panel">
+    <h2>Part III — Compendium of Stakeholders</h2>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier I — The Constituent: Individual Citizens</div>
+      <div class="actor-item"><span class="actor-name">Irish Citizens</span> <span class="actor-role">Primary and foundational stakeholder. Every Irish citizen is affected by the downstream consequences of O.R. exclusion from public governance: suboptimal resource allocation in healthcare, housing, transport, asylum processing, emergency management, and national security. Article 40.3 Bunreacht na hÉireann guarantees the right to have one's rights vindicated by the State.</span></div>
+      <div class="actor-item"><span class="actor-name">EU Citizens Resident in Ireland</span> <span class="actor-role">Share the same exposure under Irish domestic governance failures, compounded by the State's role as lead data regulator for the world's largest data-processing entities. Fundamental rights under the EU Charter engaged wherever Irish regulatory capacity is undermined by the absence of systematic, O.R.-based risk assessment.</span></div>
+      <div class="actor-item"><span class="actor-name">EU Citizens Across All Member States</span> <span class="actor-role">Share risk in a deeper structural sense: Ireland's handling of EU data transfers, dual-use research, and rule-of-law obligations is not a matter of local concern. What one member state does — or fails to do — within the single market reverberates across shared commercial, security, and legal frameworks.</span></div>
+    </div>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier II — Civil Society &amp; Academic Bodies</div>
+      <div class="actor-item"><span class="actor-name">University of Galway (NUI Galway, School of Law)</span> <span class="actor-role">Formally briefed; the Dean's response dismissed the legal implications out of hand; the subsequent rebuttal remains unanswered.</span></div>
+      <div class="actor-item"><span class="actor-name">Irish Centre for Human Rights</span> <span class="actor-role">Multiple detailed emails sent; no response received.</span></div>
+      <div class="actor-item"><span class="actor-name">King's Inns · Law Society of Ireland · Law Society Gazette</span> <span class="actor-role">Formally briefed through the Memoranda. Outside of two exceptions, no substantive civil-society response has been received.</span></div>
+      <div class="actor-item"><span class="actor-name">Institute of International and European Affairs (IIEA)</span> <span class="actor-role">Contacted 9 March 2025 and again 27 November 2025 (attention: Ms Heather Burke, Researcher, Future-Proofing Europe). No substantive response received.</span></div>
+      <div class="actor-item"><span class="actor-name">French Government — Délégation aux Affaires Stratégiques</span> <span class="actor-role">Engaged in the period following the original 11 November 2006 submission. Progress went cold and attention subsequently focused on Irish implementation.</span></div>
+    </div>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier III — The Oireachtas (National Parliament)</div>
+      <div class="actor-item"><span class="actor-name">Joint Committee on Defence and National Security</span> <span class="actor-role">Ref: S-2025-0174-DEF · Cathaoirleach: Ms Rose Conway-Walsh TD</span></div>
+      <div class="actor-item"><span class="actor-name">Joint Committee on Justice, Home Affairs and Migration</span> <span class="actor-role">Ref: R2025-0106, 18 Sept 2025; R2025-0200, 9 Dec 2025 · Cathaoirleach: Mr Matt Carthy TD</span></div>
+      <div class="actor-item"><span class="actor-name">Committee on Budgetary Oversight</span> <span class="actor-role">Ref: S-2025-0087-BOC, 3 Oct 2025 · Cathaoirleach: Mr Richard O'Donoghue TD</span></div>
+      <div class="actor-item"><span class="actor-name">Joint Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation</span> <span class="actor-role">Ref: S-2025-0207-FIN, 3 Oct 2025 · Cathaoirleach: Ms Mairéad Farrell TD</span></div>
+      <div class="actor-item"><span class="actor-name">Joint Committee on European Union Affairs</span> <span class="actor-role">Ref: JCEUA-I-57, 7 Oct 2025 · Cathaoirleach: Mr Barry Ward TD</span></div>
+      <div class="actor-item"><span class="actor-name">Committee on Public Petitions and the Ombudsmen</span> <span class="actor-role">Petition refused transmission by the Clerk of Dáil Éireann (10 Sept 2025); decisions asserted as "final" and admitting "no rebuttal" — a position inconsistent with natural justice and Article 40.3; pre-action notification for judicial review issued 2 December 2025. Cathaoirleach: Ms Louise O'Reilly TD · Leas-Chathaoirleach: Mr Jack Dolan TD</span></div>
+    </div>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier IV — The Executive (Government of Ireland)</div>
+      <div class="actor-item"><span class="actor-name">An Taoiseach, Mr Micheál Martin TD</span> <span class="actor-role">As Minister for Foreign Affairs in 2009, verbal commitment to engage with the O.R. submission was given. Now serves again as Taoiseach, rendering him uniquely accountable to the twenty-year record. Formally engaged 13 December 2025.</span></div>
+      <div class="actor-item"><span class="actor-name">An Tánaiste, Mr Simon Harris TD</span> <span class="actor-role">Minister for Finance · formally engaged 13 December 2025.</span></div>
+      <div class="actor-item"><span class="actor-name">Ms Helen McEntee TD</span> <span class="actor-role">Minister for Foreign Affairs and Trade, and Minister for Defence · formally engaged 13 December 2025.</span></div>
+      <div class="actor-item"><span class="actor-name">Mr Thomas Byrne TD</span> <span class="actor-role">Minister of State at the Departments of the Taoiseach, Foreign Affairs and Trade, and Defence · formally engaged 13 December 2025.</span></div>
+      <div class="actor-item"><span class="actor-name">Mr Jack Chambers TD</span> <span class="actor-role">Minister for Public Expenditure, Infrastructure, Public Services, Reform and Digitalisation · formally engaged 13 December 2025.</span></div>
+    </div>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier V — Irish Constitutional &amp; Judicial Bodies</div>
+      <div class="actor-item"><span class="actor-name">The Council of State</span> <span class="actor-role">Referral requested through the Cathaoirleach of Seanad Éireann, Senator Mark Daly, given the constitutional dimensions of the matter, including the structural antinomy identified in Memorandum E.</span></div>
+      <div class="actor-item"><span class="actor-name">The High Court of Ireland</span> <span class="actor-role">Pre-action notification for judicial review issued 2 December 2025. Preparation of a writ of mandamus underway. If denied, it would establish the precedent that governments may acknowledge national security risks and governance failures without any obligation to act.</span></div>
+    </div>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier VI — EU Institutions</div>
+      <div class="actor-item"><span class="actor-name">Commissioner Michael McGrath</span> <span class="actor-role">Commissioner for Democracy, Justice, the Rule of Law &amp; Consumer Protection · formally engaged 27 November 2025 and subsequently. No substantive response received to date.</span></div>
+      <div class="actor-item"><span class="actor-name">Commissioner Hadja Lahbib</span> <span class="actor-role">Copied on formal correspondence of 27 November 2025.</span></div>
+      <div class="actor-item"><span class="actor-name">Commissioner Maroš Šefčovič</span> <span class="actor-role">Copied on formal correspondence of 27 November 2025.</span></div>
+      <div class="actor-item"><span class="actor-name">Court of Justice of the European Union</span> <span class="actor-role">Correspondence directed to the Registry. Central justiciable question: <em>Can a Member State indefinitely avoid acting on risks it has acknowledged, without legal or institutional consequence?</em> Judge Eugene Regan of the CJEU formally engaged. No response received.</span></div>
+    </div>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier VII — Anglo-Irish &amp; Bilateral Relations</div>
+      <div class="actor-item"><span class="actor-name">The United Kingdom Government</span> <span class="actor-role">Formally apprised as of February 2026 (attention: Rt Hon Hilary Benn MP, Secretary of State for Northern Ireland). Now falls within the ambit of Anglo-Irish institutional oversight.</span></div>
+      <div class="actor-item"><span class="actor-name">The British-Irish Parliamentary Assembly</span> <span class="actor-role">Implicated by the cross-border dimensions of governance, security, and bilateral cooperation frameworks.</span></div>
+    </div>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier VIII — Multilateral / Member States</div>
+      <div class="actor-item"><span class="actor-name">All EU Member States</span> <span class="actor-role">Given Ireland's forthcoming EU Council Presidency (1 July 2026), every EU member state that will interact with Ireland in its capacity as Presidency holder has a legitimate interest in the credibility of Ireland's rule-of-law record and the integrity of its governance architecture. Direct engagement with EU capitals planned in the absence of substantive institutional response from the Commission.</span></div>
+    </div>
+
+    <div class="actor-group">
+      <div class="actor-group-header">Tier IX — The Union Itself</div>
+      <div class="actor-item"><span class="actor-name">The Legal Architecture of Shared Accountability</span> <span class="actor-role">The ultimate stakeholder. If acknowledgment operationally discharges obligation across the single market, the rule of law ceases to be a constraint on member state conduct and becomes a rhetorical posture. This is an existential concern for the legal coherence of the Union.</span></div>
+    </div>
+  </div>
+
+  <!-- PRECEDENT -->
+  <div id="comp-precedent" class="comp-panel">
+    <h2>Part IV — The Precedent Argument: Every Member State</h2>
+
+    <div class="cjeu-box">
+      <blockquote><p>"Can a Member State indefinitely avoid acting on risks it has acknowledged, without legal or institutional consequence?"</p></blockquote>
+    </div>
+
+    <p>The Irish case is, on its surface, a domestic matter — a citizen's research, a government's inaction, a parliamentary system's procedural evasion. But the legal question it generates is not domestic at all. It is a question about the outer boundary of sovereign discretion within a supranational legal order, and its answer binds every member state equally.</p>
+
+    <p>If the answer is yes — whether through judicial silence, Commission inaction, or parliamentary deflection — then a new norm has been established, not by treaty, not by legislation, not by judgment, but by the accumulated weight of institutional non-response. That norm is: <strong>acknowledgment discharges obligation</strong>.</p>
+
+    <h3>What the Precedent Permits</h3>
+    <p>Should Ireland's twenty-year nullification loop remain unchallenged and unresolved, the following propositions become institutionally defensible for any member state:</p>
+    <p>A state may receive a formal submission engaging dual-use obligations under Regulation 428/2009, acknowledge its receipt, and take no evaluative action — indefinitely. A state may deploy a procedural nullification loop — serial jurisdictional deflection across departments, committees, and constitutional bodies — as a substitute for substantive decision-making. A state may assert that its administrative determinations are "final" and "admit no rebuttal" — even where those determinations suppress evidence, deny reasons, and prevent transmission of a complaint — without those assertions being tested.</p>
+    <div class="callout red">
+      <span class="callout-title">The Most Visible Precedent</span>
+      <p>A state may hold the Presidency of the Council of the European Union while suppressing an ethics complaint documenting its own breach of Treaty obligations in areas within the Presidency's functional responsibilities. This is not a hypothetical. It is the position Ireland will occupy from 1 July 2026. If no mechanism intervenes before that date, the precedent is set in the most visible institutional context available.</p>
+    </div>
+
+    <h3>The Exportability of the Nullification Loop</h3>
+    <p>The nullification loop as documented in this case is not an Irish invention. It is a structural property of any administrative system in which oversight functions are distributed across multiple bodies; no single body has a positive duty to receive cross-cutting matters; and acknowledgment can be operationalised as closure. These conditions exist in every member state.</p>
+    <p>What makes the Irish case significant is not that it happened in Ireland. It is that it happened <em>durably</em> — over twenty years, across four governments, through two EU Council terms, and in full documentary view — without triggering any corrective mechanism at the domestic or supranational level.</p>
+
+    <h3>The V4 Dimension</h3>
+    <p>The Visegrád Group — Czechia, Hungary, Poland, and Slovakia — is the most politically relevant sub-group for the precedent argument, for reasons that cut in two distinct directions. From a rule-of-law enforcement perspective, all four V4 states have been subjects of Commission rule-of-law scrutiny, Article 7 TEU proceedings, or CJEU infringement actions in recent years. The Irish case adds a new data point: that resistance need not be politically confrontational to be effective. A state can resist through procedural politeness — through serial declination, through the language of remit and protocol — and achieve the same outcome as open defiance, at a fraction of the reputational cost.</p>
+  </div>
+
+  <!-- POLITICAL MAP -->
+  <div id="comp-polmap" class="comp-panel">
+    <h2>Part V — Political Map by Member State Category</h2>
+    <p>The precedent is not received uniformly across the Union. It lands differently in Berlin than in Budapest, in Tallinn than in Athens. Constitutional tradition, recent experience of EU enforcement, digital sovereignty exposure, and historical memory of institutional failure all shape how this case is read.</p>
+
+    <div class="cat-grid">
+      <div class="cat-card">
+        <div class="cat-header">
+          <span class="cat-number">Cat. 1</span>
+          <span class="cat-name">The Founding Federalists</span>
+          <span class="cat-members">France · Germany · Italy · Belgium · Luxembourg · Netherlands</span>
+        </div>
+        <div class="cat-body">
+          <p>For this group, the problem is morphological. The nullification loop does not resemble the rule-of-law confrontations they are accustomed to addressing — the overt defiance of a Viktor Orbán, the tribunal capture of a Kaczyński-era Poland. It presents instead as procedural normality: polite correspondence, remit deflection, institutional courtesy sustained across twenty years. The enforcement vocabulary of Article 7 TEU was designed for confrontation. It is less well calibrated for evasion conducted through formal compliance. Italy is the most complex member of this group — its own governance record includes prolonged institutional paralysis with structural similarities to the Irish case.</p>
+        </div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-header">
+          <span class="cat-number">Cat. 2</span>
+          <span class="cat-name">The Nordic-Baltic Cluster</span>
+          <span class="cat-members">Sweden · Finland · Denmark · Estonia · Latvia · Lithuania</span>
+        </div>
+        <div class="cat-body">
+          <p>For this cluster, the decisive factor is operational rather than doctrinal. High-trust governance traditions, strong ombudsman institutions, and — particularly in Estonia, Latvia, and Lithuania — the hard-won administrative integrity of post-Soviet reconstruction mean that the five discourse clusters documented in Memorandum E are immediately legible as pathology. Lithuania warrants separate attention: as the second member of Ireland's incoming Council Trio, Vilnius has its own reputational stake in the Trio's coherence. Estonia's position is distinct: as the EU's most digitally advanced governance state, Tallinn has a particular sensitivity to the data sovereignty dimension of this case.</p>
+        </div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-header">
+          <span class="cat-number">Cat. 3</span>
+          <span class="cat-name">The Visegrád Group</span>
+          <span class="cat-members">Poland · Hungary · Czechia · Slovakia</span>
+        </div>
+        <div class="cat-body">
+          <p><strong>Poland</strong> under Donald Tusk has paid a substantial political cost to restore rule-of-law credibility. The Irish precedent argument is an ally: a government that has absorbed the political cost of compliance has a direct interest in ensuring compliance is not made optional by a precedent of successful evasion. <strong>Hungary's</strong> posture is the inverse — Orbán's government has direct experience of sustained resistance, and the Irish case adds a data point that Fidesz strategists will have noted: that resistance conducted through procedural courtesy achieves more durable evasion at a fraction of the reputational cost. <strong>Czechia</strong> offers two distinct channels: the parliamentary-sovereigntist and the civil-society. <strong>Slovakia</strong> under Fico will understand without elaboration that if Ireland can run a nullification loop to completion without consequence, so can Slovakia.</p>
+        </div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-header">
+          <span class="cat-number">Cat. 4</span>
+          <span class="cat-name">The Southern Arc</span>
+          <span class="cat-members">Spain · Portugal · Greece · Cyprus</span>
+        </div>
+        <div class="cat-body">
+          <p>Each of these states emerged from authoritarian governance within living memory. For all four, the EU's rule-of-law framework is part of the scaffolding of democratic transition. Cyprus holds a particular position: as the current holder of the Presidency until 30 June 2026 — Ireland's immediate predecessor — its government officials have current operational knowledge of what it would mean to hold that role while suppressing an acknowledged governance failure. <strong>Greece</strong> will hold the Presidency in the second half of 2027 as the third member of the Ireland/Lithuania/Greece Trio — a Trio whose first member holds the Presidency while suppressing an ethics complaint creates reputational complications that are not Ireland's alone to manage.</p>
+        </div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-header">
+          <span class="cat-number">Cat. 5</span>
+          <span class="cat-name">The Newer Accession States</span>
+          <span class="cat-members">Bulgaria · Romania · Croatia · Slovenia</span>
+        </div>
+        <div class="cat-body">
+          <p>This cluster encounters the precedent through a structural asymmetry. Bulgaria remains subject to the Cooperation and Verification Mechanism; Romania was until recently. Both have been held to a standard of procedural compliance — externally monitored and publicly measured — that older member states demonstrably evade through more sophisticated means. Romania is the most significant state here: its civil society has been among the most mobilised in Europe against exactly this kind of procedural capture. Romanian lawyers and civil-society actors possess both the vocabulary and the lived experience to engage with the Memoranda on exactly the right terms.</p>
+        </div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-header">
+          <span class="cat-number">Cat. 6</span>
+          <span class="cat-name">The Data Sovereignty Cluster</span>
+          <span class="cat-members">Cross-cutting — all member states</span>
+        </div>
+        <div class="cat-body">
+          <p>Every EU citizen whose personal data is processed by a US technology company regulated through Ireland is a stakeholder in the question of whether the Irish DPC is exercising genuine, analytically grounded oversight — or whether the sovereignty claim is a legal fiction. Germany, France, and Austria have all been parties to or amicus participants in the major data transfer cases that destroyed Safe Harbour and Privacy Shield and now strain the Data Privacy Framework. The question is not whether Ireland possesses formal regulatory authority. The question is whether sovereignty exercised without demonstrable analytical capacity is sovereignty in substance — or sovereignty as assertion.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SYNTHESIS -->
+  <div id="comp-synthesis" class="comp-panel">
+    <h2>Synthesis</h2>
+    <blockquote>
+      <p>Across all six categories, the entry points differ. The structural question does not. Whether approached as doctrine, administration, politics, history, accession equity, or data sovereignty, the same unresolved proposition remains: can acknowledgment substitute for action within a supranational legal order?</p>
+    </blockquote>
+
+    <div class="callout">
+      <span class="callout-title">The Temporal Boundary</span>
+      <p>The Presidency framing expires on 31 December 2026. The structural question does not.</p>
+    </div>
+
+    <h3>Summary Table</h3>
+    <div class="tier-table-wrap">
+      <table class="tier-table">
+        <thead>
+          <tr><th>Tier</th><th>Stakeholder Group</th><th>Status</th><th>Precedent Exposure</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>I</td><td>Irish &amp; EU Citizens</td><td>Directly affected; constitutional and Charter rights engaged</td><td><span class="exposure-badge exp-critical">Critical</span> — if acknowledgment discharges obligation, every citizen's right to substantive state response is hollowed across all 27 member states</td></tr>
+          <tr><td>II</td><td>Civil Society, Academia, Media</td><td>Broadly briefed; substantive engagement absent (two exceptions)</td><td><span class="exposure-badge exp-high">High</span> — the loop's record suppression cluster structurally prevents civil society from generating the institutional memory needed to challenge future loops</td></tr>
+          <tr><td>III</td><td>Oireachtas &amp; Committees</td><td>Formally engaged; nullification loop documented across all</td><td><span class="exposure-badge exp-high">High</span> — the five discourse clusters are generic parliamentary defence mechanisms; their successful deployment makes them available as precedent to every member state legislature</td></tr>
+          <tr><td>IV</td><td>Irish Executive (Government)</td><td>Formally engaged; acknowledgment without action since 11 November 2006</td><td><span class="exposure-badge exp-severe">Severe</span> — the Irish executive is both the author of the precedent and its most exposed beneficiary; a High Court or CJEU determination adverse to the State resolves the question permanently</td></tr>
+          <tr><td>V</td><td>Irish Constitutional &amp; Judicial Bodies</td><td>Judicial review preparation underway; Council of State referral requested</td><td><span class="exposure-badge exp-decisive">Decisive</span> — domestic courts are the first available forum for a binding determination; if the High Court declines to answer, the question passes to the CJEU unresolved</td></tr>
+          <tr><td>VI</td><td>EU Institutions</td><td>Formally engaged; no substantive response from Commission or CJEU</td><td><span class="exposure-badge exp-systemic">Systemic</span> — Commission inaction is itself a component of the precedent; every future rule-of-law enforcement action will be measurable against its silence here</td></tr>
+          <tr><td>VII</td><td>Anglo-Irish Bilateral</td><td>UK formally apprised (February 2026); BIPA and BIA implicated</td><td><span class="exposure-badge exp-moderate">Moderate</span> — the UK is outside EU jurisdiction but inside the bilateral governance architecture; cross-border suppression of security-relevant material has independent implications</td></tr>
+          <tr><td>VIII</td><td>Multilateral / Member States</td><td>Presidency exposure from 1 July 2026; direct EU capital engagement planned</td><td><span class="exposure-badge exp-universal">Universal</span> — every member state administration now has documentary evidence that a nullification loop can be run to completion without institutional consequence</td></tr>
+          <tr><td>IX</td><td>The Union Itself</td><td>The legal architecture of shared accountability is the ultimate stakeholder</td><td><span class="exposure-badge exp-existential">Existential</span> — if acknowledgment operationally discharges obligation across the single market, the rule of law ceases to be a constraint on member state conduct</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="callout gold" style="margin-top:1.5rem;">
+      <span class="callout-title">Notes on the Ratings</span>
+      <p>Critical / High / Severe / Decisive / Systemic / Moderate / Universal / Existential are deliberately non-uniform — a simple Low/Medium/High scale would flatten distinctions that matter. Each rating is calibrated to the <em>type</em> of exposure rather than just its intensity. Tier IX was added as a consequence of the column — once you rate the Union's stake, it becomes apparent it warrants its own row. The architecture demanded it. Tier VII (Moderate) is the only tier where the precedent exposure is genuinely attenuated — the UK's exposure operates through a different legal channel than the EU framework.</p>
+    </div>
+  </div>
+
+  <!-- LEGAL SUMMARY -->
+  <div id="comp-legal" class="comp-panel">
+    <h2>Summary of Legal Issues</h2>
+    <p>Four distinct legal issues emerge, each standing independently and each compounding the others.</p>
+
+    <div class="legal-issue">
+      <div class="legal-issue-header">
+        <span class="legal-num">I</span>
+        <span class="legal-title">The Conversion Tort — The Anchor</span>
+        <span class="legal-subtitle">Originating Tort / Strict Liability</span>
+      </div>
+      <p>The 26kg of proprietary O.R. materials, delivered in 2006, have never been returned, evaluated, rejected, or compensated. Memorandum E names this explicitly as the originating tort from which all subsequent conduct flows. The <em>Determination of Petition</em> letter to Finnegan sharpens this considerably: it argues that when the Clerk's office assumed custody of the complaint <em>about</em> those materials and then refused to transmit it to members, the office became a proximate participant in the continuation of the conversion — not merely a passive procedural actor. Conversion is a strict liability tort in Irish law; the State's nineteen-year retention without lawful basis, without compensation, and without determination is the foundational injury.</p>
+    </div>
+
+    <div class="legal-issue">
+      <div class="legal-issue-header">
+        <span class="legal-num">II</span>
+        <span class="legal-title">The Nullification Loop as Structural Non-Governance</span>
+        <span class="legal-subtitle">Article 41 CFR / Record Suppression</span>
+      </div>
+      <p>The JCEUA Timeline and Memoranda D and E together constitute the most rigorous documentation of what the corpus terms the Nullification Loop: the recursive procedural cycle in which each body declines jurisdiction on the grounds that it belongs to another body — which has itself already declined. The JCEUA-I-57 declination, followed by <em>deletion of correspondence</em>, is the sharpest single instance. Deletion after declination — without transmission to a competent body, without statutory account of inapplicability — is not a standard administrative outcome. It is the Silence Veto operating at its most consequential: the record is not merely unanswered; it is actively removed. That act has Article 41 CFR implications that go beyond mere procedural delay.</p>
+    </div>
+
+    <div class="legal-issue">
+      <div class="legal-issue-header">
+        <span class="legal-num">III</span>
+        <span class="legal-title">The McGrath Dimension — The Constitutional Contradiction</span>
+        <span class="legal-subtitle">Conflict of Interest / Art. 258 TFEU</span>
+      </div>
+      <p>Michael McGrath was formally notified of the O.R. governance failure during the Community Call of March 2020, as a sitting TD. He is now European Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection — the office specifically empowered to initiate infringement proceedings against Member States for rule-of-law failures. His silence as Commissioner directly mirrors his silence as a deputy. Both silences are now part of the evidentiary record. This is not a rhetorical point; it is a jurisdictional one. The Commission cannot credibly assess Ireland's rule-of-law compliance in the context of the Council Presidency while its own Commissioner for that portfolio has an undischarged notice in his personal parliamentary record.</p>
+    </div>
+
+    <div class="legal-issue">
+      <div class="legal-issue-header">
+        <span class="legal-num">IV</span>
+        <span class="legal-title">The Clerks' Procedure — Ultra Vires Gatekeeping</span>
+        <span class="legal-subtitle">Ultra Vires / Wednesbury Irrationality / Art. 40.3</span>
+      </div>
+      <p>The Finnegan letter establishes that the Clerk applied criteria — persuasion, systemic framing, policy characterisation — that have no basis in the Ethics in Public Office Act 1995 or in the relevant Standing Orders. Standing Orders speak of pertinence and transmission, not rhetorical quality. A decision made on a criterion that does not exist in the enabling statute is not merely incorrect; it is ultra vires and susceptible to judicial review on <em>Wednesbury</em> irrationality grounds. The <em>fait accompli</em> claim — that section 8(3) decisions admit no rebuttal — is constitutionally unsupportable under Article 40.3. The Clerks' own inverted application of <em>audi alteram partem</em> (hearing the complainant, ruling against them, but refusing to notify the named members) is a standalone natural justice violation.</p>
+    </div>
+
+    <div class="dfa-callout">
+      <h4>The DFA as Pathological Control System</h4>
+      <p>What the record shows, when read across all documents, is that the DFA is not the only node that has failed — it is the <em>originating</em> failure that every downstream institution has been recruited, wittingly or not, to protect. The DFA held statutory custodial responsibility from 2006 and produced no determination. Every institutional actor that subsequently failed to process the record — the Committees, the Clerks, the Commissioner — amplified rather than corrected that original failure. The control system has no error-correction mechanism that has not itself been absorbed into the loop. That is the structural argument for the Ombudsman: not that any single actor behaved unlawfully, but that the aggregate architecture produced an outcome — nineteen years of zero determination — that no lawful system was designed to produce.</p>
+    </div>
+  </div>
+
+  <!-- REPOSITORIES -->
+  <div id="comp-repos" class="comp-panel">
+    <h2>Repository Index</h2>
+    <p>All materials are structured to be accessible to AI-assisted research tools, ensuring transparency and ease of review across jurisdictions.</p>
+    <div class="repo-list">
+      <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-crunch/nullification-loops" target="_blank">github.com/dr-crunch/nullification-loops</a><span class="repo-desc">Primary: Nullification loop documentation</span></div>
+      <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-wojak/start-here" target="_blank">github.com/dr-wojak/start-here</a><span class="repo-desc">Overview landing page</span></div>
+      <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-wojak/legal" target="_blank">github.com/dr-wojak/legal</a><span class="repo-desc">Legal &amp; Constitutional record</span></div>
+      <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-wojak/supporting-material" target="_blank">github.com/dr-wojak/supporting-material</a><span class="repo-desc">Formal complaint supporting material</span></div>
+      <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-wojak/governmentality-2025" target="_blank">github.com/dr-wojak/governmentality-2025</a><span class="repo-desc">Supporting material for Memorandum E</span></div>
+      <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-wojak/press" target="_blank">github.com/dr-wojak/press</a><span class="repo-desc">Press briefing materials</span></div>
+      <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-wojak/public-relations" target="_blank">github.com/dr-wojak/public-relations</a><span class="repo-desc">Public relations</span></div>
+      <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-wojak/redundancy-awareness" target="_blank">github.com/dr-wojak/redundancy-awareness</a><span class="repo-desc">Supplementary repository</span></div>
+      <div class="repo-item"><span class="repo-icon">DIR</span><a class="repo-url" href="https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS" target="_blank">Google Drive — Full complaint archive</a><span class="repo-desc">Complete evidentiary record</span></div>
+      <div class="repo-item"><span class="repo-icon">DIR</span><a class="repo-url" href="https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g" target="_blank">Google Drive — Main document repository</a><span class="repo-desc">Primary document store</span></div>
+      <div class="repo-item"><span class="repo-icon">DIR</span><a class="repo-url" href="https://drive.google.com/drive/folders/1tp8fDR0zOnmg87Xl_PH0zTNqO3JaURrh" target="_blank">Google Drive — Historical repository</a><span class="repo-desc">Archive of materials from 2006–2015</span></div>
+    </div>
+
+    <div class="callout" style="margin-top:1.5rem;">
+      <span class="callout-title">Multilingual Entry Points</span>
+      <p>
+        🇫🇷 <a href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md" target="_blank">boucles-de-nullification</a> &nbsp;·&nbsp;
+        🇪🇸 <a href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nulificacion.md" target="_blank">bucles-de-nulificación</a> &nbsp;·&nbsp;
+        🇬🇷 <a href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vroochoi-kyrosis.md" target="_blank">vróchoi-kýrosis</a> &nbsp;·&nbsp;
+        🇨🇾 <a href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vrochoi-kyrosis-CY.md" target="_blank">vróchoi-kýrosis-CY</a> &nbsp;·&nbsp;
+        🇮🇪 <a href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/luba-neamhnithe.md" target="_blank">lúba-neamhnithe</a> &nbsp;·&nbsp;
+        🇱🇹 <a href="https://github.com/dr-crunch/nullification-loops/blob/main/anuliavimo-kilpos.md" target="_blank">anuliavimo-kilpos</a>
+      </p>
+    </div>
+  </div>
+
+</div><!-- end tab-compendium -->
+
 <script>
+// ── TAB / SCOPE / COMP switching ──
 function switchTab(id, btn) {
   document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   document.getElementById('tab-' + id).classList.add('active');
   btn.classList.add('active');
-  const nav = document.getElementById('dossier-nav');
-  const offset = nav.getBoundingClientRect().top + window.scrollY - 4;
-  window.scrollTo({ top: offset, behavior: 'smooth' });
+  const navTop = document.getElementById('tabnav').offsetTop;
+  window.scrollTo({ top: navTop - 2, behavior: 'smooth' });
 }
 
 function switchScope(id, btn) {
@@ -758,12 +1282,25 @@ function switchScope(id, btn) {
   btn.classList.add('active');
 }
 
-const masthead = document.querySelector('.masthead');
-const tabNav = document.querySelector('.tab-nav-wrap');
-tabNav.style.top = masthead.offsetHeight + 'px';
-window.addEventListener('resize', () => {
-  tabNav.style.top = masthead.offsetHeight + 'px';
-});
+function switchComp(id, btn) {
+  document.querySelectorAll('.comp-panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.comp-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('comp-' + id).classList.add('active');
+  btn.classList.add('active');
+}
+
+// ── Sticky offsets ──
+function updateOffsets() {
+  const masthead = document.getElementById('masthead');
+  const tabnav   = document.getElementById('tabnav');
+  const mh = masthead.offsetHeight;
+  masthead.style.top = '0px';
+  tabnav.style.top   = mh + 'px';
+}
+
+updateOffsets();
+window.addEventListener('resize', updateOffsets);
 </script>
+
 </body>
 </html>
