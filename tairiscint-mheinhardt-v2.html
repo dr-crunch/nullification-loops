@@ -1,0 +1,1401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tairiscint Mheinhardt — Constitutional Indictment & Framework for Remedy</title>
+
+<!-- Open Graph -->
+<meta property="og:title" content="Tairiscint Mheinhardt — Dossier 2006–2026">
+<meta property="og:description" content="Statement of Record on Ireland’s constitutional and governance impasse">
+<meta property="og:image" content="https://dr-crunch.github.io/nullification-loops/og-image-tairiscint.jpg">
+<meta property="og:url" content="https://dr-crunch.github.io/nullification-loops/tairiscint-mheinhardt-v2.html">
+<meta property="og:type" content="website">
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tairiscint Mheinhardt — Dossier 2006–2026">
+<meta name="twitter:description" content="Statement of Record on Ireland’s constitutional and governance impasse">
+<meta name="twitter:image" content="https://dr-crunch.github.io/nullification-loops/og-image-tairiscint.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=EB+Garamond:ital,wght@0,400;1,400&family=Cinzel:wght@400;500;600&family=Source+Code+Pro:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1510; --ink-light: #3d3328; --ink-faint: #7a6e62;
+    --paper: #f5f0e8; --paper-warm: #ede6d6; --paper-deep: #e0d8c8;
+    --rule: #c8b89a; --accent: #8b1a1a; --gold: #9a7a2a;
+    --gold-bg: #fdf8ee; --accent-bg: #fdf0ee;
+    --ack: #185028; --ack-bg: #edf7f0;
+    --pending: #4a4820; --pending-bg: #f8f7e8;
+    --mono: 'Source Code Pro', monospace;
+    --serif: 'EB Garamond', Georgia, serif;
+    --display: 'Cinzel', serif;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { font-size: 16px; scroll-behavior: smooth; }
+  body { background: var(--paper); color: var(--ink); font-family: var(--serif); font-size: 1.05rem; line-height: 1.8; }
+
+  /* ── BACK NAV ── */
+  .back-nav {
+    background: var(--paper-deep);
+    border-bottom: 1px solid var(--rule);
+    padding: 0.55rem 2rem;
+  }
+  .back-nav a {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    text-decoration: none;
+  }
+  .back-nav a:hover { color: var(--accent); }
+
+  /* ── MASTHEAD ── */
+  .masthead {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 3.5rem 3rem 3rem;
+    border-bottom: 4px solid var(--accent);
+    position: relative;
+    overflow: hidden;
+  }
+  .masthead::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg, transparent, transparent 39px,
+      rgba(255,255,255,0.015) 39px, rgba(255,255,255,0.015) 40px
+    );
+    pointer-events: none;
+  }
+  .masthead-inner { max-width: 960px; margin: 0 auto; position: relative; }
+  .masthead-kicker {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: rgba(160,120,40,0.8);
+    display: block;
+    margin-bottom: 0.8rem;
+  }
+  .masthead h1 {
+    font-family: var(--display);
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--paper);
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
+  }
+  .masthead-subtitle {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 1.1rem;
+    color: rgba(245,240,232,0.55);
+    margin-bottom: 0.4rem;
+  }
+  .masthead-irish {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.9rem;
+    color: rgba(245,240,232,0.35);
+    margin-bottom: 2rem;
+  }
+  .masthead-identifier {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    padding: 0.28rem 0.7rem;
+    border: 1px solid rgba(200,68,56,0.45);
+    color: rgba(200,68,56,0.75);
+    background: rgba(154,28,28,0.1);
+  }
+
+  /* ── CONTENT WRAPPER ── */
+  .content { max-width: 960px; margin: 0 auto; padding: 3rem 2rem 5rem; }
+
+  /* ── SECTION HEADERS ── */
+  .part-header {
+    margin: 3.5rem 0 1.5rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 3px solid var(--ink);
+  }
+  .part-label {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 0.4rem;
+  }
+  .part-title {
+    font-family: var(--display);
+    font-size: 1.15rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink);
+  }
+  .part-header:first-of-type { margin-top: 0; }
+
+  h3 {
+    font-family: var(--display);
+    font-size: 0.92rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink);
+    margin: 2.5rem 0 0.8rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  h4 {
+    font-family: var(--serif);
+    font-size: 1.05rem;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--ink-light);
+    margin: 1.8rem 0 0.5rem;
+  }
+
+  p { margin-bottom: 1.1rem; color: var(--ink-light); max-width: 74ch; }
+  p:last-child { margin-bottom: 0; }
+
+  a { color: var(--accent); text-decoration: none; border-bottom: 1px solid rgba(139,26,26,0.3); }
+  a:hover { border-bottom-color: var(--accent); }
+
+  /* ── PREAMBLE LEAD ── */
+  .preamble {
+    border-left: 3px solid var(--accent);
+    padding: 1.5rem 2rem;
+    background: var(--paper-warm);
+    margin: 0 0 2.5rem;
+  }
+  .preamble p { font-size: 1.08rem; line-height: 1.85; max-width: 70ch; }
+
+  /* ── BLOCKQUOTE ── */
+  blockquote {
+    background: var(--gold-bg);
+    border-left: 3px solid var(--gold);
+    padding: 1.2rem 1.6rem;
+    margin: 1.8rem 0;
+    max-width: 72ch;
+  }
+  blockquote p { font-style: italic; font-size: 1.05rem; color: var(--ink); margin-bottom: 0; }
+  blockquote cite {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    font-style: normal;
+    display: block;
+    margin-top: 0.6rem;
+  }
+
+  /* ── CALLOUT BOXES ── */
+  .callout {
+    border: 1px solid var(--rule);
+    padding: 1.2rem 1.5rem;
+    margin: 1.8rem 0;
+    background: var(--paper-warm);
+    max-width: 72ch;
+  }
+  .callout.red { border-color: rgba(139,26,26,0.35); background: var(--accent-bg); }
+  .callout.gold { border-color: rgba(154,122,42,0.35); background: var(--gold-bg); }
+  .callout-label {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  .callout.gold .callout-label { color: var(--gold); }
+  .callout p { margin-bottom: 0; font-size: 0.95rem; }
+
+  /* ── LEGAL ANCHOR ── */
+  .legal-anchor {
+    background: var(--paper-deep);
+    border-left: 3px solid var(--ink-faint);
+    padding: 0.7rem 1.2rem;
+    margin: 1.2rem 0;
+    max-width: 72ch;
+  }
+  .legal-anchor-label {
+    font-family: var(--mono);
+    font-size: 0.58rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+  .legal-anchor p { font-size: 0.88rem; color: var(--ink-light); font-style: italic; margin-bottom: 0; }
+
+  /* ── CHARTER ARTICLE CARDS ── */
+  .article-list { display: flex; flex-direction: column; gap: 1px; background: var(--rule); margin: 1.5rem 0; }
+  .article-card { background: var(--paper); padding: 1.2rem 1.5rem; }
+  .article-card-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 0.7rem;
+  }
+  .article-n {
+    font-family: var(--display);
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    flex-shrink: 0;
+    font-weight: 500;
+  }
+  .article-title {
+    font-family: var(--serif);
+    font-size: 1rem;
+    font-style: italic;
+    color: var(--ink);
+    font-weight: 400;
+  }
+  .article-breach {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+  .article-body { font-size: 0.92rem; color: var(--ink-light); line-height: 1.65; max-width: 72ch; }
+  .article-anchor {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    color: var(--ink-faint);
+    margin-top: 0.6rem;
+    display: block;
+    font-style: italic;
+  }
+
+  /* ── HYPOTHESIS BLOCKS ── */
+  .hypothesis-list { display: flex; flex-direction: column; gap: 1px; background: var(--rule); margin: 1.5rem 0; }
+  .hypothesis { background: var(--paper); padding: 1.2rem 1.5rem; display: grid; grid-template-columns: 80px 1fr; gap: 1rem; align-items: start; }
+  .hypothesis-label {
+    font-family: var(--display);
+    font-size: 0.7rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 500;
+    padding-top: 0.2rem;
+  }
+  .hypothesis-body p { font-size: 0.92rem; margin-bottom: 0.5rem; }
+  .hypothesis-body p:last-child { margin-bottom: 0; }
+  .hypothesis-title { font-weight: 400; font-style: italic; color: var(--ink); margin-bottom: 0.4rem; font-size: 1rem; }
+
+  /* ── REMEDY LEVELS ── */
+  .remedy-level {
+    border: 1px solid var(--rule);
+    margin: 1.5rem 0;
+    background: var(--paper-warm);
+  }
+  .remedy-level-header {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 0.7rem 1.2rem;
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+  }
+  .remedy-level-body { padding: 1.2rem 1.5rem; }
+  .remedy-level-body p { font-size: 0.92rem; margin-bottom: 0.8rem; }
+
+  /* ── DAMAGES SECTIONS ── */
+  .damages-head {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--accent);
+    display: block;
+    margin: 2rem 0 0.5rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid rgba(139,26,26,0.25);
+  }
+  .damages-item {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+    max-width: 74ch;
+  }
+  .damages-item:last-child { border-bottom: none; }
+  .damages-item-n {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+  .damages-item p { font-size: 0.92rem; margin-bottom: 0; }
+
+  /* ── TABLES ── */
+  .table-wrap { overflow-x: auto; margin: 1.5rem 0; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.84rem; }
+  thead tr { border-bottom: 2px solid var(--rule); }
+  thead th {
+    font-family: var(--mono);
+    font-size: 0.58rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    padding: 0.5rem 0.8rem;
+    text-align: left;
+    font-weight: 400;
+    background: var(--paper-deep);
+  }
+  tbody tr { border-bottom: 1px solid var(--rule); }
+  tbody tr:hover { background: var(--paper-warm); }
+  tbody td { padding: 0.65rem 0.8rem; color: var(--ink-light); vertical-align: top; line-height: 1.55; }
+  tbody td:first-child { font-family: var(--mono); font-size: 0.76rem; color: var(--ink); }
+  .tier-header td,
+  .tier-header td:first-child {
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    padding: 0.55rem 0.8rem;
+    font-weight: 400;
+  }
+  .td-instrument { font-weight: 500; color: var(--ink); font-family: var(--serif); font-size: 0.88rem; max-width: 180px; white-space: normal; }
+  .td-authority { max-width: 160px; white-space: normal; word-break: break-word; }
+  .td-charter { font-family: var(--mono); font-size: 0.72rem; color: var(--accent); }
+  .td-status-active { color: var(--ack); font-family: var(--mono); font-size: 0.72rem; }
+  .td-status-pending { color: var(--pending); font-family: var(--mono); font-size: 0.72rem; }
+  .td-status-silent { color: var(--accent); font-family: var(--mono); font-size: 0.72rem; }
+
+  /* ── SAISINE TABLE ── */
+  .badge {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 0.58rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.15rem 0.45rem;
+    vertical-align: middle;
+    margin-top: 0.2rem;
+  }
+  .badge-active { background: var(--ack-bg); color: var(--ack); border: 1px solid rgba(24,80,40,0.25); }
+  .badge-prep { background: var(--pending-bg); color: var(--pending); border: 1px solid rgba(74,72,32,0.25); }
+  .badge-silent { background: rgba(139,26,26,0.1); color: var(--accent); border: 1px solid rgba(139,26,26,0.25); }
+  .badge-received { background: var(--paper-deep); color: var(--ink-faint); border: 1px solid var(--rule); }
+
+  /* ── LEGAL REPOSITORY LINK CARD ── */
+  .repo-card {
+    display: flex;
+    align-items: stretch;
+    margin: 2.5rem 0;
+    border: 1px solid var(--rule);
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.2s;
+    max-width: 74ch;
+  }
+  .repo-card:hover { background: var(--paper-warm); }
+  .repo-card:hover .repo-card-arrow { background: var(--accent); color: var(--paper); }
+  .repo-card-flag {
+    background: var(--accent);
+    width: 5px;
+    flex-shrink: 0;
+  }
+  .repo-card-body {
+    padding: 1.2rem 1.5rem;
+    flex: 1;
+    border-bottom: none;
+  }
+  .repo-card-label {
+    font-family: var(--mono);
+    font-size: 0.58rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 0.45rem;
+  }
+  .repo-card-title {
+    font-family: var(--display);
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ink);
+    display: block;
+    margin-bottom: 0.4rem;
+    font-weight: 500;
+  }
+  .repo-card-desc {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--ink-faint);
+    line-height: 1.6;
+    display: block;
+  }
+  .repo-card-arrow {
+    display: flex;
+    align-items: center;
+    padding: 0 1.4rem;
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: var(--paper-deep);
+    border-left: 1px solid var(--rule);
+    white-space: nowrap;
+    flex-shrink: 0;
+    transition: background 0.2s, color 0.2s;
+  }
+
+  /* ── CLOSING QUOTE ── */
+  .closing {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 4px solid var(--ink);
+  }
+  .closing-irish {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 1.15rem;
+    color: var(--ink);
+    margin-bottom: 0.4rem;
+    max-width: 60ch;
+  }
+  .closing-english {
+    font-family: var(--serif);
+    font-size: 0.92rem;
+    color: var(--ink-faint);
+    max-width: 60ch;
+  }
+
+  /* ── FOOTER ── */
+  .site-footer {
+    background: var(--ink);
+    color: rgba(245,240,232,0.35);
+    padding: 1.8rem 3rem;
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    border-top: 1px solid rgba(255,255,255,0.06);
+  }
+  .site-footer-inner {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .site-footer a { color: rgba(245,240,232,0.4); border-bottom: none; }
+  .site-footer a:hover { color: rgba(160,120,40,0.9); }
+
+  @media (max-width: 700px) {
+    .masthead { padding: 2rem 1.2rem; }
+    .content { padding: 2rem 1rem 3rem; }
+    .hypothesis { grid-template-columns: 1fr; }
+    .site-footer { padding: 1.5rem 1.2rem; }
+    .repo-card-arrow { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- BACK NAV -->
+<div class="back-nav">
+  <a href="index.html">← Nullification Loops · Statement of Record</a>
+</div>
+
+<!-- MASTHEAD -->
+<header class="masthead">
+  <div class="masthead-inner">
+    <span class="masthead-kicker">The Meinhardt Initiative · March 2026</span>
+    <h1>Tairiscint Mheinhardt</h1>
+    <div class="masthead-subtitle">Constitutional Indictment, Legal Register, Saisine, and Framework for Remedy</div>
+    <div class="masthead-irish">Gabháltas, Gléasanna agus Mí-ionracas: Cliseadh na Córa in Éirinn</div>
+    <div class="masthead-identifier">Interregnum Nullificans · 2006–2026</div>
+  </div>
+</header>
+
+<!-- CONTENT -->
+<div class="content">
+
+  <!-- PREAMBLE -->
+  <div class="preamble">
+    <p>This Tairiscint is not addressed to a single grievance. It is addressed to a structural condition. Nineteen years of documented engagement with the Irish State — across six departments, multiple Oireachtas bodies, two EU Council terms, and successive ministerial configurations — has produced a record. That record now constitutes the evidentiary basis for a question that no document in this corpus has yet answered with the directness the evidence warrants: is the failure documented here a product of structural dysfunction, of misfeasance in the exercise of public office, or of logic so defective that it has collapsed into self-contradiction?</p>
+    <p>The three possibilities are not mutually exclusive. They are evaluated separately in Part IV, with reference to the specific incidents of the record — including the mutually exclusive OEP positions of 2009 and 2025, the McEntee foreclosure of February 4th, 2026, the deletion of formally received correspondence by the JCEUA, and the simultaneous five-department silence of September 2024. The evaluation is structural. The target is the mechanism, not any individual actor within it.</p>
+    <p>The Irish-language framing is not ornamental. <em>Mífheidhmiú oifige</em> — misfeasance in office — is the precise legal term for what the evidence, on one reading, discloses. <em>Dealraitheachas</em> — governance through the management of appearances — is the precise structural term for what the evidence, on another reading, discloses. <em>Claonbheart</em> — deliberate deviation from official duty — is the precise ethical term for what the evidence, on a third reading, discloses. The three readings are placed on the record. This Signal requires no single reading to prevail. It requires only that the question be determined.</p>
+  </div>
+
+  <blockquote>
+    <p>Where institutional design predictably converts knowledge into inaction, the Constitution does not ask whether the intent was malicious. It asks whether the duty was discharged. The answer, across nineteen years, is that it was not.</p>
+  </blockquote>
+
+  <!-- PART I -->
+  <div class="part-header">
+    <span class="part-label">Part I</span>
+    <div class="part-title">The Record: Constitutional Contumacy, 2006–2026</div>
+  </div>
+
+  <p>The table below does not summarise. It compresses. Each entry is drawn from timestamped documentary evidence — letters, emails, acknowledgement references, internal correspondence, and parliamentary records — all held in the public repository and transmitted to PETI, the European Ombudsman (Article 228 TFEU), Commissioner McGrath's office, Commissioner Šefčovič's office, and the CJEU registry. The legal or security character assigned to each entry is the characterisation that the documented facts attract when read against the applicable legal framework set out in Part III. The pattern across the full table — acknowledgement without determination, deferral without destination, adequacy claimed without evaluation — is the operative evidentiary whole from which the three irrationality grounds, the mandamus grounds, and the damages claims in Part V are derived.</p>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Actor / Event</th>
+          <th>What the Record Shows</th>
+          <th>Constitutional / Legal Character</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>May–Jul. 2006</td>
+          <td>OEP (Mr Spain); DOD; DOT; Taoiseach Ahern (verbal)</td>
+          <td>OR corpus with dual-use characteristics presented to Irish authorities. Taoiseach Ahern acknowledged security implications and verbally committed to follow-up. DOD and DOT assumed custodial responsibility. First OEP remit deflection issued.</td>
+          <td>Competent authority obligation crystallises under EU Reg. 428/2009. State assumes custody of proprietary materials without licence, evaluation, or lawful basis for retention.</td>
+        </tr>
+        <tr>
+          <td>Feb. 2009</td>
+          <td>Irish Aid — Director O'Leary; Minister Martin's office (Mr Cronin); Minister O'Dea (CC)</td>
+          <td>4.5-hour technical presentation to Irish Aid's Deputy Director. Written commitment to produce a ministerial report issued by Director O'Leary and echoed by Minister Martin's private secretary. Four senior officers simultaneously on notice by June 2009.</td>
+          <td>First documented Silence Veto. The report was never produced and has never been disclosed. The obligation created in 2009 has compounded through every subsequent office held by the current Taoiseach.</td>
+        </tr>
+        <tr>
+          <td>Jul. 3, 2009</td>
+          <td>Mr Kelliher, OEP</td>
+          <td>OR held to fall outside the OEP's coordination remit. No statutory account of inapplicability provided.</td>
+          <td>Second OEP remit deflection. This position is mutually exclusive with the OEP's 2025 position. The McEntee foreclosure relies on the 2025 position without acknowledging the 2009 contradiction.</td>
+        </tr>
+        <tr>
+          <td>Aug.–Sep. 2010</td>
+          <td>Dr Paul Connors, HSE (Emergency Planning)</td>
+          <td>Multiple letters exchanged. 'Operations Research can save lives immediately; this is a turn-key solution.' Office fully briefed. No progression; matter deferred and abandoned.</td>
+          <td>Breach of duty of care in emergency planning context. Dr Connors was contacted again in the lead-up to the COVID-19 pandemic. No response.</td>
+        </tr>
+        <tr>
+          <td>Mar.–Apr. 2020</td>
+          <td>All 220 Oireachtas Members; President</td>
+          <td>Full strategic proposal with national security applications formally submitted to every member of the Oireachtas and the President. Three future JCEUA members on notice. Commissioner McGrath on notice as a TD.</td>
+          <td>Automated acknowledgements only. The State cannot subsequently claim ignorance of the matter's existence or its legal dimensions.</td>
+        </tr>
+        <tr>
+          <td>Jun.–Sep. 2024</td>
+          <td>Five departments — DOD, DFA, DOT, Finance, Health</td>
+          <td>Five formal acknowledgements across four departments within two months, each with a reference number. All departments subsequently silent.</td>
+          <td>Simultaneous five-department silence following formal acknowledgement. Documented pattern of remit displacement producing Jurisdictional Evaporation.</td>
+        </tr>
+        <tr>
+          <td>Sep. 12, 2024</td>
+          <td>Taoiseach Harris; Tánaiste Martin; Minister Chambers (joint letter)</td>
+          <td>Written jointly to the three most senior ministers naming dual-use goods, paramilitary intelligence, and EU regulatory compliance as operative legal dimensions. 34-page Summary of Enquiry attached. All three ministers went silent.</td>
+          <td>This is the last date on which substantive multi-ministerial engagement was possible before the formal complaint.</td>
+        </tr>
+        <tr>
+          <td>Jan. 24, 2025 (Storm Éowyn)</td>
+          <td>OEP — Mr McMoreland</td>
+          <td>Writing from inside the emergency: 'We are a little swamped at the minute with the severe weather response.' Technology designed to prevent precisely this class of failure had been in DFA custody, unprocessed, since 2006.</td>
+          <td>Operational failure and the statutory non-determination are timestamped together in the same email thread.</td>
+        </tr>
+        <tr>
+          <td>Jun. 1, 2025</td>
+          <td>OEP — Mr McMoreland (Adequacy Conclusion)</td>
+          <td>OR methodologies declared 'already in use across many sectors.' OEP claimed a 'good understanding of the methods involved, such as Stochastic Programming.' Formally contested by rebuttal of June 3rd, 2025. Never answered.</td>
+          <td>Internally incoherent against the Storm Éowyn record. Position is mutually exclusive with the OEP's 2009 position.</td>
+        </tr>
+        <tr>
+          <td>Feb. 4, 2026</td>
+          <td>McEntee Foreclosure — DOD-MO-01201-2025</td>
+          <td>Minister for Defence's private secretary cites the OEP's June 1st, 2025 letter as dispositive and closes the file. No reference to the June 3rd rebuttal, Storm Éowyn, the DFA's competent authority obligation, or the 226-page formal complaint.</td>
+          <td>Reviewable determination under Order 84 RSC on three independent irrationality grounds.</td>
+        </tr>
+        <tr>
+          <td>Mar. 12, 2026</td>
+          <td>Seanad Select Committee Secretariat</td>
+          <td>Formal submission of March 11th refused without committee vote, without citing a Standing Order, without statutory basis.</td>
+          <td>Secretariat exercised power belonging to the Committee. Ultra vires. Seventh instance of acknowledgement-as-closure across all parliamentary channels.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>Senator Michael McDowell observed at the Committee's sitting of March 3rd, 2026 that the Cabinet procedure requiring Ministers to warn each other of cross-departmental implications 'is not replicated in the Oireachtas between the various committees.' This Remonstrance is the notification that procedure was designed to produce. It has been placed before seven bodies across the record. None has transmitted it to a body that would examine it on the merits.</p>
+
+  <div class="callout red">
+    <span class="callout-label">The Martin Foreknowledge Timeline</span>
+    <p>Taoiseach Micheál Martin received the Irish Aid presentation in February 2009 and committed personally to a ministerial report. He gave a verbal commitment on September 25th, 2009, at the petitioner's residence in Ballyphehane, Cork, to review the dual-use goods matter and follow up. He held the obligation through Minister for Foreign Affairs, Taoiseach, Tánaiste, and Taoiseach again. The unperformed ministerial act is his. The period from the 2009 commitment to the present is approximately seventeen and a half years.</p>
+  </div>
+
+  <!-- PART II -->
+  <div class="part-header">
+    <span class="part-label">Part II</span>
+    <div class="part-title">The Mechanism: Structural Analysis</div>
+  </div>
+
+  <h3>The Nullification Loop</h3>
+  <p>The Nullification Loop is not a metaphor. It is the name for a closed five-stage administrative system whose output is structurally invariant: acknowledgement-without-determination, regardless of the personnel operating at any given stage. The five stages are: (1) Acknowledgement — receipt confirmed, institutional engagement performed, no decision pathway initiated; (2) Deferral without destination — the matter referred elsewhere, no body accepting final responsibility; (3) Remit displacement — simultaneous deflection by multiple institutions, each holding that the matter falls within another body's domain, collectively producing Jurisdictional Evaporation; (4) Sufficiency assertion — a claim that existing awareness or practice is adequate, without evaluation of the specific submitted corpus; and (5) Record suppression or reset — the accumulated record either formally deleted (JCEUA, October 2025) or administratively treated as a first encounter.</p>
+  <p>The diagnostic significance of the Loop lies in its personnel-independence. It has operated through six Taoisigh, multiple Tánaistí, four governments, and successive institutional restructurings. The output has not changed. It shifts the analysis from misfeasance to architectural liability, from individual accountability to systemic reviewability.</p>
+
+  <h3>The Hoop-Trick: Jurisdictional Alibi Through Structural Interlock</h3>
+  <p>Article 15.1 of <em>Bunreacht na hÉireann</em> vests legislative power exclusively in the Oireachtas. Article 28 vests executive power in the Government and holds it collectively accountable to the Dáil. The hoop-trick is the mechanism by which that vertical flow is broken: two offices, each formally bound by constitutional duty, are configured so that each can plausibly characterise the matter as falling within the other's jurisdiction. The Taoiseach and Tánaiste remits — revolving, switching, each carrying Article 15 and Article 28 obligations — appear interlocked until accountability pressure is applied. Under pressure, they separate cleanly. Neither office defaults. Both do. The constitutional architecture becomes the instrument of its own circumvention.</p>
+  <p>The OEP held OR outside its remit in 2009; held OR within its domain in 2025 — both positions disposing of the matter without evaluation, in the same direction. The DFA carries the competent authority obligation under EU Regulation 2021/821 but is operationally inaccessible through any standard public channel. The DOD issues a foreclosure citing the DFA's adequacy without examining whether the DFA has discharged the underlying obligation. Each institution is, locally, formally compliant. The aggregate is a complete absence of accountability. This is Evasocracy in constitutional form.</p>
+
+  <h3>Administrative Amnesia and Designed Forgetting</h3>
+  <p>The OEP's June 2025 letter thanks the correspondence for 'raising awareness' on Operations Research — as if Mr Brian Spain had not been contacted in 2006, as if Mr Kelliher had not declined in 2009, as if all 220 Oireachtas members had not been formally notified in 2020. This is not forgetting. It is the structural reproduction of ignorance: each reset enables a fresh cycle of superficial review and closure without engaging the accumulated record.</p>
+  <p>The JCEUA's deletion of formally received correspondence in October 2025 does not merely reproduce ignorance — it destroys the record itself. Deletion of formally lodged correspondence following declination, without transmission to a competent body, without any procedural pathway offered, is a violation of Article 41 CFR on its face.</p>
+
+  <h3>The Logical Contradiction at the Centre of the Record</h3>
+  <p>The OEP maintained two mutually exclusive positions across a sixteen-year interval. Mr Kelliher's letter of July 3rd, 2009: OR 'does not fall within the coordination remit of the Office of Emergency Planning.' Mr McMoreland's letter of June 1st, 2025: OR methodologies are 'already in use across many sectors in disaster risk management in Ireland.' These positions cannot both be true. If OR falls outside the OEP's remit, the 2025 adequacy conclusion is beyond its competence to issue. If OR falls within the OEP's domain, the 2009 declination was a remit error of sixteen years' standing that was never corrected, never acknowledged, and never remedied. The McEntee foreclosure selects the 2025 position as dispositive — without acknowledging the 2009 contradiction, without acknowledging the formal rebuttal of June 3rd, 2025, and without acknowledging that Storm Éowyn had operationally falsified the adequacy conclusion five months before it was issued.</p>
+
+  <!-- PART III -->
+  <div class="part-header">
+    <span class="part-label">Part III</span>
+    <div class="part-title">The Law: Operative Legal Framework</div>
+  </div>
+
+  <h3>EU Primary Law</h3>
+  <p>EU Regulation 2021/821 establishes binding obligations on member states to maintain effective regulatory frameworks for dual-use items. The designation does not exhaust the obligation: the competent authority must function. Where a dual-use submission is presented to a designated competent authority and no evaluation is conducted, no determination issued, and no statutory account of inapplicability produced across nineteen years, the competent authority designation is a formality behind which the substantive obligation has been systematically extinguished. The DFA is that designated authority. The corpus was presented in November 2006. The zero-determination record is four transposition cycles old.</p>
+  <p>Article 41 CFR guarantees a right to good administration: impartial and fair handling within a reasonable time; the right to be heard before any individual adverse measure is taken; the right of access to one's file; and the obligation to give reasons for decisions. Each of these four guarantees is independently violated on the face of the record. Article 47 CFR — the right to an effective remedy — is engaged where every domestic channel has been foreclosed. Article 2 TEU encodes the Rule of Law as a foundational value of the Union. Article 4(3) TEU binds every organ of the Member State — executive, legislative, and parliamentary — to sincere cooperation.</p>
+
+  <h3>Irish Constitutional and Statutory Law</h3>
+  <p>Article 40.3.1 of <em>Bunreacht na hÉireann</em> imposes a positive obligation of active vindication. As Walsh J. confirmed in <em>McGee v Attorney General</em> [1974] IR 284, the duty of vindication extends to unenumerated rights of equivalent constitutional weight. Nineteen years of non-evaluation constitutes nineteen years of continuous breach.</p>
+  <p>Article 28.4.1 holds the Government collectively responsible to the Dáil for all executive action. This provision is not satisfied by the formal appearance of engagement across six departments: it requires that the collective executive function. Where six departments simultaneously acknowledge a statutory submission and produce no determination, collective executive responsibility is being performed rather than discharged.</p>
+  <p>Order 84 RSC provides the operative domestic remedy pathway. Mandamus compels performance of a legal duty refused or neglected; certiorari quashes an unreasonable or insufficiently reasoned decision; declaratory relief establishes rights on the record. The frivolous-and-vexatious determination issued simultaneously by both Houses on September 10th, 2025 against a 226-page formal complaint — applying a persuasion standard nowhere found in Section 8(3) of the Ethics in Public Office Act 1995 — is ultra vires, void, and liable to certiorari.</p>
+
+  <h3>Case Law — Operative Authorities</h3>
+  <p><em>Meadows v Minister for Justice</em> [2010] 2 IR 701: adequate reasons are required for administrative decisions; their absence is independently reviewable. The McEntee foreclosure relies on conclusions formally contested and never defended. No adequate reasons were provided.</p>
+  <p><em>O'Keeffe v An Bord Pleanála</em> [1993] 1 IR 39: a decision may be struck down where no reasonable decision-maker could have arrived at it. Three independent grounds are established in the McEntee foreclosure: conflation of generic disciplinary awareness with specific corpus evaluation; reliance on contested, unanswered conclusions; internal incoherence against the Storm Éowyn record. Any one ground is sufficient. All three are present simultaneously.</p>
+  <p><em>Re Haughey</em> [1971] IR 217 and <em>McDonald v Bord na gCon</em> [1965] IR 217: <em>audi alteram partem</em> binds every body exercising authority over rights and legitimate expectations. Nineteen years of Silence Veto constitutes a substantive adverse determination made without procedural discharge of any of these rights.</p>
+  <p><em>Heaney v Ireland</em> [1994] 3 IR 593: the proportionality test applies to executive non-action that forecloses constitutional rights. The three conditions — rational connection to legitimate objective, minimum impairment, proportionality — are not met. No legitimate objective has been articulated.</p>
+  <p><em>Airey v Ireland</em> (Application No. 6289/73): access to justice must be practical and effective, not theoretical. Structural capture of the domestic review mechanism makes domestic access to justice illusory.</p>
+
+  <h3>Tort and Civil Liability</h3>
+  <p>The tort of conversion arises where a person exercises dominion over another's property in a manner inconsistent with the owner's rights. The State's retention of 26kg of proprietary OR materials since 2006 — without evaluation, without compensation, without any lawful basis for continued possession — is conversion in its paradigmatic form. Each day of retention without lawful authority compounds the damages accruing.</p>
+  <p>Negligence in the exercise of a public function is established where: a duty of care arises on the assumption of responsibility; that duty is breached by the standard of the reasonable public body; and recoverable damage results. The duty of care arose when the State accepted custody of the corpus. The damage — documented measurable personal harm arising from sustained and systematic institutional rejection, professional isolation, career destruction, destruction of commercialisation opportunity, and economic loss compounding over nineteen years — flows directly from the breach.</p>
+
+  <div class="legal-anchor">
+    <span class="legal-anchor-label">Legal Anchor — Tort</span>
+    <p>Conversion; negligence; duty of care; personal harm and economic loss — established causes of action in Irish law, each directly engaged by the factual record as documented.</p>
+  </div>
+
+  <!-- PART IV -->
+  <div class="part-header">
+    <span class="part-label">Part IV</span>
+    <div class="part-title">Three Hypotheses: Structural Non-Governance, Misfeasance, or Epistemic Failure?</div>
+  </div>
+
+  <p>The record permits three structural readings. They are not presented as findings. They are presented as the range of characterisations that the evidence, on its face, supports — and that a court, a committee, or a prosecuting authority would be required to weigh.</p>
+
+  <div class="hypothesis-list">
+    <div class="hypothesis">
+      <div class="hypothesis-label">A</div>
+      <div class="hypothesis-body">
+        <div class="hypothesis-title">Structural Non-Governance</div>
+        <p>The failure is architectural, not intentional. The system is not designed to resolve cross-departmental submissions that engage multiple statutory frameworks simultaneously. The hoop-trick operates because no mechanism exists for the constitutional hoops to remain engaged under accountability pressure. Administrative Amnesia is produced by a system without institutional memory requirements. Designed Forgetting is the emergent property of a records management architecture that treats accumulation without action as compliance. On this reading, no individual actor has acted in bad faith. The constitutional consequence is identical regardless of intent. The remedy is mandamus, damages, and architectural reform.</p>
+      </div>
+    </div>
+    <div class="hypothesis">
+      <div class="hypothesis-label">B</div>
+      <div class="hypothesis-body">
+        <div class="hypothesis-title">Misfeasance in Public Office</div>
+        <p>Misfeasance in public office requires: (1) a public officer acting in their public capacity; (2) the exercise of a power, or deliberate failure to exercise a power, in bad faith; and (3) resulting damage to the plaintiff. The record discloses: the 2009 commitment to produce a ministerial report — made in writing, by a named officer, with named witnesses — that was never produced; the simultaneous five-department silence of September 2024; the McEntee foreclosure relying on conclusions the closing officer is presumed to know were formally contested and unanswered; the JCEUA deletion of formally received correspondence without statutory account. Whether any instance meets the bad faith threshold is a question for the court. What this Remonstrance records is that each instance, on its face, requires examination against that threshold.</p>
+      </div>
+    </div>
+    <div class="hypothesis">
+      <div class="hypothesis-label">C</div>
+      <div class="hypothesis-body">
+        <div class="hypothesis-title">Epistemic Failure</div>
+        <p>Not structural architecture, not bad faith, but institutional reasoning so deficient that it constitutes a category of failure in its own right. Mumford's Paleotechnic analysis applies: institutions measuring progress by procedural motion — by acknowledgements issued, by reference numbers generated — while remaining inert to the meaning of any of it. An OEP that thanks a nineteen-year correspondence for 'raising awareness' may simply not know what it does not know. On this reading, the breach is epistemic: the institutions were not equipped to evaluate what was placed before them, and rather than acknowledge the gap, they performed the appearance of evaluation. This is the most charitable reading. It does not diminish the legal consequences. It only changes their character — from misfeasance to negligence, from bad faith to incompetence. Both are justiciable. The remedy differs in quantum, not in kind.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="callout">
+    <span class="callout-label">Shared Conclusion Across All Three Hypotheses</span>
+    <p>On every reading, the duty was not discharged. On every reading, the harm is established. On every reading, the remedy is available. The only variable is whether the breach is architectural, deliberate, or negligent. That variable affects quantum. It does not affect liability.</p>
+  </div>
+
+  <!-- PART V -->
+  <div class="part-header">
+    <span class="part-label">Part V</span>
+    <div class="part-title">The Remedy: Available Legal Actions</div>
+  </div>
+
+  <div class="remedy-level">
+    <div class="remedy-level-header">Level One — High Court Judicial Review and Mandamus</div>
+    <div class="remedy-level-body">
+      <p>Mandamus at three levels. First: the Clerks of the Houses of the Oireachtas — compelling submission of formal complaints into the official parliamentary record. The ultra vires Section 8(3) determination of September 10th, 2025 is directly reviewable. Second: Ministers and the Taoiseach — compelling the Taoiseach and six Ministers to perform statutory duties. The McEntee foreclosure (DOD-MO-01201-2025) is the immediate target: three independent irrationality grounds are established under <em>O'Keeffe</em>; <em>Meadows</em> applies on the reasons failure; the <em>Heaney</em> proportionality test fails on all three limbs. Third: Oireachtas Committees — compelling committees established for democratic accountability to discharge constitutional oversight functions.</p>
+      <p>The mandamus application is not speculative. The reviewable determination exists. Three independent irrationality grounds are identified and documented. The record demonstrates exhaustion of administrative remedies beyond any standard previously required in Irish public law proceedings.</p>
+    </div>
+  </div>
+
+  <div class="remedy-level">
+    <div class="remedy-level-header">Level Two — Constitutional Declarations and Damages</div>
+    <div class="remedy-level-body">
+      <p>Constitutional declarations sought: that the systematic failure to process submissions bearing on national security, crisis preparedness, and dual-use technologies over nineteen years constitutes breach of Articles 28.2, 28.4.1, 40.3, and 15.2.1 of <em>Bunreacht na hÉireann</em>; that ministerial discretion must be exercised, not indefinitely suspended; that collective governmental responsibility requires actual governmental functioning, not its performance.</p>
+
+      <span class="damages-head">Compensatory Damages</span>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Head I — Career and Professional Loss</span>
+        <p>The petitioner is an independent researcher whose entire professional trajectory — including commercialisation of the OR corpus, engagement with international defence and logistics markets, and the development of applied research partnerships — was foreclosed by the State's sustained non-determination. From 2006 to the present, every avenue for legitimate commercialisation, licensing, or institutional partnership was conditional on a statutory determination that was never issued. The loss is not speculative: it is the documented gap between the value of a fully developed, proven, deployable OR toolkit and the value of a toolkit that the State has held in administrative limbo for nineteen years without evaluation, attribution, or return. Each year of non-determination is a year of compounded opportunity cost. Quantum to be assessed at trial.</p>
+      </div>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Head II — Violation of Constitutional and Statutory Rights</span>
+        <p>Where a constitutional right is breached — including the right to have a statutory submission assessed under Article 40.3, the right to good administration under Article 41 CFR, and the right to an effective remedy under Article 47 CFR — damages in vindication of those rights are available under Irish constitutional law. The applicable principles are those established in <em>Meskell v CIÉ</em> [1973] IR 121: a citizen whose constitutional rights are directly infringed may recover damages without being required to fit the claim within an established tort category. The breadth and duration of the breaches — nineteen years, six departments, every parliamentary channel — place this squarely within the class of case where vindicatory damages, not merely nominal damages, are appropriate.</p>
+      </div>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Head III — Reputational and Civic Harm</span>
+        <p>A person who lawfully presents strategic intelligence to the State in the public interest, and whose submission is treated as frivolous and vexatious by simultaneous resolution of both Houses of the Oireachtas without statutory basis, sustains reputational damage of a specific and serious kind: the formal, published characterisation of a substantive submission as without merit, by the highest deliberative bodies of the State, without any examination of its content and without any opportunity to be heard. The harm to professional standing, to civic standing, and to the capacity to engage further with public institutions flows directly and foreseeably from that characterisation.</p>
+      </div>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Head IV — Personal Harm from Sustained Institutional Rejection</span>
+        <p>Nineteen years of documented engagement — in good faith, with complete materials, through every available channel — that produced no determination, no evaluation, and no return of materials, constitutes a sustained course of conduct by the State that has caused measurable personal harm. The claim does not rest on a single adverse decision but on the cumulative weight of a pattern of conduct whose effect has been the systematic denial of recognition, remedy, and recourse to a citizen acting within the law.</p>
+      </div>
+
+      <span class="damages-head">Punitive Damages</span>
+
+      <p>Punitive damages — also known as exemplary damages — are available in Irish law where the defendant's conduct has been particularly reprehensible, or where compensatory damages alone would be insufficient to mark the court's disapproval. The Irish courts have confirmed this jurisdiction in <em>Conway v Irish National Teachers' Organisation</em> [1991] 2 IR 305 and in subsequent constitutional tort cases. Five categories of conduct in this record warrant examination for punitive damages.</p>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Punitive Head I — Breach of International Fiduciary and Dual-Use Governance Obligations</span>
+        <p>EU Regulation 2021/821 is not a domestic administrative standard. It is a binding instrument of EU law, enforceable at the level of the CJEU, carrying Ireland's international reputation as a Member State, and directly relevant to the EU's capacity to regulate the transfer of strategically significant technology across borders. A nineteen-year zero-determination record under that instrument — maintained through four transposition cycles, two Presidency terms, and 46 open infringement cases — is not a regulatory oversight. It is a sustained and documented failure of Ireland's international legal obligations, the consequences of which extend to every EU counterpart authority that relies on Ireland's competent authority function being operative.</p>
+      </div>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Punitive Head II — Incoherent and Internally Contradictory Security Measures</span>
+        <p>The OEP maintained two mutually exclusive positions on OR across sixteen years — outside its remit in 2009, already integrated in 2025 — and the McEntee foreclosure selected the 2025 position as dispositive without acknowledging the contradiction. A public body responsible for national emergency planning that cannot maintain a coherent position on whether the discipline foundational to emergency logistics falls within its remit — and whose incoherence has the documented effect of leaving the State operationally unprepared during Storm Éowyn while the solution sat unassessed in a government file — has not merely been negligent. It has been negligent in a domain where the consequences are borne by the public in terms of emergency response failures, resource misallocation, and preventable harm.</p>
+      </div>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Punitive Head III — Breach of the State's Own Security Governance Standards</span>
+        <p>The corpus submitted to Irish authorities since 2006 carries documented dual-use characteristics under EU Regulation 2021/821. The State's failure to evaluate it is a failure of the security governance framework that the State itself has enacted and is obliged to operate. A state that enacts dual-use controls, designates a competent authority, and then allows that authority to remain dormant for nineteen years on a submitted corpus with national security applications has created a structural gap in its own security architecture — a gap that, on this record, has already had operational consequences (Storm Éowyn; COVID-19 preparedness; cross-border emergency coordination).</p>
+      </div>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Punitive Head IV — The Ultra Vires Section 8(3) Determination</span>
+        <p>The simultaneous issuance of frivolous-and-vexatious determinations by both Houses of the Oireachtas on September 10th, 2025, against a 226-page formal complaint, applying a persuasion standard nowhere found in the statute, without affording the complainant any opportunity to be heard — is a paradigm case for punitive damages. It is the exercise of a statutory power for a purpose the statute does not authorise, in a manner that causes direct reputational harm to the person whose submission is characterised, and that forecloses the parliamentary channel that the Ethics in Public Office Act 1995 was designed to keep open.</p>
+      </div>
+
+      <div class="damages-item">
+        <span class="damages-item-n">Punitive Head V — The Democratic Harm</span>
+        <p>The record documents not only a wrong done to one petitioner but a structural demonstration of what happens when a citizen engages, in good faith and at sustained cost, with every mechanism of democratic governance available to them — and every mechanism fails, not by accident but by design. The public interest dimension of punitive damages is not incidental: it is the reason the jurisdiction exists. A court award of punitive damages in this case would signal to every organ of the State that the systematic, multi-channel, multi-year frustration of a citizen's lawful engagement with constitutional processes is not a cost-free strategy.</p>
+      </div>
+
+      <div class="callout gold">
+        <span class="callout-label">Protective Costs</span>
+        <p>The public interest dimension of this challenge is established beyond reasonable doubt. Costs should not be used as a barrier to this proceeding. Costs follow breach.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="remedy-level">
+    <div class="remedy-level-header">Level Three — European Parallel Track</div>
+    <div class="remedy-level-body">
+      <p>The European parallel track is activated. The record has been transmitted to: PETI; the European Ombudsman under Article 228 TFEU; Commissioner McGrath's office (Democracy, Justice, Rule of Law); Commissioner Šefčovič's office (Interinstitutional Relations and Transparency); Commissioner Lahbib's office (Crisis Management); the registry of the Court of Justice of the EU; CEPS (Brussels); DGRIS (Paris).</p>
+      <p>EU grounds: breach of Regulation 2021/821; violation of Articles 41 and 47 CFR; breach of Articles 2 and 4(3) TEU. Ireland assumes the Council Presidency on July 1st, 2026. Minister Byrne told the Seanad Select Committee on February 17th, 2026 that 'a strong transposition record and a reduced infringement caseload form part of Ireland's credibility as an incoming Presidency.' The non-determination is directly inconsistent with that stated standard.</p>
+      <div class="callout">
+        <span class="callout-label">Presidency Paradox</span>
+        <p>Infringement proceedings are available. CJEU parallel filing is in preparation. Ireland projecting EU regulatory leadership while holding a nineteen-year competent authority vacancy is a structural conflict of interest that will be visible in every forum operating after July 1st, 2026.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="remedy-level">
+    <div class="remedy-level-header">Level Four — Criminal Law Dimension</div>
+    <div class="remedy-level-body">
+      <p>This Tairiscint does not allege criminal conduct. It places the following on the record, without characterisation, for the attention of any authority with jurisdiction: the deliberate non-production of a formally committed ministerial report (2009 Irish Aid commitment), over a period of seventeen years, by an officer who subsequently occupied the offices of Taoiseach, Tánaiste, and Taoiseach again; the exercise of dominion over proprietary materials without licence, evaluation, or compensation for nineteen years; the simultaneous issuance of frivolous-and-vexatious determinations by both Houses on the same day against the same 226-page complaint, using a legal standard absent from the statute; and the deletion of formally received correspondence by a parliamentary committee without statutory account. Whether any of these constitute criminal offences is a question for the Director of Public Prosecutions.</p>
+      <div class="legal-anchor">
+        <span class="legal-anchor-label">Legal Anchor</span>
+        <p>Criminal Justice (Corruption Offences) Act 2018; Criminal Law Act 1997; Ethics in Public Office Act 1995 §8(3); Mífheidhmiú oifige — wrongful exercise of lawful authority.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- PART VI -->
+  <div class="part-header">
+    <span class="part-label">Part VI</span>
+    <div class="part-title">Operative Charter Articles</div>
+  </div>
+
+  <p>The following articles constitute the operative framework of the Meinhardt Tairiscint. Each is grounded in the record documented in Parts I through V. Each carries a breach condition and a legal anchor. The articles are cumulative: satisfaction of any one Article's breach condition is sufficient to establish justiciability.</p>
+
+  <div class="article-list">
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article I</span>
+        <span class="article-title">Signal Absorption Without Consequence — Right to Substantive Acknowledgment</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Three or more responses satisfying none of the three substantive acknowledgment requirements (identify responsible authority; specify decision pathway; state review timeline or lawful basis for refusal) establish prima facie institutional breach. Burden shifts to the State to produce a determination or lawful account of its absence.</div>
+      <span class="article-anchor">Legal anchor: Art. 41 CFR · Meadows v Minister for Justice [2010] 2 IR 701 · Re Haughey [1971] IR 217 · Nullification Loop / Lúba Neamhnithe</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article II</span>
+        <span class="article-title">Simulated Governance and Procedural Weaponisation — Prohibition on Evasocracy</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Any procedure that produces, on three or more occasions within the same matter, a response satisfying none of the substantive acknowledgment requirements of Article I constitutes simulated governance, regardless of the institutional form in which it is presented.</div>
+      <span class="article-anchor">Legal anchor: O'Keeffe v An Bord Pleanála [1993] 1 IR 39 · Order 84 RSC (mandamus) · Art. 4(3) TEU · Evasocracy / Séachanachas · Jurisdictional Evaporation</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article III</span>
+        <span class="article-title">Information Asymmetry Without Fiduciary Care — Possession Without Evaluation as Breach</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Possession without evaluation — retention of a submission beyond the defined period without competent authority assessment, reasoned refusal, or statutory account of inapplicability — constitutes fiduciary breach by omission.</div>
+      <span class="article-anchor">Legal anchor: EU Reg. 2021/821 Art. 2(1) · Art. 40.3 Bunreacht · Administrative Amnesia</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article IV</span>
+        <span class="article-title">Indecision Under Known Risk — Deemed Acceptance Doctrine</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Where no competent authority determination has been issued within the defined period and no lawful account of inapplicability produced, the submission is deemed accepted for the purposes of establishing a reviewable duty to evaluate. The presumption is rebuttable only by producing the determination — not by further silence.</div>
+      <span class="article-anchor">Legal anchor: Heaney v Ireland [1994] 3 IR 593 · Art. 41 CFR · Order 84 RSC · Meadows [2010]</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article V</span>
+        <span class="article-title">Suppression, Misappropriation, and Misclassification — Security-as-Pretext Doctrine</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Invocation of national security or dual-use sensitivity to justify non-evaluation where no competent authority assessment has been conducted constitutes security-as-pretext. Category A (legitimate classification) requires the existence of a determination. Where no determination exists, Category A is structurally unavailable.</div>
+      <span class="article-anchor">Legal anchor: EU Reg. 2021/821 · Art. 47 CFR · Heaney v Ireland [1994] · O'Keeffe [1993] · Protected Disclosures Act 2014</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article VI</span>
+        <span class="article-title">Institutional Amnesia and Designed Forgetting — Learning Mandate</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Deletion of formally lodged correspondence following declination without transmission, determination, or procedural pathway. Failure to demonstrate parameter change in response to repeated signal. Failure to publish submission-to-action metrics where the institution holds a dual role as compliance publisher and compliance subject.</div>
+      <span class="article-anchor">Legal anchor: Art. 41 CFR (right of access to file) · Civil Service Code §5.3 · JCEUA deletion (October 2025) — Administrative Amnesia in operational form</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article VII</span>
+        <span class="article-title">Non-Activation Across Borders and Emergencies — Duty of Escalation</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Post hoc explanation offered in substitution for anticipatory assessment. Failure to notify competent counterpart authorities of a submission with documented cross-border or humanitarian implications. Storm Éowyn (January 2025): technology designed to prevent the failure was available and unprocessed.</div>
+      <span class="article-anchor">Legal anchor: EU Reg. 2021/821 Arts. 2(1), 9 · Art. 4(3) TEU · ECHR Art. 2 (positive obligation to protect life) · PSMA 1997 §4</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article VIII</span>
+        <span class="article-title">Ethics Reduced to Individual Conduct — Structural Ethics and Performance vs. Petition</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Communications output does not discharge the duty to determine a formal submission. Where a formal submission is met with a communications response rather than a substantive determination, that substitution is a separately justiciable ground of simulated governance.</div>
+      <span class="article-anchor">Legal anchor: Civil Service Code §§3.1, 4.1, 4.4 · Art. 41 CFR · Phainocracy / Dealraitheachas</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article IX</span>
+        <span class="article-title">Enforcement, Standing, and Remedies</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Structural omission, simulated governance, and designed forgetting are justiciable. Evidentiary burdens shift. Public interest standing applies. Collective documentation is admissible. Costs follow breach. The presumption of retaliation arises from adverse action following documentation of structural non-governance.</div>
+      <span class="article-anchor">Legal anchor: Order 84 RSC · Art. 47 CFR · Art. 6 ECHR · Protected Disclosures Act 2014 · Airey v Ireland (App. No. 6289/73) · Art. 228 TFEU</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article X</span>
+        <span class="article-title">Supremacy — Administrative Custom Cannot Defeat Constitutional Duty</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Invocation of administrative custom or procedural convention to defeat a constitutional or EU-law duty of determination. Pro-determination interpretation prevails where ambiguity exists. The Archive is not the default. The determination is.</div>
+      <span class="article-anchor">Legal anchor: Art. 2 TEU · Art. 15.4 Bunreacht · European Convention on Human Rights Act 2003 §2</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article XI</span>
+        <span class="article-title">Tortious Bureaucracy — Independent Remedy Doctrine</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">Four conditions: receipt of strategic intelligence with documented public benefit; retention without evaluation beyond the defined period; demonstrable harm from non-deployment; institutional capacity to act confirmed. Where all four conditions are met, tortious bureaucracy is established regardless of intent.</div>
+      <span class="article-anchor">Legal anchor: Art. 40.3 Bunreacht · Heaney v Ireland [1994] · McDonald v Bord na gCon [1965] IR 217 · Memo D §III · Memo E (cybernetic breach)</span>
+    </div>
+    <div class="article-card">
+      <div class="article-card-header">
+        <span class="article-n">Article XII</span>
+        <span class="article-title">Non-Derogation of Core Duties — Constitutional Floor</span>
+      </div>
+      <span class="article-breach">Breach Condition</span>
+      <div class="article-body">No administrative amendment, circular, or practice may reduce the substantive acknowledgment standard, the burden-shift rule, the deemed acceptance presumption, the anti-retaliation protection, or the tortious bureaucracy doctrine below the thresholds established in Articles I through XI.</div>
+      <span class="article-anchor">Legal anchor: Art. 40.3 Bunreacht · Art. 41 CFR · Art. 47 CFR · Art. 2 TEU — a constitutional floor that cannot be lowered by administrative action</span>
+    </div>
+  </div>
+
+  <!-- LEGAL REGISTER ANNEX -->
+  <div class="part-header">
+    <span class="part-label">Annex</span>
+    <div class="part-title">Legal Register: Seven Tiers of Operative Instruments</div>
+  </div>
+
+  <p>The following register consolidates every legal instrument, constitutional provision, domestic statute, case authority, ethical obligation, and corpus structural term operative in the Meinhardt record. Each instrument is mapped to the Charter Article that deploys it. No instrument in this register is cited decoratively.</p>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Instrument</th>
+          <th>Jurisdiction</th>
+          <th>Provision</th>
+          <th>Charter</th>
+          <th>Trigger in Record</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="tier-header"><td colspan="5">Tier I — EU Primary Law and Treaty Obligations</td></tr>
+        <tr>
+          <td class="td-instrument">EU Regulation 2021/821</td>
+          <td>EU / Ireland</td>
+          <td>Dual-Use Goods (recast of Reg. 428/2009). Art. 2(1): Member States shall designate competent authority.</td>
+          <td class="td-charter">Arts. III, IV, V, VII</td>
+          <td>DFA designated competent authority. OR corpus presented November 2006. Zero-determination record across nineteen years.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">EU Regulation 428/2009</td>
+          <td>EU / Ireland</td>
+          <td>Predecessor dual-use regulation. In force at time of initial presentations 2006–2009.</td>
+          <td class="td-charter">Arts. III, IV</td>
+          <td>Operative at moment obligation crystallised. Non-determination predates the 2021 recast and compounds through it.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 41 CFR</td>
+          <td>EU Charter</td>
+          <td>Right to good administration: impartial, fair, timely handling; right to be heard; right of access to file; duty to give reasons.</td>
+          <td class="td-charter">Arts. I, II, IV, VI, VIII</td>
+          <td>Nineteen-year non-determination eliminates 'reasonable time' entirely. JCEUA deletion engages right of access to file directly.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 47 CFR</td>
+          <td>EU Charter</td>
+          <td>Right to an effective remedy before a tribunal. Access to justice must be practical and effective.</td>
+          <td class="td-charter">Arts. IX, X, XII</td>
+          <td>Structural capture of domestic review mechanism forecloses effective remedy domestically. European parallel track triggered.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 2 TEU</td>
+          <td>Treaty on EU</td>
+          <td>Rule of Law as foundational value.</td>
+          <td class="td-charter">Arts. X, XII</td>
+          <td>Sustained non-determination across four governments and two EU Council Presidency terms is incompatible with Rule of Law.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 4(3) TEU</td>
+          <td>Treaty on EU</td>
+          <td>Sincere Cooperation: Member States shall take all appropriate measures to ensure fulfilment of treaty obligations. Binds all state organs.</td>
+          <td class="td-charter">Arts. II, VII, X</td>
+          <td>JCEUA declination and deletion. Seanad Committee silence. Each body that declines without statutory account triggers Art. 4(3) independently.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 228 TFEU</td>
+          <td>TFEU</td>
+          <td>European Ombudsman mandate: maladministration by EU institutions and Member State bodies implementing EU law.</td>
+          <td class="td-charter">Art. IX</td>
+          <td>Parallel track activated. Record transmitted to PETI, European Ombudsman, Commissioner McGrath, Commissioner Šefčovič.</td>
+        </tr>
+        <tr class="tier-header"><td colspan="5">Tier II — Bunreacht na hÉireann</td></tr>
+        <tr>
+          <td class="td-instrument">Article 40.3</td>
+          <td>Bunreacht</td>
+          <td>State guarantees to defend and vindicate the personal rights of the citizen. Positive duty.</td>
+          <td class="td-charter">Arts. III, XI, XII</td>
+          <td>Positive duty to vindicate includes the right to have a statutory submission fairly assessed. Continuous breach during every period of non-evaluation.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 34</td>
+          <td>Bunreacht</td>
+          <td>Justice shall be administered in courts established by law. Courts are constitutional guarantors of the boundary between lawful executive action and structural non-governance.</td>
+          <td class="td-charter">Art. IX</td>
+          <td>Courts not passive; must act where executive non-action creates a constitutional vacancy.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 28.2 / 28.4.1</td>
+          <td>Bunreacht</td>
+          <td>Government collectively responsible to the Dáil for all executive action. Collective responsibility requires collective reason.</td>
+          <td class="td-charter">Arts. I, II</td>
+          <td>Six departments simultaneously failing to discharge statutory duties while each maintains the formal appearance of engagement.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 15.2.1</td>
+          <td>Bunreacht</td>
+          <td>Sole and exclusive power of making laws vested in the Oireachtas. Legislative oversight function.</td>
+          <td class="td-charter">Arts. II, IX</td>
+          <td>Petition mechanism structurally nullified. 18 JCPP contacts, zero replies. 7 JCEUA contacts, no merits examination.</td>
+        </tr>
+        <tr class="tier-header"><td colspan="5">Tier III — Irish Statutory and Administrative Instruments</td></tr>
+        <tr>
+          <td class="td-instrument">Order 84 RSC</td>
+          <td>Rules of the Superior Courts</td>
+          <td>Judicial review; mandamus; certiorari; protective costs.</td>
+          <td class="td-charter">Arts. II, IV, IX</td>
+          <td>Mandamus is the operative domestic remedy. Three irrationality grounds identified in the McEntee foreclosure.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Ethics in Public Office Act 1995 §8(3)</td>
+          <td>Ireland (Statute)</td>
+          <td>Clerk determines if complaint is sustainable. Frivolous-and-vexatious determination requires engagement with the complaint's substance.</td>
+          <td class="td-charter">Art. II</td>
+          <td>Simultaneous frivolous-and-vexatious determinations issued by both Houses on September 10th, 2025 against a 226-page complaint, using a persuasion standard absent from the statute.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Public Service Management Act 1997</td>
+          <td>Ireland (Statute)</td>
+          <td>§4: interdepartmental coordination mandate; obligation to share relevant knowledge across departments.</td>
+          <td class="td-charter">Arts. II, VII</td>
+          <td>OEP's sustained non-coordination of OR assessment across DOD, DFA, DOT for nineteen years.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Protected Disclosures Act 2014</td>
+          <td>Ireland (Statute)</td>
+          <td>Persons raising governance failures in the public interest are protected from penalisation.</td>
+          <td class="td-charter">Arts. V, IX</td>
+          <td>Systematic pattern of deflection, non-response, and record suppression directed at a person documenting a governance failure.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Freedom of Information Act 2014</td>
+          <td>Ireland (Statute)</td>
+          <td>Right of access to records held by public bodies.</td>
+          <td class="td-charter">Art. VI</td>
+          <td>Missing Irish Aid report: formally committed to by Director O'Leary and Mr Aidan Cronin (February 2009) and never produced.</td>
+        </tr>
+        <tr class="tier-header"><td colspan="5">Tier IV — European Convention on Human Rights</td></tr>
+        <tr>
+          <td class="td-instrument">Article 6 ECHR</td>
+          <td>ECHR</td>
+          <td>Right to fair and public hearing within a reasonable time by an independent and impartial tribunal.</td>
+          <td class="td-charter">Art. IX</td>
+          <td>Review mechanism structurally captured: OEP within DOD; OEP response issued day after Oireachtas complaint against same Department.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 8 ECHR</td>
+          <td>ECHR</td>
+          <td>Right to respect for private and family life, home, and correspondence.</td>
+          <td class="td-charter">Arts. VI, IX</td>
+          <td>Deliberate deletion of formally received correspondence engages Art. 8 in its correspondence dimension directly.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 13 ECHR</td>
+          <td>ECHR</td>
+          <td>Right to an effective remedy before a national authority.</td>
+          <td class="td-charter">Art. IX</td>
+          <td>Domestic administrative silence forecloses effective national remedy. Triggers European parallel track.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Article 1 Protocol 1 ECHR</td>
+          <td>ECHR</td>
+          <td>Protection of property. Peaceful enjoyment of possessions; deprivation only in accordance with law.</td>
+          <td class="td-charter">Arts. III, XI</td>
+          <td>26kg of proprietary OR materials retained since 2006 without evaluation, compensation, or lawful basis. Intellectual property effectively deprived without due process.</td>
+        </tr>
+        <tr class="tier-header"><td colspan="5">Tier V — Irish and European Case Law</td></tr>
+        <tr>
+          <td class="td-instrument">Meadows v Minister for Justice [2010] 2 IR 701</td>
+          <td>Irish Supreme Court</td>
+          <td>Administrative decisions must be accompanied by adequate reasons. Absence of reasons is independently reviewable.</td>
+          <td class="td-charter">Arts. I, IV</td>
+          <td>Zero-determination record: no reasons have ever been given for non-adoption, non-rejection, or non-assessment.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">O'Keeffe v An Bord Pleanála [1993] 1 IR 39</td>
+          <td>Irish Supreme Court</td>
+          <td>Irrationality: a decision may be struck down where no reasonable decision-maker could have arrived at it.</td>
+          <td class="td-charter">Arts. II, V</td>
+          <td>Three irrationality grounds in the McEntee foreclosure: conflation of generic awareness with specific corpus evaluation; reliance on contested conclusions; internal incoherence against Storm Éowyn record.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Re Haughey [1971] IR 217</td>
+          <td>Irish Supreme Court</td>
+          <td>Right to be heard; right to know the case to be met; right to challenge evidence. Applies to all bodies exercising legal authority.</td>
+          <td class="td-charter">Arts. I, II</td>
+          <td>Silence Veto functions as a substantive adverse determination made without any procedural discharge of these rights.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Heaney v Ireland [1994] 3 IR 593</td>
+          <td>Irish Supreme Court</td>
+          <td>Proportionality: rationally connected to legitimate objective; impair rights as little as possible; proportionate.</td>
+          <td class="td-charter">Arts. IV, V, XI</td>
+          <td>Nineteen-year non-evaluation fails all three tests. No objective articulated; impairment is total; no proportionality analysis conducted.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Airey v Ireland (App. No. 6289/73)</td>
+          <td>ECtHR</td>
+          <td>Access to justice must be practical and effective, not theoretical. State bears a positive obligation.</td>
+          <td class="td-charter">Arts. IX, XII</td>
+          <td>Structural capture of domestic review mechanism and parliamentary declinations without statutory account combine to make domestic access to justice illusory.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Meskell v CIÉ [1973] IR 121</td>
+          <td>Irish Supreme Court</td>
+          <td>A citizen whose constitutional rights are directly infringed may recover damages without fitting the claim within an established tort category.</td>
+          <td class="td-charter">Arts. IX, XI</td>
+          <td>Constitutional tort damages pathway: breadth and duration of breaches place this within the class where vindicatory damages are appropriate.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Conway v Irish National Teachers' Organisation [1991] 2 IR 305</td>
+          <td>Irish Supreme Court</td>
+          <td>Punitive / exemplary damages available where conduct is particularly reprehensible.</td>
+          <td class="td-charter">Art. IX</td>
+          <td>Foundation for five punitive damages heads in Part V: dual-use governance breach; incoherent security measures; security governance gap; ultra vires §8(3) determination; democratic harm.</td>
+        </tr>
+        <tr class="tier-header"><td colspan="5">Tier VI — Ethical and Statutory Triggers</td></tr>
+        <tr>
+          <td class="td-instrument">Duty of Care (Statutory and Common Law)</td>
+          <td>Ireland / EU</td>
+          <td>Public bodies owe a duty of care to persons making statutory submissions: evaluation, determination, and communication within reasonable time.</td>
+          <td class="td-charter">Arts. III, IV, XI</td>
+          <td>Duty of care has never been discharged. The matter is undetermined and unresolved.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Duty to Give Reasons</td>
+          <td>Ireland / EU — Art. 41 CFR; Meadows</td>
+          <td>Administrative bodies must give reasons for decisions including non-adoption, non-progression, or refusal.</td>
+          <td class="td-charter">Arts. I, II, IV</td>
+          <td>No reasons given at any stage. OEP, DFA, DOD, DOT, JCEUA, Seanad Secretariat: each has produced acknowledgement-without-reasons or silence.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Fiduciary Duty</td>
+          <td>Ireland — Equity / Public Law</td>
+          <td>Public officials acting in representative capacity owe fiduciary duty to the public interest. State as information fiduciary where asymmetric knowledge is held.</td>
+          <td class="td-charter">Art. III</td>
+          <td>Each ministerial portfolio through which the record passed inherited and failed to discharge the obligation.</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">National Security Obligation</td>
+          <td>Ireland / EU — Reg. 2021/821; Art. 4(3) TEU</td>
+          <td>Where materials with dual-use characteristics are presented to a competent authority, a heightened obligation of assessment attaches.</td>
+          <td class="td-charter">Arts. IV, V, VII</td>
+          <td>OR corpus with applications to emergency logistics, civil defence, and national preparedness. Never assessed. Storm Éowyn, Storm Darragh, COVID-19: each a missed deployment window.</td>
+        </tr>
+        <tr class="tier-header"><td colspan="5">Tier VII — Corpus Structural Terms and Legal Correlates</td></tr>
+        <tr>
+          <td class="td-instrument">Nullification Loop / Lúba Neamhnithe</td>
+          <td>—</td>
+          <td>Closed five-stage administrative system: acknowledgement → deferral → remit displacement → sufficiency assertion → record suppression. Output invariant: no determination.</td>
+          <td class="td-charter">Arts. I–VI</td>
+          <td>Art. 41 CFR; Meadows; Re Haughey; Order 84 RSC</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Silence Veto</td>
+          <td>—</td>
+          <td>Procedural silence functioning as a substantive adverse decision rendered without procedural discharge of the right to be heard.</td>
+          <td class="td-charter">Arts. I, II, IV</td>
+          <td>Re Haughey; McDonald; Art. 41 CFR; O'Keeffe; Order 84 RSC</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Phainocracy / Dealraitheachas</td>
+          <td>—</td>
+          <td>Governance through the preservation of appearances. Procedural theatre that mimics action while sustaining the Nullification Loop.</td>
+          <td class="td-charter">Arts. II, VIII</td>
+          <td>Civil Service Code §§3.1, 4.1, 4.4; Art. 41 CFR; Duty of transparency</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Evasocracy / Séachanachas</td>
+          <td>—</td>
+          <td>The active management of institutional silence to avoid statutory obligations. Governance through systematic non-decision.</td>
+          <td class="td-charter">Arts. II, IV</td>
+          <td>Art. 4(3) TEU; O'Keeffe; Heaney; Memo D §IV</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Jurisdictional Evaporation</td>
+          <td>—</td>
+          <td>The structural outcome of simultaneous remit displacement: a matter belonging in principle to every authority and in practice to none.</td>
+          <td class="td-charter">Art. II</td>
+          <td>O'Keeffe (second irrationality ground); Art. 41 CFR; PSMA 1997 §4</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Administrative Amnesia</td>
+          <td>—</td>
+          <td>The Loop's production of institutional forgetfulness across serial non-responses: each new officer encounters the record as if for the first time.</td>
+          <td class="td-charter">Arts. III, IV, VI</td>
+          <td>Art. 41 CFR (right of access to file); Duty to give reasons; Civil Service Code §5.3</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">The Presidency Paradox</td>
+          <td>—</td>
+          <td>Ireland assumes the EU Council Presidency on 1 July 2026 while the DFA holds a nineteen-year zero-determination record under Reg. 2021/821.</td>
+          <td class="td-charter">Arts. IV, VII</td>
+          <td>Arts. 2 and 4(3) TEU; Reg. 2021/821; Art. 41 CFR</td>
+        </tr>
+        <tr>
+          <td class="td-instrument">Tortious Bureaucracy</td>
+          <td>—</td>
+          <td>Active injury inflicted by absorbing strategic intelligence while obstructing its use. Harm by institutional omission.</td>
+          <td class="td-charter">Art. XI</td>
+          <td>Art. 40.3 Bunreacht; Heaney; McDonald; Memo D §III</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- SAISINE -->
+  <div class="part-header">
+    <span class="part-label">Saisine</span>
+    <div class="part-title">Jurisdictional Engagement of Supranational Authority</div>
+  </div>
+
+  <p>The term saisine denotes the formal engagement of a tribunal or authority's jurisdiction: the act by which an institution is rendered seized of a matter and thereby obligated to receive it, examine it, and produce a determination. The saisine does not request. It activates. The authority, once saisi, cannot decline the jurisdictional obligation that attaches on receipt — it may only determine the matter on its merits, or provide a reasoned account of why it cannot.</p>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Authority</th>
+          <th>Instrument / Basis</th>
+          <th>Date of Engagement</th>
+          <th>Matter Placed Before Authority</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="td-authority">Irish High Court</td>
+          <td>Order 84 RSC — Judicial Review; Mandamus; Certiorari</td>
+          <td>In preparation</td>
+          <td>(1) McEntee Foreclosure (DOD-MO-01201-2025): three independent irrationality grounds. (2) Ultra vires Section 8(3) determination of 10 September 2025. (3) DFA competent authority vacancy under EU Reg. 2021/821.</td>
+          <td><span class="badge badge-prep">In preparation</span></td>
+        </tr>
+        <tr>
+          <td class="td-authority">European Ombudsman</td>
+          <td>Article 228 TFEU — Maladministration by EU-implementing Member State bodies</td>
+          <td>Active — record transmitted</td>
+          <td>DFA's zero-determination record under EU Reg. 2021/821 across nineteen years. JCEUA deletion of formally received correspondence. Absence of statutory account of inapplicability.</td>
+          <td><span class="badge badge-active">Active</span></td>
+        </tr>
+        <tr>
+          <td class="td-authority">PETI — EP Committee on Petitions</td>
+          <td>EP Rules of Procedure — Right of Petition under Art. 227 TFEU</td>
+          <td>Active</td>
+          <td>DFA's unperformed competent authority obligation. JCEUA declination and deletion without statutory basis. Absence of EU law compliance determination.</td>
+          <td><span class="badge badge-active">Active</span></td>
+        </tr>
+        <tr>
+          <td class="td-authority">Court of Justice of the EU</td>
+          <td>Art. 267 TFEU (preliminary reference); Art. 258–260 TFEU (infringement); direct action</td>
+          <td>CJEU parallel filing in preparation</td>
+          <td>Breach of EU Reg. 2021/821 competent authority obligation. Violation of Arts. 41 and 47 CFR. Breach of Arts. 2 and 4(3) TEU. Presidency Paradox: Ireland assumes Council Presidency July 1st, 2026 with documented unresolved competent authority vacancy.</td>
+          <td><span class="badge badge-prep">In preparation</span></td>
+        </tr>
+        <tr>
+          <td class="td-authority">Commissioner McGrath — Democracy, Justice, Rule of Law</td>
+          <td>Art. 2 TEU; Rule of Law monitoring mechanism; Commissioner mandate</td>
+          <td>Formal notification: 27 November 2025</td>
+          <td>Art. 2 TEU breach characterisation placed on record. Ireland's DFA holds a zero-determination record on a matter directly within the Commissioner's Rule of Law monitoring mandate.</td>
+          <td><span class="badge badge-silent">No response</span></td>
+        </tr>
+        <tr>
+          <td class="td-authority">Commissioner Šefčovič — Interinstitutional Relations and Transparency</td>
+          <td>EU transparency obligations; institutional cooperation mandate</td>
+          <td>Record transmitted</td>
+          <td>DFA's transparency gap: designated publisher of Ireland's EU compliance record while holding zero-determination entry under Reg. 2021/821.</td>
+          <td><span class="badge badge-silent">No response</span></td>
+        </tr>
+        <tr>
+          <td class="td-authority">Commissioner Lahbib — Crisis Management</td>
+          <td>Crisis management mandate; EU emergency preparedness framework</td>
+          <td>Record transmitted</td>
+          <td>OR corpus with documented applications to emergency logistics, civil defence, and disaster risk management. Storm Éowyn (January 2025): technology available and unassessed during operational overload.</td>
+          <td><span class="badge badge-silent">No response</span></td>
+        </tr>
+        <tr>
+          <td class="td-authority">CEPS — Centre for European Policy Studies</td>
+          <td>Academic and policy engagement; EU governance research</td>
+          <td>Formal transmission: March 2026</td>
+          <td>Full evidentiary record of the Interregnum Nullificans. Structural analysis of EU Member State competent authority vacancy as a governance failure template.</td>
+          <td><span class="badge badge-received">Record received</span></td>
+        </tr>
+        <tr>
+          <td class="td-authority">DGRIS — Direction Générale des Relations Internationales et de la Stratégie (France)</td>
+          <td>Bilateral strategic engagement; dual-use governance; Jan. 2011 DAS meeting on record</td>
+          <td>Record transmitted: March 2026</td>
+          <td>OR corpus with dual-use and national security characteristics. Original French engagement (DAS, January 2011) documented in breach sequence. DGRIS is the successor body.</td>
+          <td><span class="badge badge-received">Record transmitted</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- LEGAL REPOSITORY LINK CARD — inserted after Saisine table, before Closing -->
+  <a class="repo-card" href="https://dr-wojak.github.io/legal/" target="_blank" rel="noopener">
+    <div class="repo-card-flag"></div>
+    <div class="repo-card-body">
+      <span class="repo-card-label">Statutory · Constitutional · Jurisprudential · Active / Litigation Prep</span>
+      <span class="repo-card-title">Legal Repository — The Full Evidentiary Record</span>
+      <span class="repo-card-desc">High Court filings, notices of motion, formal complaints, Oireachtas correspondence, jurisprudential briefs, and extra-jurisdictional abeyance. The structured instrument base from which this Tairiscint derives its evidential grounding.</span>
+    </div>
+    <div class="repo-card-arrow">Open Repository ↗</div>
+  </a>
+
+  <!-- CLOSING -->
+  <div class="part-header">
+    <span class="part-label">Closing</span>
+    <div class="part-title">On the Duty to Reason and Its Constitutional Enforcement</div>
+  </div>
+
+  <p>The constitutional order of this State does not require good intentions of its officials. It requires reasoned action. A public officer may act in complete good faith and still violate the Constitution, if the action taken is incapable of rational justification, is arrived at without adequate reasons, or amounts to the performance of a duty rather than its discharge. Conversely, a constitutional breach does not require malice. It requires only that the applicable standard — proportionality, reasons, impartiality, timely determination — has not been met. Whether it has been met is not a question of motive. It is a question of record.</p>
+
+  <p>The duty to reason is the irreducible minimum that Irish constitutional and EU law impose on the exercise of public power. It does not require that every decision be correct, only that every decision be a decision — reasoned, attributable to a named authority, and susceptible to review. The duty to give reasons in <em>Meadows</em>, the irrationality standard in <em>O'Keeffe</em>, and the proportionality requirement in <em>Heaney</em> are each, at root, applications of the same proposition: public power must be exercised through reason, or it is not lawfully exercised at all.</p>
+
+  <p>Article 28.4.1 of <em>Bunreacht na hÉireann</em> holds the Government collectively responsible to the Dáil for all executive action. The record of the Interregnum Nullificans is a nineteen-year record of information received and deliberation declined. The duty to reason has not been discharged across any of the three tests — <em>Meadows</em>, <em>O'Keeffe</em>, <em>Heaney</em>.</p>
+
+  <blockquote>
+    <p>The duty to reason is not the duty to reach any particular conclusion. It is the duty to reach a conclusion — through a process that is reasoned, attributable, and reviewable. That duty has not been discharged. This Tairiscint is the instrument through which its discharge will be compelled.</p>
+  </blockquote>
+
+  <p><em>Bunreacht na hÉireann</em> opens with the People acting in the exercise of their undoubted right to determine their own institutions of governance. Those institutions derive their authority from the People and are accountable to the People through the mechanisms the Constitution provides: the Oireachtas, the courts, the rule of law. Where those mechanisms have been engaged across nineteen years and have produced nothing, the Constitution does not offer the executive a permanent exemption. It offers the courts a jurisdiction. This Tairiscint invokes that jurisdiction.</p>
+
+  <div class="closing">
+    <div class="closing-irish">Nuair a théann an fhírinne i bhfolach, tagann an bréag chun solais;<br>nuair a chailltear an tsiocair, maireann an masla.</div>
+    <div class="closing-english">When truth goes into hiding, the lie comes to light; when wisdom is lost, the insult endures.</div>
+  </div>
+
+</div><!-- /content -->
+
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <span>The Meinhardt Initiative · March 2026</span>
+    <span>
+      <a href="https://dr-crunch.github.io/nullification-loops/" target="_blank">nullification-loops ↗</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/dr-crunch/nullification-loops" target="_blank">GitHub ↗</a>
+    </span>
+    <span>Hard Deadline · 1 July 2026</span>
+  </div>
+</footer>
+
+</body>
+</html>
