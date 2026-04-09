@@ -11,7 +11,7 @@
 
     <!-- Open Graph -->
     <meta property="og:title" content="Nullification Loops — Dossier 2006–2026">
-    <meta property="og:description" content="Statement of Record on Ireland’s constitutional and governance impasse">
+    <meta property="og:description" content="Statement of Record on Ireland's constitutional and governance impasse">
     <meta property="og:image" content="https://dr-crunch.github.io/nullification-loops/og-image.jpg">
     <meta property="og:url" content="https://dr-crunch.github.io/nullification-loops/dossier.html">
     <meta property="og:type" content="website">
@@ -19,13 +19,14 @@
     <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Nullification Loops — Dossier 2006–2026">
-    <meta name="twitter:description" content="Statement of Record on Ireland’s constitutional and governance impasse">
+    <meta name="twitter:description" content="Statement of Record on Ireland's constitutional and governance impasse">
     <meta name="twitter:image" content="https://dr-crunch.github.io/nullification-loops/og-image.jpg">
   <style>
   :root {
     --ink: #1a1510; --ink-light: #3d3328; --ink-faint: #7a6e62;
     --paper: #f5f0e8; --paper-warm: #ede6d6; --paper-deep: #e0d8c8;
     --rule: #c8b89a; --accent: #8b1a1a; --gold: #9a7a2a;
+    --teal: #0a4a3a; --teal-light: #e4f0ec; --teal-rule: #a0c4b8;
   }
 
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -126,6 +127,105 @@
   /* Full-width figure */
   .diagram-full { grid-column: span 12; margin-top: 2rem; }
 
+  /* ── Semantic Map block ── */
+  .semantic-block {
+    grid-column: span 12;
+    background: var(--paper-deep);
+    border: 1px solid var(--rule);
+    border-top: 4px solid var(--teal);
+    overflow: hidden;
+  }
+  .semantic-block-header {
+    background: var(--teal);
+    padding: 1.2rem 1.8rem;
+    display: flex;
+    align-items: baseline;
+    gap: 1.5rem;
+  }
+  .semantic-block-kicker {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: rgba(228,240,236,0.65);
+  }
+  .semantic-block-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.35rem;
+    letter-spacing: 0.1em;
+    color: #e4f0ec;
+    flex: 1;
+  }
+  .semantic-block-body {
+    padding: 1.6rem 1.8rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  }
+  .sem-card {
+    background: var(--paper-warm);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--gold);
+    padding: 1.1rem 1.4rem;
+    text-decoration: none;
+    color: var(--ink);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    transition: background 0.18s;
+  }
+  .sem-card:hover { background: #f5ead0; }
+  .sem-card.teal-line { border-left-color: var(--teal); }
+  .sem-card.teal-line:hover { background: #deeee8; }
+  .sem-card.accent-line { border-left-color: var(--accent); background: #f0e8e8; cursor: default; }
+  .sem-card.accent-line:hover { background: #e8dcdc; }
+  .sem-card-inner { display: flex; flex-direction: column; gap: 0.25rem; }
+  .sem-label {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+  .sem-card.teal-line .sem-label { color: var(--teal); }
+  .sem-card.accent-line .sem-label { color: var(--accent); }
+  .sem-card-name {
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    color: var(--ink);
+  }
+  .sem-card-desc {
+    font-family: 'EB Garamond', serif;
+    font-style: italic;
+    font-size: 0.85rem;
+    color: var(--ink-faint);
+  }
+  .sem-arrow {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .sem-card.teal-line .sem-arrow { color: var(--teal); }
+  .sem-card.accent-line .sem-arrow { color: var(--accent); }
+  .semantic-block-footer {
+    border-top: 1px solid var(--rule);
+    padding: 1rem 1.8rem;
+    background: var(--paper);
+  }
+  .semantic-block-footer-note {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.16em;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+  }
+
   footer { grid-column: span 12; margin-top: 5rem; border-top: 5px solid var(--ink); padding-top: 2rem; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
   .footer-irish { font-style: italic; font-size: 1.1rem; text-align: right; grid-column: span 2; }
 
@@ -135,6 +235,9 @@
     .evidence-portal { grid-template-columns: 1fr 1fr; }
     .pillar-content { grid-column: span 12; }
     .dossier-card { flex-direction: column; align-items: flex-start; }
+    .semantic-block-body { grid-template-columns: 1fr; }
+    .semantic-block-header { flex-direction: column; gap: 0.4rem; }
+    .sem-card { flex-direction: column; align-items: flex-start; }
     footer { grid-template-columns: 1fr; }
     .footer-irish { grid-column: span 1; text-align: left; }
   }
@@ -252,30 +355,58 @@
       <p class="diagram-caption">FIG 01.2: SCÁTHÁIN AGUS SPLANC — MIRRORS AND FLASH: THE PHAINOCRATIC DEFLECTOR</p>
     </div>
 
-      <a href="dossier.html" class="dossier-card">
+    <a href="dossier.html" class="dossier-card">
       <div>
         <span class="dossier-card-label">Full Evidentiary Record</span>
         <div class="dossier-card-title">Submissions to the Office of the Ombudsman.</div>
-        <div class="dossier-card-desc"><strong>Interregnum Nullificans:</strong>O.R. in the Seanad.</div>
+        <div class="dossier-card-desc"><strong>Interregnum Nullificans:</strong> O.R. in the Seanad.</div>
       </div>
       <span class="dossier-card-arrow">Open Dossier ↗</span>
     </a>
 
+    <!-- ── SEMANTIC MAP BLOCK ── bookmark retained via id="addendum" -->
+    <div id="addendum" class="semantic-block">
 
-<div class="pillar-content" style="grid-column: span 12;">
-  <h2 id="addendum"><a href="https://dr-crunch.github.io/redundancy-awareness/semantic-map.html">Semantic Map</a></h2>
-  <p>Comprehensive Overview by Subject:</p>
-  <ul>
-    <li><strong>Fiduciary Breach:</strong> Duty to Reason</li>
-  </ul>
+      <div class="semantic-block-header">
+        <span class="semantic-block-kicker">Addendum · Semantic Index</span>
+        <span class="semantic-block-title">Semantic Map</span>
+      </div>
 
-  <table class="drive-table">
-    <tr>
-      <td><strong>Epistemological Audit</strong></td>
-      <td><a href="https://dr-crunch.github.io/redundancy-awareness/epistemological-audit.html">ACCESS AUDIT</a></td>
-    </tr>
-  </table>
-</div>
+      <div class="semantic-block-body">
+
+        <a href="https://dr-crunch.github.io/redundancy-awareness/semantic-map.html" class="sem-card teal-line">
+          <div class="sem-card-inner">
+            <span class="sem-label">Comprehensive Overview by Subject</span>
+            <div class="sem-card-name">Semantic Map</div>
+            <div class="sem-card-desc">Complete subject index by thematic scope</div>
+          </div>
+          <span class="sem-arrow">Open ↗</span>
+        </a>
+
+        <a href="https://dr-crunch.github.io/redundancy-awareness/epistemological-audit.html" class="sem-card teal-line">
+          <div class="sem-card-inner">
+            <span class="sem-label">Epistemological Audit</span>
+            <div class="sem-card-name">Access Audit</div>
+            <div class="sem-card-desc">Evidentiary epistemic record, 2006–2026</div>
+          </div>
+          <span class="sem-arrow">Access ↗</span>
+        </a>
+
+        <div class="sem-card accent-line">
+          <div class="sem-card-inner">
+            <span class="sem-label">Subject Entry · Fiduciary Breach</span>
+            <div class="sem-card-name">Duty to Reason</div>
+            <div class="sem-card-desc">The constitutional obligation to furnish a reasoned response</div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="semantic-block-footer">
+        <span class="semantic-block-footer-note">LOOPS-2026-II · Meinhardt Initiative · Interregnum Nullificans</span>
+      </div>
+
+    </div>
 
     <footer>
       <div>
