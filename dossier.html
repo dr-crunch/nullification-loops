@@ -8,7 +8,7 @@
 
     <!-- Open Graph -->
     <meta property="og:title" content="Nullification Loops — Dossier 2006–2026">
-    <meta property="og:description" content="Statement of Record on Ireland’s constitutional and governance impasse">
+    <meta property="og:description" content="Statement of Record on Ireland's constitutional and governance impasse">
     <meta property="og:image" content="https://dr-crunch.github.io/nullification-loops/og-image-nullification.jpg">
     <meta property="og:url" content="https://dr-crunch.github.io/nullification-loops/dossier.html">
     <meta property="og:type" content="website">
@@ -16,7 +16,7 @@
     <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Nullification Loops — Dossier 2006–2026">
-    <meta name="twitter:description" content="Statement of Record on Ireland’s constitutional and governance impasse">
+    <meta name="twitter:description" content="Statement of Record on Ireland's constitutional and governance impasse">
     <meta name="twitter:image" content="https://dr-crunch.github.io/nullification-loops/og-image-nullification.jpg">
  <style>
 :root {
@@ -45,10 +45,85 @@
   --display: 'Cinzel', serif;
   --masthead-h: 0px;
   --tabnav-h: 0px;
+
+  /* Ecosystem palette — from semantic-map */
+  --grape: #6b2d8b;
+  --grape-lt: #9b58c8;
+  --grape-dim: #3a1050;
+  --grape-bg: #12081a;
+  --sherwood: #1a7a48;
+  --sherwood-lt: #38c878;
+  --sherwood-dim: #0a3820;
+  --sherwood-bg: #081a10;
+  --dragonfly: #5ab0c8;
+  --dragonfly-dim: #183e4a;
+  --dragonfly-bg: #0a1820;
+  --cloud: #f0ede8;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 16px; scroll-behavior: smooth; }
 body { background: var(--paper); color: var(--ink); font-family: var(--serif); font-size: 1rem; line-height: 1.75; }
+
+/* ── ECOSYSTEM NAV BAR ── */
+.ecosystem-nav {
+  background: var(--ink);
+  border-bottom: 1px solid rgba(200,160,64,0.25);
+  padding: 0 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  min-height: 38px;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+}
+.ecosystem-nav-label {
+  font-family: var(--mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: rgba(200,160,64,0.6);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ecosystem-links {
+  display: flex;
+  gap: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.ecosystem-links::-webkit-scrollbar { display: none; }
+.ecosystem-link {
+  font-family: var(--mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(232,227,212,0.5);
+  text-decoration: none;
+  padding: 0 0.9rem;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  border-left: 1px solid rgba(255,255,255,0.06);
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.ecosystem-link:hover { color: var(--cloud); background: rgba(255,255,255,0.04); }
+.ecosystem-link.current { color: var(--gold-lt); border-bottom: 2px solid var(--gold-lt); }
+.ecosystem-link .el-dot {
+  display: inline-block;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  margin-right: 6px;
+  flex-shrink: 0;
+}
+.el-dot-scarlet { background: #c8253a; }
+.el-dot-grape { background: #9b58c8; }
+.el-dot-sherwood { background: #38c878; }
+.el-dot-dragonfly { background: #5ab0c8; }
+.el-dot-gold { background: #c8a040; }
 
 /* ── MASTHEAD ── */
 .masthead {
@@ -56,7 +131,7 @@ body { background: var(--paper); color: var(--ink); font-family: var(--serif); f
   color: var(--paper);
   padding: 2rem 3rem 1.8rem;
   position: sticky;
-  top: 0;
+  top: 38px;
   z-index: 100;
   border-bottom: 3px solid var(--accent);
 }
@@ -88,7 +163,7 @@ body { background: var(--paper); color: var(--ink); font-family: var(--serif); f
 .stat-label { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.18em; text-transform: uppercase; color: rgba(245,240,232,0.38); display: block; margin-top: 0.1rem; }
 
 /* ── TAB NAV ── */
-.tab-nav-wrap { background: var(--paper-2); border-bottom: 1px solid var(--rule); position: sticky; top: 0; z-index: 99; }
+.tab-nav-wrap { background: var(--paper-2); border-bottom: 1px solid var(--rule); position: sticky; top: 38px; z-index: 99; }
 .tab-nav { display: flex; max-width: 1100px; margin: 0 auto; overflow-x: auto; scrollbar-width: none; }
 .tab-nav::-webkit-scrollbar { display: none; }
 .tab-btn {
@@ -310,6 +385,89 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 .cjeu-box blockquote { background: none; border: none; padding: 0; margin: 0; max-width: none; }
 .cjeu-box blockquote p { font-size: 1.05rem; font-style: italic; color: var(--ink); font-weight: 500; }
 
+/* ── HOT-BUTTON PANEL ── */
+.hot-panel {
+  margin-top: 3rem;
+  border-top: 1px solid var(--rule);
+  padding-top: 1.6rem;
+}
+.hot-panel-label {
+  font-family: var(--mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-4);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+.hot-panel-label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--rule);
+}
+.hot-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.hot-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.5rem 1rem;
+  border-radius: 2px;
+  text-decoration: none;
+  border: 1px solid;
+  transition: all 0.18s;
+  cursor: pointer;
+  background: none;
+}
+.hot-btn:hover { transform: translateY(-1px); }
+.hb-scarlet {
+  color: var(--accent);
+  border-color: rgba(154,28,28,0.35);
+  background: var(--accent-bg);
+}
+.hb-scarlet:hover { border-color: var(--accent); box-shadow: 0 2px 12px rgba(154,28,28,0.15); }
+.hb-gold {
+  color: var(--gold);
+  border-color: rgba(160,120,24,0.35);
+  background: var(--gold-bg);
+}
+.hb-gold:hover { border-color: var(--gold); box-shadow: 0 2px 12px rgba(160,120,24,0.15); }
+.hb-grape {
+  color: #7a3aaa;
+  border-color: rgba(107,45,139,0.3);
+  background: rgba(107,45,139,0.05);
+}
+.hb-grape:hover { border-color: #7a3aaa; box-shadow: 0 2px 12px rgba(107,45,139,0.12); }
+.hb-sherwood {
+  color: #1a7a48;
+  border-color: rgba(26,122,72,0.3);
+  background: rgba(26,122,72,0.04);
+}
+.hb-sherwood:hover { border-color: #1a7a48; box-shadow: 0 2px 12px rgba(26,122,72,0.12); }
+.hb-dragonfly {
+  color: #3a8aaa;
+  border-color: rgba(90,176,200,0.3);
+  background: rgba(90,176,200,0.04);
+}
+.hb-dragonfly:hover { border-color: #3a8aaa; box-shadow: 0 2px 12px rgba(90,176,200,0.1); }
+.hb-ink {
+  color: var(--ink-3);
+  border-color: var(--rule-2);
+  background: var(--paper-2);
+}
+.hb-ink:hover { border-color: var(--ink-3); }
+.hot-btn-icon { font-size: 0.85rem; flex-shrink: 0; }
+
 /* ── RESPONSIVE ── */
 @media (max-width: 700px) {
   .masthead { padding: 1.5rem; }
@@ -322,10 +480,42 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   .masthead-stats { flex-wrap: wrap; }
   .stat { flex: none; width: 50%; padding-bottom: 0.8rem; margin-bottom: 0.8rem; border-right: none; border-bottom: 1px solid rgba(255,255,255,0.08); }
   .poem-block { grid-template-columns: 1fr; }
+  .ecosystem-nav { padding: 0 1rem; }
 }
 </style>
 </head>
 <body>
+
+<!-- ECOSYSTEM NAV BAR -->
+<nav class="ecosystem-nav" id="ecosystem-nav" aria-label="Meinhardt Initiative ecosystem navigation">
+  <span class="ecosystem-nav-label">Meinhardt Initiative</span>
+  <div class="ecosystem-links">
+    <a class="ecosystem-link current" href="https://dr-crunch.github.io/nullification-loops/dossier.html">
+      <span class="el-dot el-dot-scarlet"></span>Dossier
+    </a>
+    <a class="ecosystem-link" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html">
+      <span class="el-dot el-dot-grape"></span>Semantic Map
+    </a>
+    <a class="ecosystem-link" href="https://dr-crunch.github.io/redundancy-awareness/deontological-differences.html">
+      <span class="el-dot el-dot-gold"></span>Deontological Differences
+    </a>
+    <a class="ecosystem-link" href="https://dr-wojak.github.io/redundancy-awareness/ontology-relations.html">
+      <span class="el-dot el-dot-dragonfly"></span>Ontology Relations
+    </a>
+    <a class="ecosystem-link" href="https://dr-wojak.github.io/redundancy-awareness/failure-modes.html">
+      <span class="el-dot el-dot-sherwood"></span>Failure Modes
+    </a>
+    <a class="ecosystem-link" href="https://dr-wojak.github.io/legal/">
+      <span class="el-dot el-dot-dragonfly"></span>Legal Repository
+    </a>
+    <a class="ecosystem-link" href="https://dr-crunch.github.io/nullification-loops/tairiscint.html">
+      <span class="el-dot el-dot-gold"></span>Tairiscint
+    </a>
+    <a class="ecosystem-link" href="https://dr-wojak.github.io/start-here/">
+      <span class="el-dot el-dot-grape"></span>Start Here
+    </a>
+  </div>
+</nav>
 
 <!-- MASTHEAD -->
 <header class="masthead" id="masthead">
@@ -369,7 +559,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
 <!-- TAB NAV -->
 <div class="tab-nav-wrap" id="tabnav">
-  <nav class="tab-nav">
+  <nav class="tab-nav" aria-label="Dossier sections">
     <button class="tab-btn active" onclick="switchTab('overview', this)">Overview</button>
     <button class="tab-btn" onclick="switchTab('loop', this)">The Loop</button>
     <button class="tab-btn" onclick="switchTab('evidence', this)">Evidence</button>
@@ -382,24 +572,26 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   </nav>
 </div>
 
-<!-- TAB I: OVERVIEW -->
+<!-- ══════════════════════════════════════
+     TAB I: OVERVIEW
+══════════════════════════════════════ -->
 <div id="tab-overview" class="tab-content active">
 
-  <h2>Phainocracy</h2>
+  <h2 id="overview-phainocracy">Phainocracy</h2>
   <p class="lead">Governing through the preservation of <em>appearances</em> rather than through substantive correction.</p>
   <p>From Greek φαινόμενον (<em>phaínō</em>), appearance — to show, to appear — and κράτος (<em>krátos</em>), to rule. The Irish term is <em>Dealraitheachas</em>.</p>
 
-  <h2>The Final Breakdown</h2>
+  <h2 id="overview-breakdown">The Final Breakdown</h2>
   <div class="callout red">
     <span class="callout-title">Normative Collapse</span>
     <p>When every Oireachtas committee systematically declines jurisdiction, the Clerk of the Dáil invokes unreviewable finality under section 8(3), and the Joint Committee on Public Petitions — specifically charged with petition oversight — maintains total institutional silence across 16 substantive communications spanning 8 months, the constitutional right of petition under Article 15.10 of <em>Bunreacht na hÉireann</em> has been nullified at its source.</p>
   </div>
 
-  <h2>Core Statement</h2>
+  <h2 id="overview-core">Core Statement</h2>
   <p>This is not a policy dispute about Operations Research implementation. This is not another ministerial complaint about delayed responses. This is not a request for government agreement with technical proposals. This is the complete breakdown of the constitutional petition mechanism itself.</p>
   <p>A citizen submitted governance research to a state. The state acknowledged it and did nothing. Every available oversight mechanism was engaged. Each deflected to another. None accepted responsibility. The petition was refused transmission. The record was suppressed. The Commissioner now responsible for EU rule-of-law enforcement received the first notification five years ago as a sitting TD and has not responded in either capacity. Pre-litigation notices are on file. The ECJ Registry has been notified. Ireland is about to chair the Council of the European Union.</p>
 
-  <h2>MEP Barry Andrews — Institutional Knowledge</h2>
+  <h2 id="overview-mep-andrews">MEP Barry Andrews — Institutional Knowledge</h2>
   <blockquote>
     <p>Commissioner McGrath (Democracy, Justice, Rule of Law) was first informed of these governance concerns in March 2020, when he was a sitting TD. That initial contact was part of a formal 'Community Call' circulated to all deputies during the pandemic. While disaster preparedness, crisis management, infrastructure resilience remain key issues, there are other critical concerns as well — not only for Ireland but for the other EU member states.</p>
     <p>I have submitted correspondence to Mr McGrath's office on multiple occasions regarding the continued governance failure, now with direct EU-law implications… I have yet to receive any acknowledgment whatsoever.</p>
@@ -407,13 +599,13 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   </blockquote>
   <p>Former Director General of IIEA, MEP Barry Andrews' institutional knowledge makes ignorance impossible. His silence after receipt implicates him in the cover.</p>
 
-  <h2>The Administrative Void — 2009</h2>
+  <h2 id="overview-void">The Administrative Void — 2009</h2>
   <div class="callout">
     <span class="callout-title">What Happened</span>
     <p>A formal technical presentation was delivered to a senior Irish Aid official. An internal report was represented as forthcoming. No report has been produced or located. No ministerial determination exists on record — neither approval, rejection, nor deferral. There is no decision to appeal. No reasoning to review. No assessment to examine. No procedural endpoint. This is not delay. It is the effective nullification of reviewability.</p>
   </div>
 
-  <h2>Core Terminology</h2>
+  <h2 id="overview-terminology">Core Terminology</h2>
   <div class="term-cloud">
     <span class="term-tag primary">operations research</span>
     <span class="term-tag primary">silence veto</span>
@@ -443,15 +635,37 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <span class="term-tag">democratic accountability</span>
     <span class="term-tag">backlogs everywhere</span>
   </div>
+
+  <!-- HOT-BUTTON: Overview -->
+  <div class="hot-panel" id="overview-hotpanel">
+    <div class="hot-panel-label">Traverse the corpus</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-scarlet" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#layer-nullification">
+        <span class="hot-btn-icon">🜀</span>Semantic Map · Nullification Layer
+      </a>
+      <a class="hot-btn hb-grape" href="https://dr-crunch.github.io/redundancy-awareness/deontological-differences.html">
+        <span class="hot-btn-icon">⬡</span>Deontological Differences · OWL Ontology
+      </a>
+      <a class="hot-btn hb-gold" href="https://dr-wojak.github.io/redundancy-awareness/failure-modes.html">
+        <span class="hot-btn-icon">⚠</span>Failure Modes · Five Instances
+      </a>
+      <button class="hot-btn hb-ink" onclick="switchTab('loop', document.querySelector('[onclick*=loop]'))">
+        <span class="hot-btn-icon">↺</span>Continue: The Loop →
+      </button>
+    </div>
+  </div>
+
 </div>
 
-<!-- TAB II: THE LOOP -->
+<!-- ══════════════════════════════════════
+     TAB II: THE LOOP
+══════════════════════════════════════ -->
 <div id="tab-loop" class="tab-content">
 
-  <h2>The Nullification Loop — Lúba Neamhnithe</h2>
+  <h2 id="loop-mechanism">The Nullification Loop — Lúba Neamhnithe</h2>
   <p>The Silence Veto operates through five identifiable institutional speech-acts, documented across nineteen years. Each is individually defensible. Collectively they form a closed loop whose output has been invariant through every change of government, minister, and official.</p>
 
-  <div class="loop-flow">
+  <div class="loop-flow" id="loop-five-stages">
     <div class="loop-stage">
       <span class="loop-stage-n">01</span>
       <span class="loop-stage-title">Acknowledgement as Closure</span>
@@ -480,7 +694,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   </div>
   <div class="loop-invariant">↺ Output invariant: no determination · loop resets · personnel change does not alter output · six Taoisigh · four governments</div>
 
-  <h2>What Six Committees Did vs What the JCPP Did</h2>
+  <h2 id="loop-jcpp-comparison">What Six Committees Did vs What the JCPP Did</h2>
   <div class="compare-grid">
     <div class="compare-col">
       <div class="compare-header">Six Committees — Procedurally Defensible (At Least Acknowledged)</div>
@@ -501,15 +715,39 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     </div>
   </div>
 
-  <h2>Portfolio Diffusion — The Accountability Gap</h2>
+  <h2 id="loop-portfolio-diffusion">Portfolio Diffusion — The Accountability Gap</h2>
   <p>The matter intersects humanitarian logistics (Irish Aid), emergency planning coordination (OEP), defence-related dual-use considerations, and foreign affairs oversight. No office has issued a decision, formally declined jurisdiction, or designated a responsible decision-holder. Distributed competence without decision ownership creates a structural accountability gap. Authority distributed without termination produces evasion by design. It persists until a body possessing recognised adjudicative authority compels the completion of the decision function.</p>
+
+  <!-- HOT-BUTTON: Loop -->
+  <div class="hot-panel" id="loop-hotpanel">
+    <div class="hot-panel-label">Formal causal architecture</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-dragonfly" href="https://dr-wojak.github.io/redundancy-awareness/ontology-relations.html">
+        <span class="hot-btn-icon">🔗</span>OWL Object Properties · :ignores :producesFailure
+      </a>
+      <a class="hot-btn hb-sherwood" href="https://dr-wojak.github.io/redundancy-awareness/failure-modes.html">
+        <span class="hot-btn-icon">⚠</span>Failure Mode Instances · All Five
+      </a>
+      <a class="hot-btn hb-grape" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#layer-fail">
+        <span class="hot-btn-icon">🏛</span>Semantic Map · Branch-of-Government Failure
+      </a>
+      <a class="hot-btn hb-gold" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#memo-D">
+        <span class="hot-btn-icon">📋</span>Memorandum D · The Lever Problem
+      </a>
+      <button class="hot-btn hb-ink" onclick="switchTab('legal', document.querySelector('[onclick*=legal]'))">
+        <span class="hot-btn-icon">⚖</span>Continue: Legal Instruments →
+      </button>
+    </div>
+  </div>
 
 </div>
 
-<!-- TAB III: EVIDENCE -->
+<!-- ══════════════════════════════════════
+     TAB III: EVIDENCE
+══════════════════════════════════════ -->
 <div id="tab-evidence" class="tab-content">
 
-  <h2>Communications Record — 16 Documented</h2>
+  <h2 id="evidence-comms">Communications Record — 16 Documented</h2>
   <div class="ev-table-wrap">
     <table>
       <thead><tr>
@@ -526,7 +764,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     </table>
   </div>
 
-  <h2>MEP Register — Irish Members of European Parliament</h2>
+  <h2 id="evidence-mep-register">MEP Register — Irish Members of European Parliament</h2>
   <div class="ev-table-wrap">
     <table>
       <thead><tr>
@@ -541,8 +779,8 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
         <tr><td>Barry Cowen</td><td class="td-ref">Fianna Fáil / Renew</td><td class="td-ref">23 Feb 2026</td><td>EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance</td><td><span class="badge badge-silence">No response</span></td></tr>
         <tr><td>Billy Kelleher</td><td class="td-ref">Fianna Fáil / Renew</td><td class="td-ref">23 Feb 2026</td><td>EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance</td><td><span class="badge badge-silence">No response</span></td></tr>
         <tr><td>Cynthia Ní Mhurchú</td><td class="td-ref">Fianna Fáil / Renew</td><td class="td-ref">23 Feb 2026</td><td>EU Citizen Correspondence Ignored by Commissioner for Rule of Law — Request for Assistance</td><td><span class="badge badge-silence">No response</span></td></tr>
-        <tr><td>Kathleen Funchion</td><td class="td-ref">Sinn Féin / The Left</td><td class="td-ref">26 Mar 2026</td><td>Request for Assistance — Systemic Non-Response, Petition Failure & Rule of Law Implications</td><td><span class="badge badge-silence">No response</span></td></tr>
-        <tr><td>Maria Walsh</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">24 Mar 2026</td><td>Request for Assistance — Systemic Non-Response, Nullification Loops & Ombudsman Escalation</td><td><span class="badge badge-silence">No response</span></td></tr>
+        <tr><td>Kathleen Funchion</td><td class="td-ref">Sinn Féin / The Left</td><td class="td-ref">26 Mar 2026</td><td>Request for Assistance — Systemic Non-Response, Petition Failure &amp; Rule of Law Implications</td><td><span class="badge badge-silence">No response</span></td></tr>
+        <tr><td>Maria Walsh</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">24 Mar 2026</td><td>Request for Assistance — Systemic Non-Response, Nullification Loops &amp; Ombudsman Escalation</td><td><span class="badge badge-silence">No response</span></td></tr>
         <tr><td>Regina Doherty</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">—</td><td>—</td><td><span class="badge badge-pending">Not yet contacted</span></td></tr>
         <tr><td>Seán Kelly</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">—</td><td>—</td><td><span class="badge badge-pending">Not yet contacted</span></td></tr>
         <tr><td>Nina Carberry</td><td class="td-ref">Fine Gael / EPP</td><td class="td-ref">—</td><td>—</td><td><span class="badge badge-pending">Not yet contacted</span></td></tr>
@@ -551,47 +789,69 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     </table>
   </div>
 
-  <h2>The McGrath Dimension</h2>
+  <h2 id="evidence-mcgrath">The McGrath Dimension</h2>
   <div class="callout red">
     <span class="callout-title">Structural Conflict of Interest</span>
     <p>Commissioner Michael McGrath holds the EU portfolio for Democracy, Justice, Rule of Law, and Consumer Protection. He was first contacted in March 2020 as a sitting TD. He took no action. As former Minister for Public Expenditure and Reform, then Finance, he was executive custodian of the administrative architecture that failed. As Commissioner, he has the power to initiate infringement proceedings against member states that fail to protect fundamental rights. He has not used it. Three letters: 27 November 2025, 13 December 2025, 4 February 2026. Zero acknowledgements.</p>
   </div>
+
+  <!-- HOT-BUTTON: Evidence -->
+  <div class="hot-panel" id="evidence-hotpanel">
+    <div class="hot-panel-label">Evidence in wider context</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-scarlet" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#portal-redundancy">
+        <span class="hot-btn-icon">🗂</span>Semantic Map · MEP Register &amp; Committee Record
+      </a>
+      <a class="hot-btn hb-dragonfly" href="https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS" target="_blank">
+        <span class="hot-btn-icon">📁</span>Google Drive · Full Complaint Archive
+      </a>
+      <a class="hot-btn hb-gold" href="https://drive.google.com/file/d/1-vETFPyMCzLWE1vm4T6Xse29cjC_SjUC" target="_blank">
+        <span class="hot-btn-icon">📄</span>Drive · Systemic Governance Failure PDF
+      </a>
+      <button class="hot-btn hb-ink" onclick="switchTab('actors', document.querySelector('[onclick*=actors]'))">
+        <span class="hot-btn-icon">→</span>Continue: Actors →
+      </button>
+    </div>
+  </div>
+
 </div>
 
-<!-- TAB IV: LEGAL -->
+<!-- ══════════════════════════════════════
+     TAB IV: LEGAL
+══════════════════════════════════════ -->
 <div id="tab-legal" class="tab-content">
 
-  <h2>Five Fissures — The Systemic Nullification Loop</h2>
+  <h2 id="legal-five-fissures">Five Fissures — The Systemic Nullification Loop</h2>
   <div class="fissure-list">
-    <div class="fissure">
+    <div class="fissure" id="legal-fissure-technical">
       <div class="fissure-label">Technical &amp; Regulatory</div>
       <div class="fissure-body">
         <p class="fissure-title">19-year failure to evaluate O.R. under EU Reg. 428/2009</p>
         <p>For nineteen years the State has failed to evaluate Operations Research methodologies that possess recognised dual-use characteristics under EU Regulation 428/2009. A textbook failure of technical oversight in national security and disaster preparedness.</p>
       </div>
     </div>
-    <div class="fissure">
+    <div class="fissure" id="legal-fissure-constitutional">
       <div class="fissure-label">Constitutional</div>
       <div class="fissure-body">
         <p class="fissure-title">Section 8(3) — "Final and unreviewable"</p>
         <p>The Clerk of the Dáil's determination, asserted as final and unreviewable, violates constitutional principles of natural justice and the right to effective remedy under the Charter of Fundamental Rights. <em>Meadows v. Minister for Justice</em> [2010]: statutory powers must be exercised compatibly with constitutional rights.</p>
       </div>
     </div>
-    <div class="fissure">
+    <div class="fissure" id="legal-fissure-institutional">
       <div class="fissure-label">Institutional</div>
       <div class="fissure-body">
         <p class="fissure-title">Breakdown of the parliamentary petition mechanism</p>
         <p>Multiple Oireachtas committees declined jurisdiction or maintained total silence. The Silence Veto: a state logic that recognises risk but refuses to direct, temper, or match the information. Cross-cutting issues become permanently unreviewable.</p>
       </div>
     </div>
-    <div class="fissure">
+    <div class="fissure" id="legal-fissure-eu">
       <div class="fissure-label">EU &amp; Data Sovereignty</div>
       <div class="fissure-body">
         <p class="fissure-title">GDPR, dual-use, and the 2026 Presidency paradox</p>
         <p>Ireland cannot fulfil its obligations as a lead GDPR regulator or exercise true data sovereignty without the analytical O.R. tools it has persistently ignored. The impending 2026 EU Council Presidency exposes Ireland to structural reputational risk if these breaches are not resolved.</p>
       </div>
     </div>
-    <div class="fissure">
+    <div class="fissure" id="legal-fissure-personal">
       <div class="fissure-label">Personal Accountability</div>
       <div class="fissure-body">
         <p class="fissure-title">The McGrath Dimension</p>
@@ -600,7 +860,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     </div>
   </div>
 
-  <h2>Operative Legal Instruments</h2>
+  <h2 id="legal-instruments">Operative Legal Instruments</h2>
   <div class="ev-table-wrap">
     <table>
       <thead><tr><th>Instrument</th><th>Trigger in Record</th></tr></thead>
@@ -623,24 +883,48 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     </table>
   </div>
 
-  <h2>Consolidated Grounds of Complaint</h2>
-  <h3>I. Irish Aid's Mandate and Internal Governance</h3>
+  <h2 id="legal-grounds">Consolidated Grounds of Complaint</h2>
+  <h3 id="legal-grounds-i">I. Irish Aid's Mandate and Internal Governance</h3>
   <p>Where a programme externally promotes accountable governance, internal administrative coherence is constitutive of credibility — not incidental.</p>
-  <h3>II. Administrative Non-Decision</h3>
+  <h3 id="legal-grounds-ii">II. Administrative Non-Decision</h3>
   <p>Seventeen years of indeterminacy is incompatible with ordinary standards of good administration. This constitutes sustained administrative non-decision.</p>
-  <h3>III. Evidentiary Consequence</h3>
+  <h3 id="legal-grounds-iii">III. Evidentiary Consequence</h3>
   <p>A methodology never formally assessed cannot be said to have been rejected on the merits. The institutional non-response has created evidentiary damage — the suppression, by institutional inertia, of material formally submitted but never assessed.</p>
-  <h3>IV. EU and International Dimension</h3>
+  <h3 id="legal-grounds-iv">IV. EU and International Dimension</h3>
   <p>Where a Member State promotes governance capacity externally while sustaining prolonged internal non-decision in a directly relevant domain, the coherence of that position becomes materially relevant. This complaint alleges structural non-resolution incompatible with EU Charter Article 41, Irish administrative law, and the State's stated development commitments.</p>
+
+  <!-- HOT-BUTTON: Legal -->
+  <div class="hot-panel" id="legal-hotpanel">
+    <div class="hot-panel-label">Legal corpus and instruments</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-dragonfly" href="https://dr-wojak.github.io/legal/" target="_blank">
+        <span class="hot-btn-icon">⚖</span>Legal Repository · Full Record
+      </a>
+      <a class="hot-btn hb-scarlet" href="https://drive.google.com/file/d/1ielE9RO3Qde4OIWFYzkaIMqjd1MBSUBD" target="_blank">
+        <span class="hot-btn-icon">📜</span>Pre-Litigation Notice · High Court
+      </a>
+      <a class="hot-btn hb-grape" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#comp-legal">
+        <span class="hot-btn-icon">🔮</span>Semantic Map · Legal Summary (Four Issues)
+      </a>
+      <a class="hot-btn hb-gold" href="https://dr-crunch.github.io/nullification-loops/tairiscint.html" target="_blank">
+        <span class="hot-btn-icon">⬡</span>Tairiscint Mheinhardt · Six Charges
+      </a>
+      <button class="hot-btn hb-ink" onclick="switchTab('scopes', document.querySelector('[onclick*=scopes]'))">
+        <span class="hot-btn-icon">→</span>Continue: Five Scopes →
+      </button>
+    </div>
+  </div>
 
 </div>
 
-<!-- TAB V: ACTORS -->
+<!-- ══════════════════════════════════════
+     TAB V: ACTORS
+══════════════════════════════════════ -->
 <div id="tab-actors" class="tab-content">
 
-  <h2>Implicated Offices and Individuals</h2>
+  <h2 id="actors-implicated">Implicated Offices and Individuals</h2>
 
-  <div class="actor-group">
+  <div class="actor-group" id="actors-group-a">
     <div class="actor-group-header">Group A — Originators of the Breach (pre-2010)</div>
     <div class="actor-item"><span class="actor-name">Irish Aid Emergency &amp; Recovery Section</span> <span class="actor-role">2009–2011</span></div>
     <div class="actor-item"><span class="actor-name">Department of Foreign Affairs</span> <span class="actor-role">2008–present · DFA designated competent authority under Reg. 2021/821 · zero-determination record</span></div>
@@ -649,14 +933,14 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <div class="actor-item"><span class="actor-name">Department of the Taoiseach</span> <span class="actor-role">2006–present</span></div>
   </div>
 
-  <div class="actor-group">
+  <div class="actor-group" id="actors-group-b">
     <div class="actor-group-header">Group B — Successive Ministers Maintaining Inaction</div>
     <div class="actor-item"><span class="actor-name">Micheál Martin</span> <span class="actor-role">90+ notifications since 2006; no legislative action; written commitment to ministerial report (February 2009, Director O'Leary and Aidan Cronin); verbal commitment at Ballyphehane, Cork, 25 September 2009 — unperformed across roles as FM, Taoiseach, Tánaiste, Taoiseach again</span></div>
     <div class="actor-item"><span class="actor-name">Simon Harris</span> <span class="actor-role">Notified as Minister for Health, later Tánaiste</span></div>
     <div class="actor-item"><span class="actor-name">Paschal Donohoe</span> <span class="actor-role">Minister for Finance; budgetary oversight</span></div>
   </div>
 
-  <div class="actor-group">
+  <div class="actor-group" id="actors-group-c">
     <div class="actor-group-header">Group C — Current Custodians of Non-Decision</div>
     <div class="actor-item"><span class="actor-name">Jack Chambers</span> <span class="actor-role">Minister for Public Expenditure; redirected dual-use governance complaint to implicated department</span></div>
     <div class="actor-item"><span class="actor-name">Mark Daly</span> <span class="actor-role">Cathaoirleach of Seanad Éireann</span></div>
@@ -666,13 +950,13 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <div class="actor-item"><span class="actor-name">Commissioner Michael McGrath</span> <span class="actor-role">EU Commissioner for Democracy, Justice, Rule of Law; MIS background (UCC); first notified March 2020 as TD; 3 letters as Commissioner; 0 acknowledgements; now stewards infringement procedures</span></div>
   </div>
 
-  <h2>Cross-Party Awareness — Constitutional Function of Opposition</h2>
+  <h2 id="actors-cross-party">Cross-Party Awareness — Constitutional Function of Opposition</h2>
   <div class="callout">
     <span class="callout-title">Universal Awareness, Zero Action</span>
     <p>All members of the 33rd Dáil received direct notification in March 2020. The 2008–2009 communications precede the documented administrative void. The March 2020 notification occurred during a declared national emergency in which modelling capacity and preparedness were central to executive decision-making. No Parliamentary Question, Leaders' Question, committee referral, ministerial statement request, or Private Members' motion addressing the unresolved O.R. evaluation gap has been identified in the public record.</p>
   </div>
 
-  <h3>Mary Lou McDonald TD</h3>
+  <h3 id="actors-mlo">Mary Lou McDonald TD</h3>
   <div class="ev-table-wrap">
     <table>
       <thead><tr><th>Date</th><th>Subject</th></tr></thead>
@@ -688,14 +972,35 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   <p>Under Article 15 of the Constitution, the legislative authority includes continuous supervision of executive administration. A functioning opposition is integral to this architecture. Its constitutional role includes forcing executive articulation where silence persists, creating a formal record capable of scrutiny, converting administrative inaction into reviewable ministerial position, and ensuring executive discretion does not harden into unexamined non-decision.</p>
   <p>Where awareness is present but procedural activation is absent, the reciprocal structure between executive and opposition attenuates. The observation is institutional rather than partisan.</p>
 
+  <!-- HOT-BUTTON: Actors -->
+  <div class="hot-panel" id="actors-hotpanel">
+    <div class="hot-panel-label">Institutional map and role analysis</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-scarlet" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#layer-fail">
+        <span class="hot-btn-icon">🏛</span>Semantic Map · Branch of Government Failure
+      </a>
+      <a class="hot-btn hb-grape" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#comp-stakeholders">
+        <span class="hot-btn-icon">⬡</span>Compendium · Nine-Tier Stakeholder Map
+      </a>
+      <a class="hot-btn hb-gold" href="https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f" target="_blank">
+        <span class="hot-btn-icon">📋</span>Annex II · 57 Non-Office-Holding Deputies
+      </a>
+      <a class="hot-btn hb-sherwood" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#memo-E">
+        <span class="hot-btn-icon">📄</span>Memorandum E · Guardian's Double Bind
+      </a>
+    </div>
+  </div>
+
 </div>
 
-<!-- TAB VI: DOCUMENTS -->
+<!-- ══════════════════════════════════════
+     TAB VI: DOCUMENTS
+══════════════════════════════════════ -->
 <div id="tab-documents" class="tab-content">
 
-  <h2>Document Index</h2>
+  <h2 id="documents-index">Document Index</h2>
 
-  <div class="doc-section">
+  <div class="doc-section" id="documents-correspondence">
     <span class="doc-section-header">I · Correspondence &amp; Formal Submissions (PDF)</span>
     <div class="doc-item">
       <div class="doc-icon">PDF</div>
@@ -719,7 +1024,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     </div>
   </div>
 
-  <div class="doc-section">
+  <div class="doc-section" id="documents-evidentiary">
     <span class="doc-section-header">II · Evidentiary Records &amp; Communication Logs (Image Files)</span>
     <div class="doc-item">
       <div class="doc-icon">IMG</div>
@@ -753,7 +1058,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     </div>
   </div>
 
-  <div class="doc-section">
+  <div class="doc-section" id="documents-annex">
     <span class="doc-section-header">III · Annex II Highlights</span>
     <div class="doc-item"><div class="doc-icon">IMG</div><div class="doc-name">pearse-doherty-annex.png · Long-term engagement dating back to 2008</div><a class="doc-link" href="https://drive.google.com/file/d/1sICqfbyfE7NyMaTpHWaZIXS_hoTWO--1" target="_blank">Drive ↗</a></div>
     <div class="doc-item"><div class="doc-icon">IMG</div><div class="doc-name">Mairéad-Farrell-annex.png · Contacted 2020 (The Community Call)</div><a class="doc-link" href="https://drive.google.com/file/d/1x6Q5a3NOTtK1aI_2pvtO6sA1W5Xt1W3I" target="_blank">Drive ↗</a></div>
@@ -764,7 +1069,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <div class="doc-item"><div class="doc-icon">PDF</div><div class="doc-name">Annex II — Full list (57 non-office holding deputies)</div><a class="doc-link" href="https://drive.google.com/file/d/1MhNLfuyVpH8zo82YGD6_C0obEmT0eO6f" target="_blank">Drive ↗</a></div>
   </div>
 
-  <div class="doc-section">
+  <div class="doc-section" id="documents-repositories">
     <span class="doc-section-header">V · Core Evidence Repositories</span>
     <div class="doc-item"><div class="doc-icon">DIR</div><div class="doc-name">Main Repository — Governmentality 2026</div><a class="doc-link" href="https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g" target="_blank">Drive ↗</a></div>
     <div class="doc-item"><div class="doc-icon">DIR</div><div class="doc-name">Repository of Formal Complaint</div><a class="doc-link" href="https://drive.google.com/drive/u/0/folders/1FMPO1exETcpb4jxX-q5Mh2VIpYwYuATS" target="_blank">Drive ↗</a></div>
@@ -773,12 +1078,36 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <div class="doc-item"><div class="doc-icon">GH</div><div class="doc-name">Public Repository — github.com/dr-crunch/nullification-loops</div><a class="doc-link" href="https://github.com/dr-crunch/nullification-loops" target="_blank">GitHub ↗</a></div>
   </div>
 
+  <!-- HOT-BUTTON: Documents -->
+  <div class="hot-panel" id="documents-hotpanel">
+    <div class="hot-panel-label">Repository surface and document previews</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-grape" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#portal-redundancy">
+        <span class="hot-btn-icon">🗂</span>Semantic Map · Document Preview Portal
+      </a>
+      <a class="hot-btn hb-dragonfly" href="https://drive.google.com/file/d/1g7l8gIlpIXDTdXr-gudQyoVuAwFT481Z" target="_blank">
+        <span class="hot-btn-icon">📋</span>Drive · Memorandum D PDF
+      </a>
+      <a class="hot-btn hb-dragonfly" href="https://drive.google.com/file/d/1VbLw8ySjuosIMywGLuvEpVG9seeKqXDV" target="_blank">
+        <span class="hot-btn-icon">📋</span>Drive · Memorandum E PDF
+      </a>
+      <a class="hot-btn hb-sherwood" href="https://github.com/dr-crunch/nullification-loops" target="_blank">
+        <span class="hot-btn-icon">⬡</span>GitHub · nullification-loops
+      </a>
+      <a class="hot-btn hb-gold" href="https://dr-wojak.github.io/start-here/" target="_blank">
+        <span class="hot-btn-icon">→</span>Start Here · Corpus Overview
+      </a>
+    </div>
+  </div>
+
 </div>
 
-<!-- TAB VII: FIVE SCOPES -->
+<!-- ══════════════════════════════════════
+     TAB VII: FIVE SCOPES
+══════════════════════════════════════ -->
 <div id="tab-scopes" class="tab-content">
 
-  <div class="scope-nav">
+  <div class="scope-nav" id="scopes-nav">
     <button class="scope-btn active" onclick="switchScope('national', this)">I · National</button>
     <button class="scope-btn" onclick="switchScope('angloirish', this)">II · Anglo-Irish</button>
     <button class="scope-btn" onclick="switchScope('eu', this)">III · EU</button>
@@ -787,7 +1116,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   </div>
 
   <div id="scope-national" class="scope-panel active">
-    <h2>I — National Scope</h2>
+    <h2 id="scope-national-heading">I — National Scope</h2>
     <p>The core allegation, documented across nearly two decades, is that the Irish State has received formally submitted proposals on Operations Research and has responded through what Memorandum D denominates a "procedural loop": acknowledgement, deferral, symbolic reply, and institutional forgetfulness. The departments implicated include Defence, Foreign Affairs, Health, Finance, and the Office of Emergency Planning.</p>
     <p>Under Irish constitutional law, Article 28 of <em>Bunreacht na hÉireann</em> imposes collective cabinet responsibility for the functions of government; persistent failure to process or respond to formally submitted strategic material of documented relevance to civil defence and national emergency preparedness is at minimum a failure of ministerial accountability under that Article.</p>
     <p>The refused Oireachtas petition is particularly significant. Article 16.2 guarantees the right of citizens to petition the Oireachtas. The refusal on procedural grounds, where those grounds are themselves contested on constitutional bases, creates at least an arguable claim of denial of constitutional access. In <em>Meadows v. Minister for Justice</em> [2010] IESC 3, the Supreme Court confirmed that statutory powers must be exercised compatibly with constitutional rights.</p>
@@ -796,14 +1125,14 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   </div>
 
   <div id="scope-angloirish" class="scope-panel">
-    <h2>II — Anglo-Irish Bilateral Scope</h2>
+    <h2 id="scope-angloirish-heading">II — Anglo-Irish Bilateral Scope</h2>
     <p>The dual-use dimension — specifically EU Regulation 428/2009 — carries an Anglo-Irish bilateral dimension. Ireland and the United Kingdom remain bound by bilateral security and civil defence arrangements under the British-Irish Intergovernmental Conference established by the Belfast Agreement of 10 April 1998, Article 3 of which provides for cooperation on matters of mutual interest including security.</p>
     <p>Post-Brexit, the Trade and Cooperation Agreement of 24 December 2020 provides a framework under which the UK and EU member states including Ireland maintain cooperation on certain regulatory and strategic matters. Gaps in Irish compliance with EU dual-use obligations have implications for the regulatory perimeter shared with Northern Ireland under the Windsor Framework of 27 February 2023, particularly regarding the movement of dual-use technologies across the island.</p>
     <p>The silence of Irish governance on this front thus has a live bilateral dimension that the correspondence to MEPs only partially captures. The Northern Ireland Office (Secretary of State Rt Hon Hilary Benn MP, September 2025) has not responded substantively.</p>
   </div>
 
   <div id="scope-eu" class="scope-panel">
-    <h2>III — EU Multilateral Scope</h2>
+    <h2 id="scope-eu-heading">III — EU Multilateral Scope</h2>
     <p>This is where the record becomes acutely uncomfortable for Commissioner McGrath personally, and potentially for the European Commission institutionally.</p>
     <p>Article 17(3) TEU requires Commissioners to be completely independent. Article 245 TFEU binds Commissioners to conduct themselves consistently with the dignity and independence of their office. The record of total non-response on rule-of-law concerns from a citizen of the Commissioner's own member state of origin creates a reputational tension with the office's declared mission.</p>
     <p>EU Regulation 2021/821 establishes binding obligations on member states to maintain effective regulatory frameworks for dual-use items. The allegation that Ireland has failed to institutionalise Operations Research methodologies relevant to this regulatory domain — over nineteen years — is, if substantiated, a potential compliance matter under Article 258 TFEU, pursuant to which the Commission may initiate infringement proceedings. The irony that the Commissioner responsible for rule of law is himself the non-responding addressee is not merely rhetorical: it is a structural conflict that the European Ombudsman would be entitled to examine under Article 228 TFEU.</p>
@@ -811,7 +1140,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   </div>
 
   <div id="scope-international" class="scope-panel">
-    <h2>IV — International Scope</h2>
+    <h2 id="scope-international-heading">IV — International Scope</h2>
     <p>The international dimension is engaged through the dual-use regulatory framework, which is embedded within the Wassenaar Arrangement of 12 July 1996 — the multilateral export control regime governing dual-use goods and technologies to which Ireland, as an EU member state, is a participating state.</p>
     <p>Beyond that, the record's invocation of Operations Research in the context of emergency planning, humanitarian coordination, and global energy risk points toward obligations under the Sendai Framework for Disaster Risk Reduction 2015–2030, adopted 18 March 2015, to which Ireland is a signatory through UN membership. Systematic failure to integrate quantitative risk modelling methodologies could constitute a gap in national implementation.</p>
     <p>The OECD's Public Governance Directorate monitors regulatory quality and administrative responsiveness in member states. A documented nineteen-year pattern of procedural evasion on a matter touching regulatory capability and strategic foresight is precisely the kind of systemic deficit that OECD peer review processes are designed to identify.</p>
@@ -819,22 +1148,46 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   </div>
 
   <div id="scope-historic" class="scope-panel">
-    <h2>V — Reputational and Historic Scope</h2>
+    <h2 id="scope-historic-heading">V — Reputational and Historic Scope</h2>
     <p>The historic dimension is perhaps the most consequential in the long run. The record being assembled — Memoranda D and E, the pre-litigation notice of 10 February 2026, the MEP correspondence, the petition refusal, the King's Inns filing of 7 May 2025 — constitutes a layered archival document of the kind that historians, legal scholars, and public inquiries draw upon when reconstructing institutional failure.</p>
     <p>The reference to John Philpot Curran's maxim — "the condition upon which God hath given liberty to man is eternal vigilance" — in Memorandum D is not ornamental. Citing it in a memorandum to the Honourable Society of King's Inns in July 2025 is an act of deliberate historical embedding: it places the complaint within the long tradition of Irish constitutional advocacy and invites the legal profession to locate its own silence within that tradition.</p>
     <blockquote><p>The framing of "constructive abdication" — that failure to respond is not a tactic but a form of governance collapse — will, if this matter ever reaches a public inquiry or a superior court, be a phrase that requires answering. The paper trail is substantial enough that it cannot be attributed to a single disgruntled correspondence.</p></blockquote>
     <p>Historically, Ireland has experienced governance failures later characterised as systemic — from the Hepatitis C tribunal to the Commission of Investigation into Mother and Baby Homes to the banking inquiry of 2015–2016. In each case, the failure was compounded by institutional silence in the face of early warning. The complaint before us does not rise to those catastrophes in immediate human cost — but the structural pattern it describes is recognisably similar: a state that processes signal symbolically while voiding it operationally.</p>
   </div>
 
+  <!-- HOT-BUTTON: Scopes -->
+  <div class="hot-panel" id="scopes-hotpanel">
+    <div class="hot-panel-label">Scope by jurisdiction and audience</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-grape" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#comp-polmap">
+        <span class="hot-btn-icon">🗺</span>Semantic Map · Political Map by Member State
+      </a>
+      <a class="hot-btn hb-dragonfly" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#comp-precedent">
+        <span class="hot-btn-icon">⚖</span>Semantic Map · The Precedent Argument
+      </a>
+      <a class="hot-btn hb-scarlet" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#comp-entrapment">
+        <span class="hot-btn-icon">⬡</span>Compendium · Structural Entrapment
+      </a>
+      <a class="hot-btn hb-sherwood" href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md" target="_blank">
+        <span class="hot-btn-icon">🇫🇷</span>French Version · Boucles de Nullification
+      </a>
+      <button class="hot-btn hb-ink" onclick="switchTab('languages', document.querySelector('[onclick*=languages]'))">
+        <span class="hot-btn-icon">→</span>Continue: Languages →
+      </button>
+    </div>
+  </div>
+
 </div>
 
-<!-- TAB VIII: LANGUAGES -->
+<!-- ══════════════════════════════════════
+     TAB VIII: LANGUAGES
+══════════════════════════════════════ -->
 <div id="tab-languages" class="tab-content">
 
-  <h2>Multilingual Distribution — 14 EU Languages</h2>
+  <h2 id="languages-distribution">Multilingual Distribution — 14 EU Languages</h2>
   <p>Each language version is a separate point of entry for a distinct institutional audience. The translation programme is a legal and political argument, not a communications strategy.</p>
 
-  <div class="lang-grid">
+  <div class="lang-grid" id="languages-grid">
     <div class="lang-item"><span class="lang-flag">🇮🇪</span><div><span class="lang-name">Gaeilge</span><span class="lang-native">Lúba Neamhnithe</span></div><a class="lang-link" href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/luba-neamhnithe.md" target="_blank">↗</a></div>
     <div class="lang-item"><span class="lang-flag">🇫🇷</span><div><span class="lang-name">Français</span><span class="lang-native">Boucles de Nullification</span></div><a class="lang-link" href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/boucles-de-nullification.md" target="_blank">↗</a></div>
     <div class="lang-item"><span class="lang-flag">🇪🇸</span><div><span class="lang-name">Español</span><span class="lang-native">Bucles de Nulificación</span></div><a class="lang-link" href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/bucles-de-nulificacion.md" target="_blank">↗</a></div>
@@ -865,21 +1218,45 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     <div class="lang-item" style="background:var(--gold-bg);border:1px solid rgba(160,120,24,0.25)"><span class="lang-flag">🇪🇸</span><div><span class="lang-name" style="color:var(--gold)">Català (leads)</span><span class="lang-native">Governamentalitat i Phainocracia</span></div><a class="lang-link" href="https://github.com/dr-crunch/governmentality-2025?tab=readme-ov-file" target="_blank">↗</a></div>
   </div>
 
-  <div class="callout gold" style="margin-top:1.5rem;">
+  <div class="callout gold" style="margin-top:1.5rem;" id="languages-note">
     <span class="callout-title">Translation Note</span>
     <p>Catalan leads the ordering — argumentative, not alphabetical. The flag convention uses the combined state/regional pairing, acknowledging both constitutional reality and cultural-political claim simultaneously. Irish and Lithuanian retain weighted positions: Irish for the constitutional language dimension within the primary jurisdiction; Lithuanian for the Council Trio dimension and the Nordic-Baltic ombudsman tradition.</p>
   </div>
 
+  <!-- HOT-BUTTON: Languages -->
+  <div class="hot-panel" id="languages-hotpanel">
+    <div class="hot-panel-label">Multilingual dissemination architecture</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-gold" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html#layer-diss">
+        <span class="hot-btn-icon">⬡</span>Semantic Map · Channel Dissemination Layer
+      </a>
+      <a class="hot-btn hb-scarlet" href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/luba-neamhnithe.md" target="_blank">
+        <span class="hot-btn-icon">🇮🇪</span>Gaeilge · Lúba Neamhnithe
+      </a>
+      <a class="hot-btn hb-sherwood" href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/anuliavimo-kilpos.md" target="_blank">
+        <span class="hot-btn-icon">🇱🇹</span>Lietuvių · Anuliavimo Kilpos (Trio)
+      </a>
+      <a class="hot-btn hb-dragonfly" href="https://github.com/dr-crunch/nullification-loops/blob/main/compendium/vrochoi-kyrosis-CY.md" target="_blank">
+        <span class="hot-btn-icon">🇨🇾</span>Κυπριακά · Current Presidency
+      </a>
+      <button class="hot-btn hb-ink" onclick="switchTab('compendium', document.querySelector('[onclick*=compendium]'))">
+        <span class="hot-btn-icon">→</span>Continue: Compendium →
+      </button>
+    </div>
+  </div>
+
 </div>
 
-<!-- TAB IX: COMPENDIUM -->
+<!-- ══════════════════════════════════════
+     TAB IX: COMPENDIUM
+══════════════════════════════════════ -->
 <div id="tab-compendium" class="tab-content">
 
-  <h2>Compendium of Stakeholders</h2>
+  <h2 id="compendium-heading">Compendium of Stakeholders</h2>
   <p class="lead">Governance Accountability &amp; Operations Research — Irish &amp; EU Dimensions · Updated 11 March 2026</p>
 
   <!-- Polyglot poem -->
-  <div class="poem-block">
+  <div class="poem-block" id="compendium-poem">
     <div class="poem-lang">
       <span class="poem-lang-label">🇨🇾 Κυπριακά</span>
       <p>Απού τον ίδιον φως, απού τον νουν,<br>σπίτιν φτιάννουμεν εις τον εσπερινόν αέρα,<br>εν ω το είναι αρκεί.</p>
@@ -908,7 +1285,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
   <div class="poem-attribution">Wallace Stevens · <em>Final Soliloquy of the Interior Paramour</em> (CP 524)</div>
 
   <!-- Sub-navigation -->
-  <div class="comp-nav">
+  <div class="comp-nav" id="compendium-subnav">
     <button class="comp-btn active" onclick="switchComp('preamble', this)">Preamble</button>
     <button class="comp-btn" onclick="switchComp('presidency', this)">I · Presidency</button>
     <button class="comp-btn" onclick="switchComp('entrapment', this)">II · Entrapment</button>
@@ -938,7 +1315,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <!-- PRESIDENCY -->
   <div id="comp-presidency" class="comp-panel">
-    <h2>Part I — The Council Presidency: Legal Basis</h2>
+    <h2 id="comp-presidency-heading">Part I — The Council Presidency: Legal Basis</h2>
     <p>The rotation of the Presidency is governed by <strong>Article 16(9) TEU</strong> and <strong>Article 236 TFEU</strong>. The current specific order was established by <strong>Council Decision (EU) 2016/1316</strong>, revised following the United Kingdom's withdrawal from the European Union.</p>
 
     <h3>Rotation Schedule 2024–2030</h3>
@@ -968,7 +1345,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <!-- ENTRAPMENT -->
   <div id="comp-entrapment" class="comp-panel">
-    <h2>Part II — Structural Entrapment: The Presidency as Accountability Dissolution Mechanism</h2>
+    <h2 id="comp-entrapment-heading">Part II — Structural Entrapment: The Presidency as Accountability Dissolution Mechanism</h2>
 
     <div class="callout red">
       <span class="callout-title">The Temporal Trap</span>
@@ -993,7 +1370,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <!-- STAKEHOLDERS -->
   <div id="comp-stakeholders" class="comp-panel">
-    <h2>Part III — Compendium of Stakeholders</h2>
+    <h2 id="comp-stakeholders-heading">Part III — Compendium of Stakeholders</h2>
 
     <div class="actor-group">
       <div class="actor-group-header">Tier I — The Constituent: Individual Citizens</div>
@@ -1063,7 +1440,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <!-- PRECEDENT -->
   <div id="comp-precedent" class="comp-panel">
-    <h2>Part IV — The Precedent Argument: Every Member State</h2>
+    <h2 id="comp-precedent-heading">Part IV — The Precedent Argument: Every Member State</h2>
 
     <div class="cjeu-box">
       <blockquote><p>"Can a Member State indefinitely avoid acting on risks it has acknowledged, without legal or institutional consequence?"</p></blockquote>
@@ -1091,7 +1468,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <!-- POLITICAL MAP -->
   <div id="comp-polmap" class="comp-panel">
-    <h2>Part V — Political Map by Member State Category</h2>
+    <h2 id="comp-polmap-heading">Part V — Political Map by Member State Category</h2>
     <p>The precedent is not received uniformly across the Union. It lands differently in Berlin than in Budapest, in Tallinn than in Athens. Constitutional tradition, recent experience of EU enforcement, digital sovereignty exposure, and historical memory of institutional failure all shape how this case is read.</p>
 
     <div class="cat-grid">
@@ -1160,7 +1537,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <!-- SYNTHESIS -->
   <div id="comp-synthesis" class="comp-panel">
-    <h2>Synthesis</h2>
+    <h2 id="comp-synthesis-heading">Synthesis</h2>
     <blockquote>
       <p>Across all six categories, the entry points differ. The structural question does not. Whether approached as doctrine, administration, politics, history, accession equity, or data sovereignty, the same unresolved proposition remains: can acknowledgment substitute for action within a supranational legal order?</p>
     </blockquote>
@@ -1198,7 +1575,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <!-- LEGAL SUMMARY -->
   <div id="comp-legal" class="comp-panel">
-    <h2>Summary of Legal Issues</h2>
+    <h2 id="comp-legal-heading">Summary of Legal Issues</h2>
     <p>Four distinct legal issues emerge, each standing independently and each compounding the others.</p>
 
     <div class="legal-issue">
@@ -1245,7 +1622,7 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
 
   <!-- REPOSITORIES -->
   <div id="comp-repos" class="comp-panel">
-    <h2>Repository Index</h2>
+    <h2 id="comp-repos-heading">Repository Index</h2>
     <p>All materials are structured to be accessible to AI-assisted research tools, ensuring transparency and ease of review across jurisdictions.</p>
     <div class="repo-list">
       <div class="repo-item"><span class="repo-icon">GH</span><a class="repo-url" href="https://github.com/dr-crunch/nullification-loops" target="_blank">github.com/dr-crunch/nullification-loops</a><span class="repo-desc">Primary: Nullification loop documentation</span></div>
@@ -1274,6 +1651,28 @@ tfoot td { font-family: var(--mono); font-size: 0.75rem; font-weight: 500; paddi
     </div>
   </div>
 
+  <!-- HOT-BUTTON: Compendium -->
+  <div class="hot-panel" id="compendium-hotpanel">
+    <div class="hot-panel-label">Master semantic surface</div>
+    <div class="hot-buttons">
+      <a class="hot-btn hb-grape" href="https://dr-wojak.github.io/redundancy-awareness/semantic-map.html">
+        <span class="hot-btn-icon">🜀</span>Semantic Map · Full Corpus Navigator
+      </a>
+      <a class="hot-btn hb-dragonfly" href="https://dr-crunch.github.io/redundancy-awareness/deontological-differences.html">
+        <span class="hot-btn-icon">⬡</span>Deontological Differences · OWL Dissemination Ontology
+      </a>
+      <a class="hot-btn hb-gold" href="https://dr-crunch.github.io/nullification-loops/tairiscint.html" target="_blank">
+        <span class="hot-btn-icon">⚖</span>Tairiscint Mheinhardt · Six Charges
+      </a>
+      <a class="hot-btn hb-sherwood" href="https://drive.google.com/drive/u/0/folders/12o4-OPXJ0W5E8pxF9pN-VKUeODagy17g" target="_blank">
+        <span class="hot-btn-icon">📁</span>Drive · Master Document Repository
+      </a>
+      <a class="hot-btn hb-scarlet" href="https://dr-wojak.github.io/start-here/" target="_blank">
+        <span class="hot-btn-icon">→</span>Start Here · Corpus Entry Point
+      </a>
+    </div>
+  </div>
+
 </div><!-- end tab-compendium -->
 
 <script>
@@ -1282,7 +1681,7 @@ function switchTab(id, btn) {
   document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   document.getElementById('tab-' + id).classList.add('active');
-  btn.classList.add('active');
+  if (btn) btn.classList.add('active');
   const navTop = document.getElementById('tabnav').offsetTop;
   window.scrollTo({ top: navTop - 2, behavior: 'smooth' });
 }
@@ -1301,17 +1700,35 @@ function switchComp(id, btn) {
   btn.classList.add('active');
 }
 
-// ── Sticky offsets ──
+// ── Sticky offsets: ecosystem nav + masthead + tabnav stack ──
 function updateOffsets() {
+  const ecosys  = document.getElementById('ecosystem-nav');
   const masthead = document.getElementById('masthead');
   const tabnav   = document.getElementById('tabnav');
-  const mh = masthead.offsetHeight;
-  masthead.style.top = '0px';
-  tabnav.style.top   = mh + 'px';
+  const eh = ecosys ? ecosys.offsetHeight : 0;
+  masthead.style.top = eh + 'px';
+  tabnav.style.top   = (eh + masthead.offsetHeight) + 'px';
 }
 
 updateOffsets();
 window.addEventListener('resize', updateOffsets);
+
+// ── Deep-link support: ?tab=loop or ?tab=loop#loop-jcpp-comparison ──
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const tab = params.get('tab');
+  if (tab) {
+    const btn = document.querySelector('[onclick*="switchTab(\'' + tab + '\'"]');
+    if (btn) switchTab(tab, btn);
+  }
+  // Hash-based: dossier.html#tab-evidence
+  const hash = window.location.hash;
+  if (hash && hash.startsWith('#tab-')) {
+    const id = hash.replace('#tab-', '');
+    const btn = document.querySelector('[onclick*="switchTab(\'' + id + '\'"]');
+    if (btn) switchTab(id, btn);
+  }
+})();
 </script>
 
 </body>
