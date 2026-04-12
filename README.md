@@ -212,7 +212,7 @@ When the committee specifically charged with oversight of petition mechanisms re
 
 *The Systemic Nullification Loop*  
 
-Web Portal: [https://dr-crunch.github.io/nullification-loops/compendium/index.html](Scátháin agus Splanc)
+Web Portal: https://dr-crunch.github.io/nullification-loops/compendium/index.html
 
 The correspondence confirms that this is indeed a "complicated problem" characterised by **multiple fissures** that have converged into what is described as a **systemic nullification loop**. The analysis suggests that, because these issues are epistemically linked, they cannot be resolved in isolation, and the petitioner is pursuing **parallel tracks** for a comprehensive resolution.  
 
