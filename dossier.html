@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
+<link rel="icon" type="image/png" href="pigeon-moon-yarn.png" sizes="any">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="pigeon-moon-yarn.png" sizes="any">
     <title>Nullification Loops — Dossier 2006–2026</title>
     <meta name="description" content="Full evidentiary record of institutional silence, phainocracy, and procedural nullification loops in Ireland 2006–2026.">
 
@@ -735,6 +737,46 @@ tfoot td {
 
 /* ═══ SCROLL SPY ════════════════════════════════════ */
 .anchor-link.active { color: var(--heather-dim); border-bottom-color: var(--heather-dim); }
+
+/* ═══ OVERSIGHT CHANNELS STRIP ══════════════════════ */
+.oversight-strip {
+  background: var(--limo-3);
+  border-bottom: 1px solid var(--limo-rule-hi);
+  padding: 0.85rem 2.5rem;
+}
+.oversight-strip-inner {
+  max-width: 1100px; margin: 0 auto;
+  display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;
+}
+.oversight-label {
+  font-family: var(--font-mono); font-size: 0.52rem; letter-spacing: 0.26em;
+  text-transform: uppercase; color: var(--nacre-4); opacity: 0.55;
+  flex-shrink: 0; padding-top: 0.15rem; white-space: nowrap;
+}
+.oversight-items {
+  display: flex; flex-wrap: wrap; gap: 0;
+  flex: 1; border: 1px solid var(--limo-rule-hi);
+}
+.oversight-item {
+  display: flex; align-items: baseline; gap: 0.5rem;
+  padding: 0.42rem 1rem; border-right: 1px solid var(--limo-rule);
+  font-family: var(--font-mono); font-size: 0.57rem; letter-spacing: 0.04em;
+  flex: 1; min-width: 200px;
+}
+.oversight-item:last-child { border-right: none; }
+.oversight-emoji { flex-shrink: 0; font-size: 0.75rem; }
+.oversight-body { color: var(--nacre-3); line-height: 1.55; }
+.oversight-body strong { color: var(--nacre-2); font-weight: 500; }
+.oversight-silence .oversight-body strong { color: var(--rose-lt); }
+.oversight-declined .oversight-body strong { color: var(--gold-lt); }
+.oversight-refused .oversight-body strong { color: var(--heather-lt); }
+
+@media (max-width: 700px) {
+  .oversight-strip { padding: 0.75rem 1.3rem; }
+  .oversight-strip-inner { flex-direction: column; gap: 0.6rem; }
+  .oversight-items { flex-direction: column; border: none; gap: 2px; }
+  .oversight-item { border-right: none; border: 1px solid var(--limo-rule); }
+}
 </style>
 </head>
 <body>
@@ -770,14 +812,39 @@ tfoot td {
       </div>
     </div>
     <div class="masthead-stats">
-      <div class="stat"><span class="stat-val gold">16</span><span class="stat-label">Documented Comms</span></div>
-      <div class="stat"><span class="stat-val">7</span><span class="stat-label">Committees Declined</span></div>
-      <div class="stat"><span class="stat-val rose">0</span><span class="stat-label">JCPP Responses</span></div>
-      <div class="stat"><span class="stat-val rose">0</span><span class="stat-label">Determinations (19 yrs)</span></div>
-      <div class="stat"><span class="stat-val heather">11</span><span class="stat-label">MEPs Non-Responsive</span></div>
+      <div class="stat"><span class="stat-val rose">0</span><span class="stat-label">Statutory Determinations · 19 Years</span></div>
+      <div class="stat"><span class="stat-val gold">18</span><span class="stat-label">JCPP Contacts · 0 Replies</span></div>
+      <div class="stat"><span class="stat-val gold">12</span><span class="stat-label">JCEUA Contacts · Declined, then Deleted</span></div>
+      <div class="stat"><span class="stat-val">7</span><span class="stat-label">Oireachtas Committees Declined</span></div>
+      <div class="stat"><span class="stat-val heather">1</span><span class="stat-label">Seanad Select — Refused · No Standing Order Cited</span></div>
     </div>
   </div>
 </header>
+
+<!-- OVERSIGHT CHANNELS STRIP -->
+<div class="oversight-strip">
+  <div class="oversight-strip-inner">
+    <span class="oversight-label">Oversight Channels</span>
+    <div class="oversight-items">
+      <div class="oversight-item oversight-silence">
+        <span class="oversight-emoji">🔇</span>
+        <span class="oversight-body"><strong>Joint Committee on Public Petitions</strong> — 18 Contacts · 0 Replies</span>
+      </div>
+      <div class="oversight-item oversight-declined">
+        <span class="oversight-emoji">🏛️</span>
+        <span class="oversight-body"><strong>Joint Committee on European Union Affairs</strong> — 12 Contact Points · Declined, then Deleted</span>
+      </div>
+      <div class="oversight-item oversight-declined">
+        <span class="oversight-emoji">🏛️</span>
+        <span class="oversight-body"><strong>6 Additional Oireachtas Committees</strong> Declined Jurisdiction</span>
+      </div>
+      <div class="oversight-item oversight-refused">
+        <span class="oversight-emoji">🔕</span>
+        <span class="oversight-body"><strong>Seanad Select Committee on EU Scrutiny</strong> — Submission Refused · No Standing Order Cited · No Statutory Basis Given</span>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- ANCHOR NAV -->
 <div class="anchor-nav-wrap" id="anchor-nav">
@@ -809,7 +876,7 @@ tfoot td {
   <h2>Normative Collapse</h2>
   <div class="callout red">
     <span class="callout-title">The Final Breakdown</span>
-    <p>When every Oireachtas committee systematically declines jurisdiction, the Clerk of the Dáil invokes unreviewable finality under section 8(3), and the Joint Committee on Public Petitions — specifically charged with petition oversight — maintains total institutional silence across 16 substantive communications spanning 8 months, the constitutional right of petition under Article 15.10 of <em>Bunreacht na hÉireann</em> has been nullified at its source.</p>
+    <p>When every Oireachtas committee systematically declines jurisdiction, the Clerk of the Dáil invokes unreviewable finality under section 8(3), and the Joint Committee on Public Petitions — specifically charged with petition oversight — maintains total institutional silence across 18 formally lodged communications, the constitutional right of petition under Article 15.10 of <em>Bunreacht na hÉireann</em> has been nullified at its source. The JCEUA received 12 contact points — declined jurisdiction once, then deleted formally received subsequent correspondence. Seven committees in aggregate have declined without transmitting the matter to any competent body.</p>
   </div>
 
   <h2>Core Statement</h2>
