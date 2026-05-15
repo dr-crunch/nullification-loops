@@ -349,6 +349,9 @@ tfoot td {
 .badge-silence { background: var(--rose-bg); color: var(--rose); border: 1px solid var(--rose-rule); }
 .badge-ack     { background: var(--ack-bg); color: var(--ack); border: 1px solid rgba(30,104,64,0.2); }
 .badge-pending { background: var(--pending-bg); color: var(--pending); border: 1px solid rgba(74,66,32,0.2); }
+.badge-limbo  { background: var(--heather-bg); color: var(--heather-dim); border: 1px solid var(--heather-rule); }
+.limbo-mark { font-family: var(--font-mono); font-size: 0.7rem; color: var(--heather-dim); vertical-align: super; margin-left: 0.15em; cursor: default; }
+.limbo-note { margin-top: 0.9rem; padding: 0.55rem 0.75rem; border-left: 2px solid var(--heather-rule); background: var(--heather-bg); font-size: 0.78rem; color: var(--heather-dim); font-family: var(--font-mono); letter-spacing: 0.03em; line-height: 1.55; }
 
 /* ═══ LOOP FLOW ═════════════════════════════════════ */
 .loop-flow {
@@ -876,7 +879,7 @@ tfoot td {
   <h2>Normative Collapse</h2>
   <div class="callout red">
     <span class="callout-title">The Final Breakdown</span>
-    <p>When every Oireachtas committee systematically declines jurisdiction, the Clerk of the Dáil invokes unreviewable finality under section 8(3), and the Joint Committee on Public Petitions — specifically charged with petition oversight — maintains total institutional silence across 18 formally lodged communications, the constitutional right of petition under Article 15.10 of <em>Bunreacht na hÉireann</em> has been nullified at its source. The JCEUA received 12 contact points — declined jurisdiction once, then deleted formally received subsequent correspondence. Seven committees in aggregate have declined without transmitting the matter to any competent body.</p>
+    <p>When every Oireachtas committee systematically declines jurisdiction, the Clerk of the Dáil invokes unreviewable finality under section 8(3), and the Joint Committee on Public Petitions — specifically charged with petition oversight — maintains total institutional silence across 18 formally lodged communications, the constitutional right of petition under Article 15.10 of <em>Bunreacht na hÉireann</em> has been nullified at its source. The JCEUA received 12 contact points — declined jurisdiction once, then deleted formally received subsequent correspondence. Eight committees in aggregate have declined or remain in limbo without transmitting the matter to any competent body.</p>
   </div>
 
   <h2>Core Statement</h2>
@@ -918,6 +921,8 @@ tfoot td {
     <span class="term-tag">nineteen years</span>
     <span class="term-tag">democratic accountability</span>
   </div>
+
+  <div class="limbo-note">&#x2731;&ensp;In limbo — acknowledged but unresolved: no reasoned determination, no referral, no further engagement on the merits. JCEUA (declined, then deleted subsequent correspondence) &middot; SSCEUST (refused remit without statutory reasoning) &middot; PAC (no response to date).</div>
 
   <div class="hot-panel">
     <div class="hot-panel-label">Traverse the corpus</div>
@@ -971,16 +976,18 @@ tfoot td {
   </div>
   <div class="loop-invariant">↺ Output invariant: no determination · loop resets · personnel change does not alter output · six Taoisigh · five governments</div>
 
-  <h2>What Six Committees Did vs What the JCPP Did</h2>
+  <h2>What Seven Committees Did vs What the JCPP Did</h2>
   <div class="compare-grid">
     <div class="compare-col">
-      <div class="compare-header">Six Committees — Procedurally Defensible (At Least Acknowledged)</div>
+      <div class="compare-header">Seven Committees — Procedurally Defensible (At Least Acknowledged)</div>
       <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Joint Committee on Defence and National Security <span class="ci-ref">S-2025-0174-DEF · 19 Sept 2025</span></span></div>
       <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Joint Committee on Justice, Home Affairs and Migration <span class="ci-ref">R2025 0106; R2025 0200</span></span></div>
       <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Committee on Budgetary Oversight <span class="ci-ref">S-2025-0087-BOC · 3 Oct 2025</span></span></div>
       <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Joint Committee on Finance, Public Expenditure <span class="ci-ref">S-2025-0207-FIN · 3 Oct 2025</span></span></div>
-      <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Joint Committee on European Union Affairs <span class="ci-ref">JCEUA-I-57 · 7 Oct 2025</span></span></div>
+      <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Joint Committee on European Union Affairs <span class="ci-ref">JCEUA-I-57 · 7 Oct 2025</span><span class="limbo-mark" title="In limbo — no referral, no further engagement">&#x2731;</span></span></div>
       <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Joint Committee on Foreign Affairs and Trade <span class="ci-ref">Ms. Yeates · 30 Oct 2025</span></span></div>
+      <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Seanad Select Committee on EU Scrutiny and Transparency <span class="ci-ref">SSCEUST-I-2026-074 · 14 Apr 2026</span><span class="limbo-mark" title="In limbo — determination refused, no statutory reasoning furnished">&#x2731;</span></span></div>
+      <div class="compare-item"><span class="badge badge-ack">Ack</span><span>Public Accounts Committee <span class="ci-ref">28 Apr 2026</span><span class="limbo-mark" title="In limbo — no response to date">&#x2731;</span></span></div>
     </div>
     <div class="compare-col silence">
       <div class="compare-header">JCPP — Procedurally Indefensible · Total Institutional Silence</div>
