@@ -321,13 +321,13 @@ What makes the Irish case significant is not that it happened in Ireland. It is 
 
 ### IV. The V4 Dimension
 
-The Visegrád Group — Czechia, Hungary, Poland, and Slovakia — is the most politically relevant sub-group for the precedent argument, for reasons that cut in two distinct directions.
+The Visegrád Group (Czechia, Hungary, Poland, and Slovakia) is the most politically relevant sub-group for the precedent argument, for reasons that cut in two distinct directions.
 
 **From a rule-of-law enforcement perspective**, all four V4 states have been subjects of Commission rule-of-law scrutiny, Article 7 TEU proceedings, or CJEU infringement actions in recent years. They have direct experience of what happens when the EU's accountability architecture is deployed against a member state — and direct experience of how durable resistance to that architecture can be when a government is sufficiently determined. The Irish case adds a new data point: that resistance need not be politically confrontational to be effective. A state can resist through procedural politeness — through serial declination, through the language of remit and protocol — and achieve the same outcome as open defiance, at a fraction of the reputational cost.
 
-**From a sovereigntist political perspective**, the argument that the Irish precedent _should_ be challenged — that the Commission and CJEU _should_ intervene to prevent acknowledgment-as-closure from becoming the operative norm — is an argument that resonates with pro-EU interlocutors across the V4, including within the Polish government under Donald Tusk and within Czech civil-society circles that have consistently supported stronger EU rule-of-law mechanisms. Tomio Okamura's role as President of the Czech Chamber of Deputies, and his explicit agenda of deepening V4 parliamentary cooperation, makes him a node for a different strand of the argument: that the erosion of accountability norms in any member state is a risk to the sovereignty of all others, because it undermines the shared legal architecture on which every state's own rights within the Union depend.
+**From a sovereigntist political perspective**, the argument that the Irish precedent _should_ be challenged —that the Commission and CJEU _should_ intervene to prevent acknowledgment-as-closure from becoming the operative norm — is an argument that resonates with pro-EU interlocutors across the V4, including within the Polish government under Donald Tusk and within Czech civil-society circles that have consistently supported stronger EU rule-of-law mechanisms. Tomio Okamura's role as President of the Czech Chamber of Deputies, and his explicit agenda of deepening V4 parliamentary cooperation, makes him a node for a different strand of the argument: that the erosion of accountability norms in any member state is a risk to the sovereignty of all others, because it undermines the shared legal architecture on which every state's own rights within the Union depend.
 
-The V4 is therefore not a monolithic audience for this argument but a bifurcated one — and both halves are reachable, through different framings of the same precedent.
+The V4 is therefore not a monolithic audience for this argument but a bifurcated one —and both halves are reachable, through different framings of the same precedent.
 
 ---
 
