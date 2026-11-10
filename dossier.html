@@ -2,24 +2,28 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Redirecting…</title>
+    <meta name="robots" content="noindex">
+    <title>Document moved</title>
 
     <script>
-        const destination =
-            "https://dr-bosch.github.io/nullification-loops/dossier.html";
+    (() => {
+        const target = new URL(
+            "https://dr-bosch.github.io/nullification-loops/dossier.html"
+        );
 
-        const fragment = window.location.hash;
-        const query = window.location.search;
+        target.search = window.location.search;
+        target.hash = window.location.hash;
 
-        window.location.replace(destination + query + fragment);
+        window.location.replace(target.href);
+    })();
     </script>
 </head>
 <body>
     <p>
-        This project has moved.
+        This document has moved.
         <a href="https://dr-bosch.github.io/nullification-loops/dossier.html">
-            Continue to the dossier
-        </a>.
+            Continue to the new dossier.
+        </a>
     </p>
 </body>
 </html>
