@@ -2,27 +2,40 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Redirecting…</title>
-
-    <!-- Immediate redirect -->
-    <meta http-equiv="refresh"
-          content="0; url=https://dr-bosch.github.io/nullification-loops/">
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Project relocated</title>
 
     <script>
-        window.location.replace("https://dr-bosch.github.io/nullification-loops/");
-    </script>
+    (() => {
+        const sourceHost = "dr-crunch.github.io";
+        const targetHost = "dr-bosch.github.io";
 
-    <link rel="canonical" href="https://dr-bosch.github.io/nullification-loops/">
+        const target = new URL(window.location.href);
+
+        if (target.hostname === sourceHost) {
+            target.hostname = targetHost;
+            target.protocol = "https:";
+        }
+
+        // Set the fallback destination dynamically.
+        window.addEventListener("DOMContentLoaded", () => {
+            document.getElementById("redirect-link").href =
+                target.href;
+        });
+
+        // Automatically redirect.
+        window.location.replace(target.href);
+    })();
+    </script>
 </head>
 <body>
-
-<p>
-    This project has moved.
-    If you are not redirected automatically,
-    <a href="https://dr-bosch.github.io/nullification-loops/">
-        click here
-    </a>.
-</p>
-
+    <p>
+        This project has moved.
+        If you are not redirected automatically,
+        <a id="redirect-link" href="#">
+            continue to the relocated page
+        </a>.
+    </p>
 </body>
 </html>
