@@ -1,25 +1,42 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Redirecting…</title>
 
-    <!-- Immediate redirect -->
-    <meta http-equiv="refresh"
-          content="0; url=https://dr-bosch.github.io/nullification-loops/dossier.html">
+    <link rel="canonical"
+          href="https://dr-bosch.github.io/nullification-loops/dossier.html">
 
     <script>
-        window.location.replace("https://dr-bosch.github.io/nullification-loops/dossier.html");
-    </script>
+        (function () {
+            const destination =
+                "https://dr-bosch.github.io/nullification-loops/dossier.html";
 
-    <link rel="canonical" href="https://dr-bosch.github.io/nullification-loops/dossier.html">
+            // Preserve query parameters and bookmark fragments
+            const suffix = window.location.search + window.location.hash;
+
+            const target = destination + suffix;
+
+            // Update fallback link
+            window.addEventListener("DOMContentLoaded", function () {
+                document.getElementById("redirect-link").href = target;
+            });
+
+            // Redirect without adding to browser history
+            window.location.replace(target);
+        })();
+    </script>
 </head>
 <body>
 
 <p>
     This project has moved.
     If you are not redirected automatically,
-    <a href="https://dr-bosch.github.io/nullification-loops/dossier.html">
+    <a id="redirect-link"
+       href="https://dr-bosch.github.io/nullification-loops/dossier.html">
         click here
     </a>.
 </p>
